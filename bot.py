@@ -8,6 +8,30 @@ import asyncio
 import sqlite3
 import logging
 import httpx
+import http.server
+import socketserver
+import threading
+import os
+
+def iniciar_servidor_ping():
+    class QuietHandler(http.server.SimpleHTTPRequestHandler):
+        def log_message(self, format, *args):
+            pass # Evita llenar la consola de Render con logs del ping
+        def do_GET(self):
+            self.send_response(200)
+            self.end_headers()
+            self.wfile.write(b"Bot activo")
+
+    def run_server():
+        puerto = int(os.environ.get("PORT", 8080))
+        with socketserver.TCPServer(("", puerto), QuietHandler) as httpd:
+            httpd.serve_forever()
+
+    # Ejecuta el servidor en un hilo secundario para no bloquear el bot de Telegram
+    threading.Thread(target=run_server, daemon=True).start()
+
+# Llama a esta función justo al inicio de tu bloque principal o antes de arrancar el bot:
+iniciar_servidor_ping()
 from telegram import Update
 from telegram.ext import ApplicationBuilder, ContextTypes, CommandHandler
 from telegram.error import BadRequest
