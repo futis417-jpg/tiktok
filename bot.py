@@ -22,7 +22,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Constantes, directorios físicos del bot y archivo de control
-TOKEN = os.getenv("8983502368:AAFtd-1q5L5vBP5eB62Z08RIZ1glqwZNoVk", "8398522835")
+TOKEN = os.getenv("8983502368:AAFtd-1q5L5vBP5eB62Z08RIZ1glqwZNoVk", "8983502368:AAFtd-1q5L5vBP5eB62Z08RIZ1glqwZNoVk")
 COOKIES_DIR = "cookies"
 BAD_COOKIES_DIR = "cookies_caducadas"
 PROXIES_FILE = "proxies.txt"
