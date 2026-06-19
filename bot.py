@@ -1,160 +1,118 @@
 import os
-import gc
 import re
+import sys
 import time
-import shutil
+import sqlite3
 import random
 import asyncio
-import sqlite3
 import logging
-import httpx
+import threading
 import http.server
 import socketserver
-import threading
-import os
+from pathlib import Path
 
-def iniciar_servidor_ping():
-    class QuietHandler(http.server.SimpleHTTPRequestHandler):
-        def log_message(self, format, *args):
-            pass # Evita llenar la consola de Render con logs del ping
-        def do_GET(self):
-            self.send_response(200)
-            self.end_headers()
-            self.wfile.write(b"Bot activo")
+import httpx
+from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
+from telegram.ext import (
+    Application,
+    CommandHandler,
+    MessageHandler,
+    CallbackQueryHandler,
+    ConversationHandler,
+    ContextTypes,
+    filters,
+)
 
-    def run_server():
-        puerto = int(os.environ.get("PORT", 8080))
-        with socketserver.TCPServer(("", puerto), QuietHandler) as httpd:
-            httpd.serve_forever()
-
-    # Ejecuta el servidor en un hilo secundario para no bloquear el bot de Telegram
-    threading.Thread(target=run_server, daemon=True).start()
-
-# Llama a esta función justo al inicio de tu bloque principal o antes de arrancar el bot:
-iniciar_servidor_ping()
-from telegram import Update
-from telegram.ext import ApplicationBuilder, ContextTypes, CommandHandler
-from telegram.error import BadRequest
-from playwright.async_api import async_playwright, TimeoutError as PlaywrightTimeout
+from playwright.async_api import async_playwright
 from playwright_stealth import stealth_async
 
-# Configuración avanzada de logging con niveles detallados para monitoreo en vivo
+# ==========================================
+# CONFIGURACIÓN GENERAL Y LOGGING
+# ==========================================
 logging.basicConfig(
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', 
-    level=logging.INFO
+    format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+    level=logging.INFO,
 )
 logger = logging.getLogger(__name__)
 
-# Constantes, directorios físicos del bot y archivo de control
-TOKEN = os.getenv("8983502368:AAFtd-1q5L5vBP5eB62Z08RIZ1glqwZNoVk", "8983502368:AAFtd-1q5L5vBP5eB62Z08RIZ1glqwZNoVk")
-COOKIES_DIR = "cookies"
-BAD_COOKIES_DIR = "cookies_caducadas"
-PROXIES_FILE = "proxies.txt"
-DB_FILE = "smm_bot.db"
+# Estados del flujo de conversación del Bot
+AWAITING_QUANTITY, AWAITING_LINK = range(2)
 
-# Asegurar de que existen todas las carpetas críticas para evitar excepciones de E/S
-os.makedirs(COOKIES_DIR, exist_ok=True)
-os.makedirs(BAD_COOKIES_DIR, exist_ok=True)
+DB_PATH = "smm_bot.db"
+COOKIES_DIR = Path("cookies")
+EXPIRED_COOKIES_DIR = Path("cookies_caducadas")
+PROXIES_FILE = Path("proxies.txt")
 
-# Lock de base de datos asíncrono para prevenir colisiones de lectura/escritura concurrente
+# Aseguramos la existencia de directorios básicos
+COOKIES_DIR.mkdir(exist_ok=True)
+EXPIRED_COOKIES_DIR.mkdir(exist_ok=True)
+if not PROXIES_FILE.exists():
+    PROXIES_FILE.touch()
+
+# Bloqueo global de base de datos para evitar colisiones asíncronas
 db_lock = asyncio.Lock()
 
-def init_db():
-    """Inicializa la base de datos local SQLite con esquemas robustos y tablas de rendimiento."""
-    try:
-        conn = sqlite3.connect(DB_FILE, timeout=15.0)
-        cursor = conn.cursor()
-        
-        # Tabla de seguimientos exitosos para prevenir duplicados
-        cursor.execute('''
-            CREATE TABLE IF NOT EXISTS seguimientos (
-                id INTEGER PRIMARY KEY AUTOINCREMENT,
-                target_url TEXT,
-                cookie_file TEXT,
-                timestamp DATETIME DEFAULT CURRENT_TIMESTAMP
-            )
-        ''')
-        
-        # Tabla de estado de salud de las cookies
-        cursor.execute('''
-            CREATE TABLE IF NOT EXISTS cookies_estado (
-                cookie_file TEXT PRIMARY KEY,
-                estado TEXT,
-                motivo TEXT,
-                timestamp DATETIME DEFAULT CURRENT_TIMESTAMP
-            )
-        ''')
+# Diccionarios multilingües para selectores de TikTok
+FOLLOW_KEYWORDS = ["follow", "seguir", "s'abonner", "seguir también", "follow back", "подписаться", "ติดตาม", "theo dõi", "suivre", "folgen", "takip et"]
+ALREADY_FOLLOWING_KEYWORDS = ["following", "siguiendo", "abonné", "mutual", "amigos", "message", "mensaje", "enviar mensaje", "messages", "сообщение", "ส่งข้อความ", "tin nhắn", "nachricht"]
 
-        # Tabla de rendimiento de proxies para priorizar las más rápidas y estables
-        cursor.execute('''
-            CREATE TABLE IF NOT EXISTS proxy_rendimiento (
-                proxy TEXT PRIMARY KEY,
-                exitos INTEGER DEFAULT 0,
-                fallos INTEGER DEFAULT 0,
-                latencia REAL DEFAULT 0.0
-            )
-        ''')
-        
-        # Crear índice de búsqueda rápida para evitar lentitud cuando la base de datos crezca
-        cursor.execute('CREATE INDEX IF NOT EXISTS idx_seguimientos_target ON seguimientos(target_url)')
-        conn.commit()
-        conn.close()
-        logger.info("Base de datos SQLite inicializada y optimizada correctamente.")
-    except Exception as e:
-        logger.error(f"Error crítico al inicializar la base de datos: {e}")
+# ==========================================
+# SERVIDOR WEB DE DIAGNÓSTICO (KEEP-ALIVE)
+# ==========================================
+def iniciar_servidor_ping():
+    """Levanta un servidor HTTP ligero para pasar el Health Check de Render en Web Services."""
+    class QuietHandler(http.server.SimpleHTTPRequestHandler):
+        def log_message(self, format, *args):
+            pass # Evitamos saturar los logs de Render
+        def do_GET(self):
+            self.send_response(200)
+            self.end_headers()
+            self.wfile.write(b"SMM Bot Activo y Corriendo")
 
-init_db()
+    def run_server():
+        port = int(os.environ.get("PORT", 8080))
+        logger.info(f"🛰️ Iniciando servidor web de diagnóstico en el puerto {port}")
+        try:
+            with socketserver.TCPServer(("", port), QuietHandler) as httpd:
+                httpd.serve_forever()
+        except Exception as e:
+            logger.error(f"Error al iniciar el servidor de ping: {e}")
 
-# Mapeo de diccionarios multilingües para detectar estados de seguimiento en cuentas de cualquier país
-FOLLOW_KEYWORDS = [
-    "seguir", "follow", "подписаться", "folgen", "suivre", "takip et", "ikuti", "ติดตาม", "siga", "s’abonner", "theo dõi", "متابعة"
-]
+    threading.Thread(target=run_server, daemon=True).start()
 
-ALREADY_FOLLOWING_KEYWORDS = [
-    "siguiendo", "following", "вы подписаны", "folgst du", "abonné", "takip ediliyor", "mengikuti", "กำลังติดตาม", "seguindo", "đang theo dõi", "يتابع"
-]
-
-MESSAGE_KEYWORDS = [
-    "mensaje", "message", "enviar mensaje", "сообщение", "nachricht", "direct", "pesan", "ข้อความ", "tin nhắn", "رسالة", "mesaj"
-]
-
-def parse_netscape_cookies(file_path):
-    """
-    Parsea archivos de cookies en formato Netscape (TXT) extraídos del bot checker de Telegram.
-    Filtra comentarios, metadatos informativos y sanitiza las variables de sesión de TikTok.
-    """
+# ==========================================
+# TRADUCTOR DE COOKIES NETSCAPE (.TXT -> DICT)
+# ==========================================
+def parsear_netscape_cookies(filepath: Path) -> list:
+    """Parsea archivos de cookies en formato Netscape (.txt) y los adapta a Playwright."""
     cookies = []
     try:
-        if not os.path.exists(file_path):
-            return None
-            
-        with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
-            for line in f:
-                line = line.strip()
-                # Ignorar comentarios, líneas vacías y metadatos que inserta el checker
-                if not line or line.startswith('#') or 'Simple Checker' in line or 'Username:' in line or 'Cookies:' in line:
-                    continue
-                
-                parts = line.split('\t')
-                # El estándar Netscape requiere entre 6 y 7 campos delimitados por tabulaciones
-                if len(parts) < 6:
-                    continue
+        with open(filepath, "r", encoding="utf-8", errors="ignore") as f:
+            content = f.read()
 
+        for line in content.splitlines():
+            line = line.strip()
+            # Ignoramos metadatos de checkers y comentarios tradicionales
+            if not line or line.startswith("#") or line.startswith("–") or line.startswith("Simple"):
+                continue
+            
+            parts = line.split("\t")
+            if len(parts) >= 7:
                 domain = parts[0]
-                # Asegurar que solo capturamos cookies legítimas del ecosistema de TikTok
                 if "tiktok.com" not in domain:
                     continue
                 
+                secure = parts[1].upper() == "TRUE"
                 path = parts[2]
-                secure = parts[3].upper() == "TRUE"
+                http_only = parts[3].upper() == "TRUE"
                 
                 try:
-                    expires = int(float(parts[4]))
+                    expires = float(parts[4])
                 except ValueError:
-                    expires = -1  # Marcar como cookie de sesión persistente si falla la conversión
+                    expires = -1.0
 
                 name = parts[5]
-                value = parts[6] if len(parts) > 6 else ""
+                value = parts[6]
 
                 cookies.append({
                     "name": name,
@@ -162,732 +120,646 @@ def parse_netscape_cookies(file_path):
                     "domain": domain,
                     "path": path,
                     "secure": secure,
+                    "httpOnly": http_only,
                     "expires": expires,
-                    "httpOnly": False
+                    "sameSite": "Lax"
                 })
+    except Exception as e:
+        logger.error(f"Error parseando cookies de {filepath.name}: {e}")
+    return cookies
+
+# ==========================================
+# GESTIÓN DE BASE DE DATOS SQLITE
+# ==========================================
+def inicializar_db():
+    """Crea las tablas de control si no existen."""
+    conn = sqlite3.connect(DB_PATH)
+    cursor = conn.cursor()
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS cookies (
+            id TEXT PRIMARY KEY,
+            username TEXT,
+            status TEXT DEFAULT 'active',
+            last_used TIMESTAMP
+        )
+    """)
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS tracking_seguimiento (
+            cookie_id TEXT,
+            target_profile TEXT,
+            followed_at TIMESTAMP,
+            PRIMARY KEY (cookie_id, target_profile)
+        )
+    """)
+    conn.commit()
+    conn.close()
+
+async def registrar_seguimiento(cookie_id: str, target: str):
+    async with db_lock:
+        conn = sqlite3.connect(DB_PATH)
+        cursor = conn.cursor()
+        cursor.execute(
+            "INSERT OR REPLACE INTO tracking_seguimiento VALUES (?, ?, ?)",
+            (cookie_id, target, time.strftime('%Y-%m-%d %H:%M:%S'))
+        )
+        conn.commit()
+        conn.close()
+
+async def obtener_cookies_disponibles(target_profile: str) -> list:
+    """Filtra y devuelve las cookies que no han seguido todavía a este perfil objetivo."""
+    async with db_lock:
+        conn = sqlite3.connect(DB_PATH)
+        cursor = conn.cursor()
+        # Buscamos archivos .txt reales en el directorio
+        archivos_cookies = [f.name for f in COOKIES_DIR.glob("*.txt")]
         
-        if not cookies:
-            logger.warning(f"No se pudieron extraer cookies válidas de: {file_path}")
-            return None
-            
-        return {"cookies": cookies, "origins": []}
-    except Exception as e:
-        logger.error(f"Fallo durante el procesamiento del archivo de cookies {file_path}: {e}")
-        return None
+        # Sincronizamos la base de datos con los archivos reales existentes
+        for archivo in archivos_cookies:
+            cursor.execute("INSERT OR IGNORE INTO cookies (id, status) VALUES (?, 'active')", (archivo,))
+        conn.commit()
 
-def load_proxies():
-    """Carga de forma dinámica y resiliente las proxies desde el archivo proxies.txt."""
-    if not os.path.exists(PROXIES_FILE):
-        with open(PROXIES_FILE, 'w') as f:
-            f.write("# Introduce tus proxies (socks5://IP:PUERTO), uno por línea\n")
-        return []
-    
-    proxies = []
-    try:
-        with open(PROXIES_FILE, 'r') as f:
-            for line in f:
-                line = line.strip()
-                if line and not line.startswith('#'):
-                    # Corregir de forma automática si carecen de protocolo explícito
-                    if not (line.startswith("socks5://") or line.startswith("http://") or line.startswith("https://")):
-                        line = f"socks5://{line}"
-                    proxies.append(line)
-        return proxies
-    except Exception as e:
-        logger.error(f"Error al leer la lista de proxies: {e}")
-        return []
+        # Seleccionamos las que estén marcadas como activas y que no existan en el historial de este perfil
+        cursor.execute("""
+            SELECT id FROM cookies 
+            WHERE status = 'active' 
+            AND id NOT IN (
+                SELECT cookie_id FROM tracking_seguimiento WHERE target_profile = ?
+            )
+            ORDER BY last_used ASC
+        """, (target_profile,))
+        
+        filas = cursor.fetchall()
+        conn.close()
+        return [f[0] for f in filas]
 
-def get_random_fingerprint():
-    """Genera huellas digitales dinámicas emparejando agentes de usuario con pantallas lógicas reales."""
+async def marcar_cookie_estado(cookie_id: str, estado: str):
+    async with db_lock:
+        conn = sqlite3.connect(DB_PATH)
+        cursor = conn.cursor()
+        cursor.execute(
+            "UPDATE cookies SET status = ?, last_used = ? WHERE id = ?",
+            (estado, time.strftime('%Y-%m-%d %H:%M:%S'), cookie_id)
+        )
+        conn.commit()
+        conn.close()
+
+# ==========================================
+# RUTINA DE REDIRECCIÓN DE ENLACES
+# ==========================================
+async def resolver_enlace_tiktok(url_original: str) -> str:
+    """Resuelve enlaces tipo vm.tiktok.com o vt.tiktok.com a sus URLs reales de escritorio."""
+    if "tiktok.com" not in url_original:
+        return url_original
+    if any(pattern in url_original for pattern in ["vm.tiktok.com", "vt.tiktok.com", "v.tiktok.com"]):
+        try:
+            async with httpx.AsyncClient(follow_redirects=True, timeout=10.0) as client:
+                headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+                response = await client.head(url_original, headers=headers)
+                url_limpia = str(response.url).split("?")[0]
+                return url_limpia
+        except Exception as e:
+            logger.error(f"Error resolviendo redirección de enlace: {e}")
+    return url_original
+
+# ==========================================
+# MOTOR DE AUTOMATIZACIÓN (PLAYWRIGHT)
+# ==========================================
+async def realizar_seguimiento_individual(cookie_id: str, target_url: str, proxy: str) -> bool:
+    """Abre el navegador con Playwright, inyecta cookies, navega y realiza el seguimiento."""
+    cookies_list = parsear_netscape_cookies(COOKIES_DIR / cookie_id)
+    if not cookies_list:
+        logger.warning(f"La cookie {cookie_id} está vacía o corrupta.")
+        await marcar_cookie_estado(cookie_id, "dead")
+        mover_cookie_caducada(cookie_id)
+        return False
+
+    # Configuración de proxies para Playwright
+    proxy_opt = None
+    if proxy:
+        proxy_opt = {"server": proxy}
+
+    # Spoofing de User Agent aleatorio
     user_agents = [
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
-        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15",
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0"
     ]
-    viewports = [
-        {"width": 1366, "height": 768},
-        {"width": 1920, "height": 1080},
-        {"width": 1440, "height": 900},
-        {"width": 1536, "height": 864}
-    ]
-    return random.choice(user_agents), random.choice(viewports)
 
-async def resolve_tiktok_url(url: str) -> str:
-    """
-    Resuelve de forma asíncrona redirecciones móviles de TikTok (como vm.tiktok.com / vt.tiktok.com)
-    para obtener el enlace directo de perfil antes de lanzar instancias de Playwright.
-    """
-    clean_url = url.strip()
-    if "vm.tiktok.com" in clean_url or "vt.tiktok.com" in clean_url or "v.tiktok.com" in clean_url:
-        logger.info(f"Detectado enlace acortado/móvil. Resolviendo redirección para: {clean_url}")
+    async with async_playwright() as p:
+        browser = None
         try:
-            async with httpx.AsyncClient(follow_redirects=True, timeout=12.0) as client:
-                headers = {
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                }
-                response = await client.get(clean_url, headers=headers)
-                resolved = str(response.url).split("?")[0].rstrip("/")
-                logger.info(f"Redirección resuelta con éxito: {resolved}")
-                return resolved
-        except Exception as e:
-            logger.error(f"No se pudo resolver el enlace móvil de TikTok: {e}. Se usará el original.")
-    return clean_url.split("?")[0].rstrip("/")
-
-async def perform_action(proxy, cookie_path, target_url, semaphore):
-    """
-    Ejecuta de manera segura la apertura de sesión, validación de estado,
-    esquiva de sistemas anti-bot, localización de idiomas y seguimiento físico.
-    """
-    async with semaphore:
-        async with async_playwright() as p:
-            # Configuración super-optimizada de Chromium para entornos con RAM limitada
+            # OPTIMIZACIONES CRÍTICAS PARA DOCKER/RENDER:
+            # --disable-dev-shm-usage evita congelamientos por límite de memoria compartida en contenedores
+            # --disable-gpu ahorra consumo de procesamiento en servidores sin tarjeta gráfica
             browser = await p.chromium.launch(
                 headless=True,
                 args=[
-                    '--no-sandbox',
-                    '--disable-setuid-sandbox',
-                    '--disable-gpu',
-                    '--disable-dev-shm-usage',
-                    '--single-process',
-                    '--no-first-run',
-                    '--disable-extensions'
+                    "--no-sandbox",
+                    "--disable-setuid-sandbox",
+                    "--disable-dev-shm-usage",
+                    "--disable-gpu",
+                    "--disable-blink-features=AutomationControlled"
                 ]
             )
             
-            cookie_data = parse_netscape_cookies(cookie_path)
-            if not cookie_data:
-                await browser.close()
-                return False, "Estructura de cookies inválida o vacía.", None, False
-
-            proxy_config = {"server": proxy} if proxy else None
-            user_agent, viewport = get_random_fingerprint()
-            
-            try:
-                # Forzamos la configuración regional e idioma en inglés para unificar la interfaz de TikTok
-                context = await browser.new_context(
-                    proxy=proxy_config,
-                    storage_state=cookie_data,
-                    viewport=viewport,
-                    user_agent=user_agent,
-                    locale="en-US",
-                    timezone_id="America/New_York",
-                    extra_http_headers={"Accept-Language": "en-US,en;q=0.9"}
-                )
-                
-                page = await context.new_page()
-                await stealth_async(page)
-                page.set_default_timeout(20000)
-                
-                filename_base = os.path.basename(cookie_path)
-                logger.info(f"Abriendo perfil destino con la cuenta localizada: {filename_base}")
-                
-                await page.goto(target_url, wait_until="domcontentloaded")
-                await asyncio.sleep(random.uniform(2.5, 4.0))
-                
-                # --- SISTEMA DE VERIFICACIÓN DE SESIÓN ---
-                login_btn = await page.query_selector('button[data-e2e="top-login-button"]')
-                if login_btn:
-                    screenshot_file = f"expirada_{int(time.time())}.png"
-                    await page.screenshot(path=screenshot_file, full_page=True)
-                    await browser.close()
-                    return False, "La sesión ha caducado (Requiere Login)", screenshot_file, True
-
-                # --- CONTROL DE CAPTCHAS EN PANTALLA ---
-                captcha_detected = False
-                captcha_selectors = ['#captcha-container', '.captcha_verify_container', 'div[class*="captcha"]', 'iframe[src*="captcha"]']
-                for sel in captcha_selectors:
-                    if await page.query_selector(sel):
-                        captcha_detected = True
-                        break
-                        
-                if captcha_detected:
-                    screenshot_file = f"captcha_{int(time.time())}.png"
-                    await page.screenshot(path=screenshot_file, full_page=True)
-                    await browser.close()
-                    return False, "Bloqueado temporalmente por CAPTCHA de TikTok.", screenshot_file, False
-
-                # --- ANÁLISIS MULTILINGÜE DE RELACIÓN EXISTENTE ---
-                page_content_lower = (await page.content()).lower()
-                already_following = False
-
-                # 1. Analizar si existe un botón de mensajería privada (prueba definitiva de seguimiento mutuo/existente)
-                for key_msg in MESSAGE_KEYWORDS:
-                    if f'has-text("{key_msg}")' in page_content_lower or key_msg in page_content_lower:
-                        # Buscar si el botón de mensaje existe en la interfaz visible
-                        msg_btn = await page.query_selector('button:has-text("{}")'.format(key_msg.capitalize()))
-                        if msg_btn:
-                            already_following = True
-                            break
-
-                # 2. Comprobar si el estado actual es de suscripción activa usando keywords internacionales
-                for key_f in ALREADY_FOLLOWING_KEYWORDS:
-                    if key_f in page_content_lower:
-                        already_following = True
-                        break
-
-                if already_following:
-                    logger.info(f"Omitiendo: {filename_base} ya sigue al objetivo (Detectado por heurística multilingüe).")
-                    await browser.close()
-                    return True, None, None, False
-
-                # --- ÁRBOL DE DECISIÓN MULTI-SELECTOR DE SEGUIMIENTO MULTIPATRIA ---
-                follow_button = None
-                
-                # Intentamos primero con selectores estructurales globales (data-e2e, clases comunes, etc.)
-                structural_selectors = [
-                    '[data-e2e="follow-button"]',
-                    'button[class*="FollowButton"]',
-                    'div[role="button"][class*="follow"]',
-                    '.follow-button'
-                ]
-                
-                for sel in structural_selectors:
-                    try:
-                        element = await page.wait_for_selector(sel, timeout=2500, state="visible")
-                        if element:
-                            follow_button = element
-                            break
-                    except PlaywrightTimeout:
-                        continue
-
-                # Fallback: Si los estructurales fallan, buscamos de manera dinámica según el idioma del botón en pantalla
-                if not follow_button:
-                    for key_btn in FOLLOW_KEYWORDS:
-                        selectors_fallback = [
-                            f'button:has-text("{key_btn.capitalize()}")',
-                            f'button:has-text("{key_btn.lower()}")',
-                            f'div[role="button"]:has-text("{key_btn.capitalize()}")',
-                            f'div[role="button"]:has-text("{key_btn.lower()}")'
-                        ]
-                        for f_sel in selectors_fallback:
-                            try:
-                                element = await page.wait_for_selector(f_sel, timeout=1000, state="visible")
-                                if element:
-                                    follow_button = element
-                                    break
-                            except PlaywrightTimeout:
-                                continue
-                        if follow_button:
-                            break
-
-                # --- SIMULACIÓN DE CLIC RESIDENCIAL ---
-                if follow_button:
-                    # Scroll leve imitando navegación humana antes de pulsar
-                    await page.evaluate("window.scrollBy(0, window.innerHeight / 4)")
-                    await asyncio.sleep(random.uniform(0.6, 1.4))
-                    
-                    box = await follow_button.bounding_box()
-                    if box:
-                        await page.mouse.move(box["x"] + box["width"]/2, box["y"] + box["height"]/2)
-                        await asyncio.sleep(random.uniform(0.1, 0.4))
-                        await page.mouse.click(box["x"] + box["width"]/2, box["y"] + box["height"]/2)
-                    else:
-                        await follow_button.click()
-                        
-                    await asyncio.sleep(random.uniform(3.5, 5.0))
-
-                    # --- VERIFICACIÓN DE CONTROL POST-ACCIÓN ---
-                    button_text_after = (await follow_button.inner_text()).lower()
-                    
-                    # Comprobamos si el botón cambió a un estado de "Siguiendo" o "Mensaje" en cualquier idioma
-                    action_confirmed = False
-                    for key_ok in ALREADY_FOLLOWING_KEYWORDS + MESSAGE_KEYWORDS:
-                        if key_ok in button_text_after:
-                            action_confirmed = True
-                            break
-                    
-                    if not action_confirmed:
-                        # Fallback 2: Intentar forzar inyección Javascript directa de emergencia
-                        logger.warning("Verificación fallida. Forzando inyección Javascript de emergencia...")
-                        await page.evaluate('(el) => el.click()', follow_button)
-                        await asyncio.sleep(3.5)
-                        
-                        button_text_retry = (await follow_button.inner_text()).lower()
-                        retry_confirmed = False
-                        for key_ok in ALREADY_FOLLOWING_KEYWORDS + MESSAGE_KEYWORDS:
-                            if key_ok in button_text_retry:
-                                retry_confirmed = True
-                                break
-                        
-                        if not retry_confirmed:
-                            screenshot_file = f"limite_{int(time.time())}.png"
-                            await page.screenshot(path=screenshot_file, full_page=True)
-                            await browser.close()
-                            return False, "Acción de seguir denegada (Límite Diario excedido o cuenta bloqueada).", screenshot_file, False
-
-                    # Éxito de la operación. Actualizamos rendimiento del proxy usado
-                    if proxy:
-                        async with db_lock:
-                            try:
-                                conn = sqlite3.connect(DB_FILE, timeout=5.0)
-                                cursor = conn.cursor()
-                                cursor.execute(
-                                    "INSERT OR REPLACE INTO proxy_rendimiento (proxy, exitos, fallos) VALUES (?, COALESCE((SELECT exitos FROM proxy_rendimiento WHERE proxy=?)+1, 1), COALESCE((SELECT fallos FROM proxy_rendimiento WHERE proxy=?), 0))",
-                                    (proxy, proxy, proxy)
-                                )
-                                conn.commit()
-                                conn.close()
-                            except Exception as dberr:
-                                logger.error(f"Fallo al registrar éxito de proxy: {dberr}")
-
-                    await browser.close()
-                    return True, None, None, False
-                else:
-                    screenshot_file = f"no_btn_{int(time.time())}.png"
-                    await page.screenshot(path=screenshot_file, full_page=True)
-                    await browser.close()
-                    return False, "No se localizó el botón de Seguir en ningún idioma.", screenshot_file, False
-
-            except Exception as e:
-                screenshot_file = f"error_sistema_{int(time.time())}.png"
-                try:
-                    await page.screenshot(path=screenshot_file, full_page=True)
-                except Exception:
-                    screenshot_file = None
-                
-                await browser.close()
-                error_msg = str(e)
-                is_network_error = "net::" in error_msg or "Timeout" in error_msg or "proxy" in error_msg.lower() or "DNS_" in error_msg
-                
-                if proxy:
-                    async with db_lock:
-                        try:
-                            conn = sqlite3.connect(DB_FILE, timeout=5.0)
-                            cursor = conn.cursor()
-                            cursor.execute(
-                                "INSERT OR REPLACE INTO proxy_rendimiento (proxy, exitos, fallos) VALUES (?, COALESCE((SELECT exitos FROM proxy_rendimiento WHERE proxy=?), 0), COALESCE((SELECT fallos FROM proxy_rendimiento WHERE proxy=?)+1, 1))",
-                                (proxy, proxy, proxy)
-                            )
-                            conn.commit()
-                            conn.close()
-                        except Exception as dberr:
-                            logger.error(f"Fallo al registrar error de proxy: {dberr}")
-
-                return False, f"Fallo de conexión o timeout: {error_msg[:45]}...", screenshot_file, is_network_error
-            finally:
-                gc.collect()
-
-async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    """Manejador del comando inicial /start del panel de control de Telegram."""
-    welcome_msg = (
-        "👑 *Ishak SMM Control Center - V3 ULTIMATE* 👑\n\n"
-        "Sistema de automatización masiva con soporte de cookies multilingües, "
-        "detección de estado global y rotación inteligente de proxies.\n\n"
-        "⚡ *Comandos Disponibles:*\n"
-        "👉 `/follow <link_tiktok> <cantidad>` - Iniciar envío inteligente\n"
-        "👉 `/check` - Verificar salud de todas tus cookies en segundo plano\n"
-        "👉 `/proxycheck` - Benchmarking de latencia y estado de tus proxies\n"
-        "👉 `/report` - Reporte analítico de rendimiento global\n"
-        "👉 `/stats` - Métricas rápidas de inventario\n"
-        "👉 `/clean` - Purga del historial de errores"
-    )
-    await update.message.reply_text(welcome_msg, parse_mode='Markdown')
-
-async def stats_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    """Muestra estadísticas rápidas, conteo de cookies saludables y muertas."""
-    cookies_validas = len([f for f in os.listdir(COOKIES_DIR) if f.endswith(".txt")])
-    cookies_muertas = len([f for f in os.listdir(BAD_COOKIES_DIR) if f.endswith(".txt")])
-    proxies_totales = len(load_proxies())
-    
-    async with db_lock:
-        try:
-            conn = sqlite3.connect(DB_FILE, timeout=10.0)
-            cursor = conn.cursor()
-            cursor.execute("SELECT COUNT(DISTINCT target_url) FROM seguimientos")
-            objetivos_totales = cursor.fetchone()[0]
-            cursor.execute("SELECT COUNT(*) FROM seguimientos")
-            total_hits = cursor.fetchone()[0]
-            conn.close()
-        except Exception as e:
-            logger.error(f"Error consultando estadísticas en DB: {e}")
-            objetivos_totales, total_hits = 0, 0
-
-    stats_msg = (
-        "📊 *Ishak SMM - Inventario Operacional* 📊\n\n"
-        f"🎯 *Perfiles Procesados:* `{objetivos_totales}`\n"
-        f"✅ *Hits Exitosos:* `{total_hits}` follows verificados\n\n"
-        f"📂 *Inventario de Cuentas:*\n"
-        f"🟢 *Cuentas Activas:* `{cookies_validas}`\n"
-        f"🔴 *Cuentas Expiradas:* `{cookies_muertas}`\n"
-        f"🌐 *Proxies Registradas:* `{proxies_totales}`"
-    )
-    await update.message.reply_text(stats_msg, parse_mode='Markdown')
-
-async def check_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    """Ejecuta una verificación de salud asíncrona de todas las cookies cargadas sin ejecutar follows."""
-    todas_cookies = [f for f in os.listdir(COOKIES_DIR) if f.endswith(".txt")]
-    if not todas_cookies:
-        await update.message.reply_text("❌ No hay archivos de cookies `.txt` en la carpeta `cookies/`.")
-        return
-
-    status_msg = await update.message.reply_text(f"🔍 *Iniciando diagnóstico asíncrono de {len(todas_cookies)} cookies...*", parse_mode='Markdown')
-    
-    proxies = load_proxies()
-    semaphore = asyncio.Semaphore(2)  # Verificación paralela regulada para no agotar recursos
-    correctas = 0
-    erroneas = 0
-
-    async def verify_cookie_task(idx, cookie_file):
-        nonlocal correctas, erroneas
-        cookie_path = os.path.join(COOKIES_DIR, cookie_file)
-        proxy = proxies[idx % len(proxies)] if proxies else None
-        
-        async with semaphore:
-            async with async_playwright() as p:
-                browser = await p.chromium.launch(headless=True, args=['--no-sandbox', '--disable-gpu', '--single-process'])
-                cookie_data = parse_netscape_cookies(cookie_path)
-                if not cookie_data:
-                    erroneas += 1
-                    await browser.close()
-                    return
-
-                try:
-                    user_agent, viewport = get_random_fingerprint()
-                    ctx = await browser.new_context(
-                        proxy={"server": proxy} if proxy else None, 
-                        storage_state=cookie_data, 
-                        user_agent=user_agent, 
-                        viewport=viewport,
-                        locale="en-US"
-                    )
-                    page = await ctx.new_page()
-                    page.set_default_timeout(15000)
-                    
-                    await page.goto("https://www.tiktok.com/foryou", wait_until="domcontentloaded")
-                    await asyncio.sleep(2.0)
-                    
-                    login_btn = await page.query_selector('button[data-e2e="top-login-button"]')
-                    if login_btn:
-                        erroneas += 1
-                        try:
-                            shutil.move(cookie_path, os.path.join(BAD_COOKIES_DIR, cookie_file))
-                        except Exception:
-                            pass
-                    else:
-                        correctas += 1
-                except Exception:
-                    erroneas += 1
-                finally:
-                    await browser.close()
-
-    tasks = [asyncio.create_task(verify_cookie_task(i, file)) for i, file in enumerate(todas_cookies)]
-    await asyncio.gather(*tasks)
-
-    await status_msg.edit_text(
-        f"🏁 *Diagnóstico de Cookies Finalizado* 🏁\n\n"
-        f"🟢 *Cuentas Operativas (Sanas):* `{correctas}`\n"
-        f"🔴 *Cuentas Expiradas (Movidas):* `{erroneas}`\n\n"
-        f"_Nota: Las cuentas marcadas como muertas se han movido automáticamente a la carpeta `/cookies_caducadas`._",
-        parse_mode='Markdown'
-    )
-
-async def proxy_check_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    """Comando asíncrono para testear de verdad la latencia y funcionamiento de cada proxy."""
-    proxies = load_proxies()
-    if not proxies:
-        await update.message.reply_text("❌ No se encontró el archivo `proxies.txt` o está vacío.")
-        return
-
-    status_msg = await update.message.reply_text(f"⚡ *Probando conexión y latencia de {len(proxies)} proxies contra TikTok...*", parse_mode='Markdown')
-    
-    funcionan = []
-    caidas = []
-
-    async def test_single_proxy(proxy):
-        try:
-            start_time = time.time()
-            async with httpx.AsyncClient(proxies={"all://": proxy}, timeout=6.0) as client:
-                response = await client.get("https://www.tiktok.com", headers={"User-Agent": "Mozilla/5.0"})
-                if response.status_code < 400:
-                    latencia = (time.time() - start_time) * 1000
-                    funcionan.append((proxy, latencia))
-                else:
-                    caidas.append(proxy)
-        except Exception:
-            caidas.append(proxy)
-
-    await asyncio.gather(*(test_single_proxy(p) for p in proxies))
-
-    # Guardar en base de datos el benchmark
-    async with db_lock:
-        try:
-            conn = sqlite3.connect(DB_FILE, timeout=5.0)
-            cursor = conn.cursor()
-            for proxy, lat in funcionan:
-                cursor.execute(
-                    "INSERT OR REPLACE INTO proxy_rendimiento (proxy, latencia) VALUES (?, ?)", (proxy, lat)
-                )
-            conn.commit()
-            conn.close()
-        except Exception as e:
-            logger.error(f"Error escribiendo benchmark en base de datos: {e}")
-
-    # Ordenar por menor latencia
-    funcionan.sort(key=lambda x: x[1])
-    report_text = f"🌐 *Benchmark de Red Completado* 🌐\n\n" \
-                  f"✅ *Proxies Optimizadas:* `{len(funcionan)}` funcionales\n" \
-                  f"❌ *Proxies Caídas:* `{len(caidas)}` sin respuesta\n\n"
-    
-    if funcionan:
-        report_text += "🚀 *Las 5 mejores proxies (Menor Latencia):*\n"
-        for p, lat in funcionan[:5]:
-            report_text += f"• `{p.split('://')[-1]}` → `{lat:.0f}ms` ⚡\n"
-            
-    await status_msg.edit_text(report_text, parse_mode='Markdown')
-
-async def report_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    """Genera un reporte analítico directamente desde la base de datos de rendimiento."""
-    async with db_lock:
-        try:
-            conn = sqlite3.connect(DB_FILE, timeout=10.0)
-            cursor = conn.cursor()
-            
-            cursor.execute("SELECT COUNT(*) FROM seguimientos")
-            total_hits = cursor.fetchone()[0]
-            
-            cursor.execute("SELECT COUNT(DISTINCT target_url) FROM seguimientos")
-            total_targets = cursor.fetchone()[0]
-
-            cursor.execute("SELECT cookie_file, COUNT(*) as c FROM seguimientos GROUP BY cookie_file ORDER BY c DESC LIMIT 5")
-            top_cuentas = cursor.fetchall()
-
-            cursor.execute("SELECT proxy, exitos, fallos, latencia FROM proxy_rendimiento ORDER BY exitos DESC, latencia ASC LIMIT 3")
-            top_proxies = cursor.fetchall()
-
-            conn.close()
-        except Exception as e:
-            logger.error(f"Error extrayendo reporte de DB: {e}")
-            await update.message.reply_text("❌ Error al acceder a los datos históricos.")
-            return
-
-    report_msg = (
-        "👑 *SMM Performance Dashboard* 👑\n\n"
-        f"📈 *Total Seguidos Completados:* `{total_hits}`\n"
-        f"🎯 *Perfiles Promocionados:* `{total_targets}`\n\n"
-        "👤 *Top 5 Cuentas Más Activas:*\n"
-    )
-    for index, (file, counts) in enumerate(top_cuentas, 1):
-        report_msg += f"{index}. `{file}` → `{counts} follows` ✅\n"
-    if not top_cuentas:
-        report_msg += "_Sin datos de uso aún._\n"
-
-    report_msg += "\n🌐 *Top 3 Proxies Más Robustas:*\n"
-    for index, (proxy, exitos, fallos, lat) in enumerate(top_proxies, 1):
-        clean_proxy = proxy.split("://")[-1]
-        report_msg += f"{index}. `{clean_proxy}` → `{exitos} OK` / `{fallos} ERR` ({lat:.0f}ms)\n"
-    if not top_proxies:
-        report_msg += "_Sin historial de red mapeado._\n"
-
-    await update.message.reply_text(report_msg, parse_mode='Markdown')
-
-async def clean_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    """Limpia registros de fallos temporales de cookies para reincorporación en el pool."""
-    async with db_lock:
-        try:
-            conn = sqlite3.connect(DB_FILE, timeout=10.0)
-            cursor = conn.cursor()
-            cursor.execute("DELETE FROM cookies_estado")
-            cursor.execute("DELETE FROM proxy_rendimiento")
-            conn.commit()
-            conn.close()
-            await update.message.reply_text("🧼 *Limpieza ejecutada:* Se ha reseteado el historial de cookies fallidas de la base de datos.", parse_mode='Markdown')
-        except Exception as e:
-            await update.message.reply_text(f"❌ Error al limpiar base de datos: {e}")
-
-async def follow_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    """
-    Controlador maestro de campañas. Distribuye el trabajo entre múltiples browsers simultáneos,
-    evitando duplicidades de uso de cookies en el mismo target y rotando proxies en caso de fallo.
-    """
-    if len(context.args) < 2:
-        await update.message.reply_text("⚠️ *Sintaxis incorrecta.* Usa: `/follow <link_tiktok> <cantidad>`", parse_mode='Markdown')
-        return
-
-    raw_url = context.args[0]
-    try:
-        cantidad_solicitada = int(context.args[1])
-    except ValueError:
-        await update.message.reply_text("⚠️ La cantidad especificada debe ser un valor numérico entero.")
-        return
-
-    resolving_msg = await update.message.reply_text("🔍 *Analizando y resolviendo enlace de TikTok...*", parse_mode='Markdown')
-    target_url = await resolve_tiktok_url(raw_url)
-    
-    proxies = load_proxies()
-    todas_cookies = [f for f in os.listdir(COOKIES_DIR) if f.endswith(".txt")]
-    
-    if not todas_cookies:
-        await resolving_msg.edit_text("❌ *Error:* No hay archivos de sesión `.txt` en la carpeta `/cookies`.")
-        return
-
-    # Filtrar cookies que ya hayan seguido a este objetivo previamente en base de datos
-    async with db_lock:
-        try:
-            conn = sqlite3.connect(DB_FILE, timeout=10.0)
-            cursor = conn.cursor()
-            cursor.execute("SELECT cookie_file FROM seguimientos WHERE target_url = ?", (target_url,))
-            ya_siguen = [row[0] for row in cursor.fetchall()]
-            conn.close()
-        except Exception as e:
-            logger.error(f"Error consultando historial de cookies: {e}")
-            ya_siguen = []
-
-    cookies_disponibles = [cookie for cookie in todas_cookies if cookie not in ya_siguen]
-    
-    if not cookies_disponibles:
-        await resolving_msg.edit_text("⚠️ *Control de Duplicidad:* Todas las cuentas válidas ya están siguiendo a este perfil.")
-        return
-
-    cantidad_realizar = min(cantidad_solicitada, len(cookies_disponibles))
-    
-    await resolving_msg.edit_text(
-        f"🚀 *Iniciando campaña de automatización...*\n\n"
-        f"🎯 *Perfil:* `{target_url}`\n"
-        f"📦 *Objetivo:* `{cantidad_realizar}` seguidores reales\n"
-        f"⏳ *Estado:* Preparando hilos concurrentes...",
-        parse_mode='Markdown'
-    )
-
-    # Concurrencia balanceada de hilos para optimizar consumo en Render
-    max_concurrent_browsers = 3
-    semaphore = asyncio.Semaphore(max_concurrent_browsers)
-    
-    exitos = 0
-    fallos = 0
-    inicio_time = time.time()
-    last_edit_time = 0
-
-    async def worker_task(idx, cookie_file):
-        nonlocal exitos, fallos, last_edit_time
-        cookie_path = os.path.join(COOKIES_DIR, cookie_file)
-        proxy = proxies[idx % len(proxies)] if proxies else None
-        
-        intentos = 2
-        for intento in range(intentos):
-            success, error_msg, path_img, is_network_error = await perform_action(
-                proxy, cookie_path, target_url, semaphore
+            # Forzamos localización en inglés para estandarizar los layouts de botones
+            context = await browser.new_context(
+                user_agent=random.choice(user_agents),
+                viewport={"width": 1280, "height": 800},
+                locale="en-US",
+                timezone_id="America/New_York",
+                proxy=proxy_opt
             )
+
+            await stealth_async(context)
+            await context.add_cookies(cookies_list)
+
+            page = await context.new_page()
             
-            if success:
-                exitos += 1
-                async with db_lock:
-                    try:
-                        conn = sqlite3.connect(DB_FILE, timeout=10.0)
-                        cursor = conn.cursor()
-                        cursor.execute(
-                            "INSERT INTO seguimientos (target_url, cookie_file) VALUES (?, ?)", 
-                            (target_url, cookie_file)
-                        )
-                        conn.commit()
-                        conn.close()
-                    except Exception as e:
-                        logger.error(f"Error al escribir éxito en base de datos: {e}")
-                break
+            # Reducimos el timeout por defecto para evitar bloqueos largos (20 segundos)
+            page.set_default_timeout(20000)
+
+            logger.info(f"Abriendo perfil {target_url} con la cuenta {cookie_id}")
+            # Definimos un timeout estricto de carga directamente en la navegación
+            await page.goto(target_url, wait_until="domcontentloaded", timeout=20000)
+            await page.wait_for_timeout(random.randint(2000, 4000))
+
+            # Verificar si nos encontramos con un Captcha o bloqueo de seguridad
+            title = await page.title()
+            if "security verification" in title.lower() or await page.locator("div.captcha-container").count() > 0:
+                logger.warning(f"¡Captcha detectado en {cookie_id}!")
+                await marcar_cookie_estado(cookie_id, "captcha")
+                return False
+
+            # Verificar primero si el botón de seguir ya está en estado "Seguido"
+            texto_pagina = (await page.content()).lower()
+            ya_sigue = any(keyword in texto_pagina for keyword in ALREADY_FOLLOWING_KEYWORDS)
             
+            # Buscamos botones de seguir genéricos
+            botones_seguir = page.locator("button")
+            boton_encontrado = None
+            
+            for i in range(await botones_seguir.count()):
+                btn = botones_seguir.nth(i)
+                text = (await btn.text_content() or "").strip().lower()
+                data_e2e = await btn.get_attribute("data-e2e") or ""
+
+                # Priorizamos selectores estructurados
+                if "follow-button" in data_e2e or any(kw == text for kw in FOLLOW_KEYWORDS):
+                    boton_encontrado = btn
+                    break
+
+            if ya_sigue and not boton_encontrado:
+                logger.info(f"La cuenta {cookie_id} ya seguía al perfil {target_url}.")
+                await registrar_seguimiento(cookie_id, target_url)
+                return True
+
+            if not boton_encontrado:
+                # Comprobación mediante inyección JS si fallan los selectores típicos
+                logger.warning(f"No se detectó el botón de seguir con selectores en {cookie_id}. Intentando JS de emergencia.")
+                await page.evaluate("""
+                    const btns = document.querySelectorAll('button');
+                    for (const btn of btns) {
+                        const txt = btn.textContent.toLowerCase().trim();
+                        if (txt === 'follow' || txt === 'seguir' || btn.getAttribute('data-e2e') === 'follow-button') {
+                            btn.click();
+                            break;
+                        }
+                    }
+                """)
             else:
-                if is_network_error and intento < intentos - 1 and proxies:
-                    logger.warning(f"Error de red/proxy detectado en el intento {intento + 1} para {cookie_file}. Rotando proxy...")
-                    proxy = random.choice(proxies)
-                    if path_img and os.path.exists(path_img):
-                        try:
-                            os.remove(path_img)
-                        except Exception:
-                            pass
-                    continue
-                
-                fallos += 1
-                async with db_lock:
-                    try:
-                        conn = sqlite3.connect(DB_FILE, timeout=10.0)
-                        cursor = conn.cursor()
-                        cursor.execute(
-                            "INSERT OR REPLACE INTO cookies_estado (cookie_file, estado, motivo) VALUES (?, ?, ?)",
-                            (cookie_file, "INVALIDA", error_msg)
-                        )
-                        conn.commit()
-                        conn.close()
-                    except Exception as e:
-                        logger.error(f"Error al escribir estado de cookie en base de datos: {e}")
+                # Comportamiento humano antes del click
+                await page.evaluate("window.scrollTo(0, document.body.scrollHeight / 6)")
+                await page.wait_for_timeout(random.randint(500, 1500))
+                await boton_encontrado.click()
+                logger.info(f"Click efectuado con {cookie_id}.")
 
-                if "caducada" in error_msg.lower() or "sesión" in error_msg.lower() or "login" in error_msg.lower():
-                    try:
-                        shutil.move(cookie_path, os.path.join(BAD_COOKIES_DIR, cookie_file))
-                    except Exception as e:
-                        logger.error(f"No se pudo mover el archivo de cookie expirado: {e}")
+            await page.wait_for_timeout(3000)
 
-                if path_img and os.path.exists(path_img):
-                    try:
-                        await context.bot.send_photo(
-                            chat_id=update.effective_chat.id,
-                            photo=open(path_img, 'rb'),
-                            caption=f"⚠️ *Fallo Crítico en Cuenta:* `{cookie_file}`\n\n🚫 *Causa:* `{error_msg}`\n🔧 *Acción:* Archivo aislado de la cola activa.",
-                            parse_mode='Markdown'
-                        )
-                    except Exception as telegram_err:
-                        logger.error(f"Error al enviar reporte de error a Telegram: {telegram_err}")
-                    finally:
-                        try:
-                            os.remove(path_img)
-                        except Exception:
-                            pass
-                break
+            # Verificación de efectividad real de la suscripción (Anti-Shadowban)
+            html_final = (await page.content()).lower()
+            verificado = any(kw in html_final for kw in ALREADY_FOLLOWING_KEYWORDS)
 
-        # Actualización de la barra de progreso
-        procesados = exitos + fallos
-        porcentaje = int((procesados / cantidad_realizar) * 10)
-        barra_progreso = "█" * porcentaje + "░" * (10 - porcentaje)
-        
-        tiempo_transcurrido = time.time() - inicio_time
-        velocidad_estimada = (procesados / tiempo_transcurrido) * 60 if tiempo_transcurrido > 0 else 0
-        
-        tiempo_actual = time.time()
-        if (tiempo_actual - last_edit_time > 3.5) or (procesados == cantidad_realizar):
-            try:
-                await resolving_msg.edit_text(
-                    f"⚡ *Ejecución de Campaña en Progreso...*\n\n"
-                    f"🎯 *Objetivo:* {target_url}\n"
-                    f"📊 *Progreso:* `[{barra_progreso}]` {procesados}/{cantidad_realizar}\n\n"
-                    f"🟢 *Éxitos:* `{exitos}` | 🔴 *Fallas:* `{fallos}`\n"
-                    f"⏱️ *Rendimiento:* `{velocidad_estimada:.1f} follows/min`",
-                    parse_mode='Markdown'
+            if verificado:
+                logger.info(f"Seguimiento exitoso verificado en {cookie_id}!")
+                await registrar_seguimiento(cookie_id, target_url)
+                await marcar_cookie_estado(cookie_id, "active")
+                return True
+            else:
+                logger.warning(f"Fallo de verificación de suscripción en {cookie_id}.")
+                return False
+
+        except Exception as e:
+            logger.error(f"Error procesando seguimiento con {cookie_id}: {e}")
+            return False
+        finally:
+            if browser:
+                await browser.close()
+
+def mover_cookie_caducada(cookie_id: str):
+    """Mueve una cookie del directorio activo al de caducadas de forma segura."""
+    origen = COOKIES_DIR / cookie_id
+    destino = EXPIRED_COOKIES_DIR / cookie_id
+    try:
+        if origen.exists():
+            origen.replace(destino)
+            logger.info(f"Moviendo cookie {cookie_id} a cookies_caducadas.")
+    except Exception as e:
+        logger.error(f"No se pudo mover la cookie {cookie_id}: {e}")
+
+# ==========================================
+# CARGA DE PROXIES
+# ==========================================
+def obtener_lista_proxies() -> list:
+    if not PROXIES_FILE.exists():
+        return []
+    with open(PROXIES_FILE, "r") as f:
+        return [line.strip() for line in f if line.strip()]
+
+# ==========================================
+# CONTROLADOR DE PROGRESO DE CAMPAÑA (ANTI-FLOOD)
+# ==========================================
+class MonitorProgreso:
+    def __init__(self, context: ContextTypes.DEFAULT_TYPE, chat_id: int, message_id: int, total: int):
+        self.context = context
+        self.chat_id = chat_id
+        self.message_id = message_id
+        self.total = total
+        self.actual = 0
+        self.exitos = 0
+        self.fallidos = 0
+        self.last_update = 0
+        self.lock = asyncio.Lock()
+
+    async def registrar_resultado(self, exito: bool):
+        async with self.lock:
+            self.actual += 1
+            if exito:
+                self.exitos += 1
+            else:
+                self.fallidos += 1
+
+            ahora = time.time()
+            # Telegram limita a 1 edición cada 3 segundos por chat para evitar FloodWait
+            if ahora - self.last_update >= 3.0 or self.actual == self.total:
+                self.last_update = ahora
+                porcentaje = int((self.actual / self.total) * 100)
+                longitud_barra = 10
+                relleno = int(porcentaje / 10)
+                barra = "█" * relleno + "░" * (longitud_barra - relleno)
+
+                text = (
+                    f"📊 **Progreso de la Campaña de Seguidores**\n\n"
+                    f"├ Estado: {barra} {porcentaje}%\n"
+                    f"├ Completado: `{self.actual}` de `{self.total}`\n"
+                    f"├ ✅ Éxitos: `{self.exitos}`\n"
+                    f"└ ❌ Fallidos: `{self.fallidos}`\n\n"
+                    f"⏰ _No cierres este chat, estamos procesando las peticiones en segundo plano._"
                 )
-                last_edit_time = tiempo_actual
-            except BadRequest as br:
-                if "Message is not modified" not in str(br):
-                    logger.error(f"Error al editar mensaje en Telegram: {br}")
-            except Exception as ex:
-                logger.error(f"Excepción general en edición de estado: {ex}")
+                try:
+                    await self.context.bot.edit_message_text(
+                        chat_id=self.chat_id,
+                        message_id=self.message_id,
+                        text=text,
+                        parse_mode="Markdown"
+                    )
+                except Exception as e:
+                    logger.debug(f"Error al editar progreso de Telegram: {e}")
 
-    # Crear tareas y controlar la finalización de todos los hilos
-    tasks = []
-    for i in range(cantidad_realizar):
-        tasks.append(asyncio.create_task(worker_task(i, cookies_disponibles[i])))
-        
-    await asyncio.gather(*tasks)
+# ==========================================
+# MANEJADORES DE COMANDOS DEL BOT
+# ==========================================
+async def comando_start(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    """Muestra el menú principal con botones interactivos."""
+    # Reseteamos cualquier estado del usuario por si acaso
+    context.user_data.clear()
     
-    tiempo_total = time.time() - inicio_time
-    await update.message.reply_text(
-        f"🏁 *Campaña de Seguidores Finalizada* 🏁\n\n"
-        f"📊 *Estadísticas de la Campaña:*\n"
-        f"👤 *Objetivo:* `{target_url}`\n"
-        f"✅ *Fórmula Exitosa:* `{exitos}/{cantidad_realizar}` cuentas\n"
-        f"❌ *Cuentas Rechazadas/Expiradas:* `{fallos}`\n"
-        f"⏱️ *Tiempo Invertido:* `{tiempo_total:.1f} segundos`",
-        parse_mode='Markdown'
+    # Intentamos detectar si es Ishak para personalizar el saludo
+    nombre = update.effective_user.first_name
+    saludo = f"¡Hola {nombre}! 👋"
+    if "ishak" in nombre.lower() or update.effective_user.id == 5000000000: # Opcional ID
+        saludo = "¡Qué pasa Ishak! 👑 Bienvenido de nuevo al cuartel general del Ishak Empire."
+
+    texto = (
+        f"{saludo}\n"
+        f"Este es tu bot SMM Profesional de TikTok.\n"
+        f"Usa el panel interactivo de abajo para controlarlo todo de forma segura."
     )
+
+    teclado = [
+        [InlineKeyboardButton("🚀 Iniciar Campaña", callback_data="btn_iniciar")],
+        [
+            InlineKeyboardButton("🔄 Verificar Cookies", callback_data="btn_check"),
+            InlineKeyboardButton("📡 Testear Proxies", callback_data="btn_proxies"),
+        ],
+        [InlineKeyboardButton("📈 Reporte de Cuentas", callback_data="btn_report")],
+    ]
+    reply_markup = InlineKeyboardMarkup(teclado)
+
+    await update.message.reply_text(texto, reply_markup=reply_markup)
+
+async def callback_menu(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    """Gestor de clicks de los botones del menú principal."""
+    query = update.callback_query
+    await query.answer()
+
+    if query.data == "btn_iniciar":
+        await query.message.reply_text(
+            "🚀 **Nueva Campaña de Seguidores**\n\n"
+            "Introduce la cantidad exacta de seguidores que deseas enviar.\n"
+            "_(Debe ser un número entero mayor a 0, ej: 10)_",
+            parse_mode="Markdown"
+        )
+        return AWAITING_QUANTITY
+
+    elif query.data == "btn_check":
+        await query.message.reply_text("⏳ Iniciando análisis de cookies en segundo plano...")
+        await analizar_estado_cookies(query.message)
+        
+    elif query.data == "btn_proxies":
+        await query.message.reply_text("⏳ Iniciando test de latencia de proxies...")
+        await testear_lista_proxies(query.message)
+
+    elif query.data == "btn_report":
+        await generar_reporte_stats(query.message)
+
+# ==========================================
+# CONVERSACIÓN: REGISTRO DE SEGUIDORES
+# ==========================================
+async def recibir_cantidad(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    """Recibe la cantidad de seguidores y valida estrictamente el número entero."""
+    texto = update.message.text.strip()
+
+    # Si es un comando, cancelamos la conversación actual y lo procesamos directamente
+    if texto.startswith("/"):
+        await update.message.reply_text("❌ Operación abortada. Se ha cancelado el asistente para procesar tu comando.")
+        context.user_data.clear()
+        if texto == "/start":
+            await comando_start(update, context)
+        return ConversationHandler.END
+
+    if not texto.isdigit() or int(texto) <= 0:
+        await update.message.reply_text(
+            "❌ **Error:** La cantidad especificada debe ser un valor numérico entero positivo.\n\n"
+            "Escribe un número entero (Ej: `15`) o envía `/cancel` para volver al menú.",
+            parse_mode="Markdown"
+        )
+        return AWAITING_QUANTITY
+
+    context.user_data["cantidad_pedida"] = int(texto)
+    await update.message.reply_text(
+        "✅ Cantidad guardada.\n\n"
+        "Ahora, por favor, introduce el **enlace de la cuenta de TikTok** objetivo:\n"
+        "_(Ej: https://www.tiktok.com/@usuario o https://vm.tiktok.com/xxxxxx/)_",
+        parse_mode="Markdown"
+    )
+    return AWAITING_LINK
+
+async def recibir_enlace(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    """Recibe el enlace de TikTok, lo valida y arranca el procesamiento asíncrono."""
+    link = update.message.text.strip()
+
+    # Si es un comando, cancelamos
+    if link.startswith("/"):
+        await update.message.reply_text("❌ Operación abortada.")
+        context.user_data.clear()
+        if link == "/start":
+            await comando_start(update, context)
+        return ConversationHandler.END
+
+    if "tiktok.com" not in link:
+        await update.message.reply_text(
+            "❌ Enlace inválido. Asegúrate de que sea un enlace de TikTok.\n"
+            "Introduce el enlace correcto o envía `/cancel` para abortar.",
+            parse_mode="Markdown"
+        )
+        return AWAITING_LINK
+
+    cantidad = context.user_data["cantidad_pedida"]
+    await update.message.reply_text("🔄 Resolviendo enlace de TikTok y preparando campaña asíncrona...")
+
+    # Lanzamos el proceso en segundo plano para no congelar el chat de Telegram
+    asyncio.create_task(iniciar_campana_smm(update, context, link, cantidad))
+    
+    # Finalizamos la conversación para que el bot vuelva a estar disponible al instante
+    context.user_data.clear()
+    return ConversationHandler.END
+
+async def comando_cancel(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    """Cancela la conversación actual y vuelve al menú."""
+    context.user_data.clear()
+    await update.message.reply_text(
+        "❌ Asistente cancelado correctamente. Envía `/start` para ver el menú principal."
+    )
+    return ConversationHandler.END
+
+# ==========================================
+# ORQUESTADOR PRINCIPAL DE LA CAMPAÑA SMM
+# ==========================================
+async def iniciar_campana_smm(update: Update, context: ContextTypes.DEFAULT_TYPE, link: str, cantidad: int):
+    chat_id = update.effective_chat.id
+    
+    # 1. Resolvemos redirecciones (ej. vm.tiktok.com)
+    url_final = await resolver_enlace_tiktok(link)
+    
+    # 2. Obtenemos las cookies disponibles en base de datos para este perfil
+    cookies_disponibles = await obtener_cookies_disponibles(url_final)
+    proxies = obtener_lista_proxies()
+
+    if not cookies_disponibles:
+        await context.bot.send_message(
+            chat_id=chat_id,
+            text="⚠️ **Campaña cancelada:** Todas tus cuentas ya están siguiendo a este usuario, o no hay cookies activas en la carpeta `/cookies`."
+        )
+        return
+
+    # Ajustamos la cantidad si el pedido supera las cuentas reales libres que tenemos
+    cantidad_real = min(cantidad, len(cookies_disponibles))
+    cookies_a_usar = cookies_disponibles[:cantidad_real]
+
+    msg_progreso = await context.bot.send_message(
+        chat_id=chat_id,
+        text=f"🚀 **Campaña iniciada para {url_final}**\n\nPreparando hilos concurrentes seguros..."
+    )
+
+    monitor = MonitorProgreso(context, chat_id, msg_progreso.message_id, cantidad_real)
+    
+    # Limitamos los hilos concurrentes para evitar colgar la RAM de Render (Máximo 3 navegadores simultáneos)
+    semaforo = asyncio.Semaphore(3)
+
+    async def tarea_worker(cookie_id):
+        async with semaforo:
+            exito = False
+            # Intentamos con proxies aleatorios seleccionados de forma inteligente
+            intentos_proxy = random.sample(proxies, min(3, len(proxies))) if proxies else [None]
+            
+            for p_url in intentos_proxy:
+                logger.info(f"Iniciando intento de seguimiento para {cookie_id} usando proxy: {p_url}")
+                try:
+                    # BLINDAJE ASÍNCRONO CONTRA CONGELAMIENTOS: 
+                    # Forzamos un tiempo de espera estricto de 45 segundos para toda la rutina de Playwright
+                    exito = await asyncio.wait_for(
+                        realizar_seguimiento_individual(cookie_id, url_final, p_url),
+                        timeout=45.0
+                    )
+                    if exito:
+                        logger.info(f"Suscripción completada con éxito usando {cookie_id}")
+                        break
+                    else:
+                        logger.warning(f"Fallo en intento de {cookie_id} con proxy {p_url}. Pasando a reintento...")
+                except asyncio.TimeoutError:
+                    logger.error(f"⏱️ TIMEOUT CRÍTICO: La cuenta {cookie_id} tardó más de 45s con proxy {p_url}. Cancelando intento.")
+                except Exception as e:
+                    logger.error(f"Error inesperado en hilo de ejecución para {cookie_id}: {e}")
+                
+                # Pausa antes de que la misma cuenta intente con otra IP
+                await asyncio.sleep(random.randint(2, 4))
+            
+            if not exito:
+                # Si falló definitivamente en todos los intentos de proxy, se marca como muerta
+                await marcar_cookie_estado(cookie_id, "dead")
+                mover_cookie_caducada(cookie_id)
+            
+            await monitor.registrar_resultado(exito)
+
+    # Disparamos todas las tareas concurrentes de forma controlada asíncronamente
+    tareas = [asyncio.create_task(tarea_worker(cid)) for cid in cookies_a_usar]
+    await asyncio.gather(*tareas)
+
+    # Informe de finalización
+    await context.bot.send_message(
+        chat_id=chat_id,
+        text=f"✅ **Campaña Finalizada**\n\n├ Objetivo: {url_final}\n├ Procesados: {cantidad_real}\n├ ✅ Éxitos: {monitor.exitos}\n└ ❌ Fallidos: {monitor.fallidos}"
+    )
+
+# ==========================================
+# FUNCIONES AUXILIARES: TESTEO Y REPORTES
+# ==========================================
+async def analizar_estado_cookies(message):
+    """Chequeo de cookies activas rápido."""
+    cookies_archivos = list(COOKIES_DIR.glob("*.txt"))
+    if not cookies_archivos:
+        await message.reply_text("❌ No hay cookies cargadas en la carpeta `/cookies`.")
+        return
+
+    # Verificación de que no estén corruptas leyendo el formato básico
+    validas = 0
+    corruptas = 0
+    for file in cookies_archivos:
+        datos = parsear_netscape_cookies(file)
+        if len(datos) > 0:
+            validas += 1
+        else:
+            corruptas += 1
+            mover_cookie_caducada(file.name)
+
+    await message.reply_text(
+        f"📊 **Análisis de Cookies de Cuentas:**\n\n"
+        f"├ Cookies analizadas: `{len(cookies_archivos)}`\n"
+        f"├ Estructura válida: `{validas}`\n"
+        f"└ Corruptas / Movidas: `{corruptas}`"
+    )
+
+async def testear_lista_proxies(message):
+    """Mide la latencia de las proxies frente a los servidores de TikTok."""
+    proxies = obtener_lista_proxies()
+    if not proxies:
+        await message.reply_text("❌ El archivo `proxies.txt` está vacío.")
+        return
+
+    testeadas = 0
+    activas = 0
+    for p in proxies[:15]: # Testeamos solo una muestra rápida de 15 para no demorar la respuesta de Telegram
+        testeadas += 1
+        try:
+            async with httpx.AsyncClient(proxies={"all://": p}, timeout=5.0) as client:
+                resp = await client.get("https://www.tiktok.com/")
+                if resp.status_code == 200:
+                    activas += 1
+        except Exception:
+            pass
+
+    await message.reply_text(
+        f"📡 **Test de Muestra de Proxies:**\n\n"
+        f"├ Total en `proxies.txt`: `{len(proxies)}`\n"
+        f"├ Muestra testeada: `{testeadas}`\n"
+        f"└ Estado funcional de la muestra: `{activas} / {testeadas}`"
+    )
+
+async def generar_reporte_stats(message):
+    """Consulta la base de datos de SQLite y compila estadísticas de uso real."""
+    conn = sqlite3.connect(DB_PATH)
+    cursor = conn.cursor()
+    
+    cursor.execute("SELECT COUNT(*), status FROM cookies GROUP BY status")
+    filas_status = cursor.fetchall()
+    
+    cursor.execute("SELECT COUNT(*) FROM tracking_seguimiento")
+    total_follows = cursor.fetchone()[0]
+    
+    conn.close()
+
+    status_dict = {"active": 0, "dead": 0, "captcha": 0}
+    for count, status in filas_status:
+        if status in status_dict:
+            status_dict[status] = count
+
+    texto_reporte = (
+        f"📈 **Reporte de Rendimiento del Panel SMM**\n\n"
+        f"├ Total de Cuentas Sólidas: `{status_dict['active']}`\n"
+        f"├ Cuentas Muertas: `{status_dict['dead']}`\n"
+        f"├ Cuentas Bloqueadas temporalmente (Captcha): `{status_dict['captcha']}`\n"
+        f"└ Total de Follows Entregados: `{total_follows}`\n\n"
+        f"⚡ _Recuerda refrescar tus cookies caducadas de vez en cuando._"
+    )
+    await message.reply_text(texto_reporte, parse_mode="Markdown")
+
+# ==========================================
+# INICIALIZACIÓN PRINCIPAL
+# ==========================================
+def main():
+    # Inicializamos base de datos
+    inicializar_db()
+
+    # Arrancamos servidor HTTP interno para el Health Check de Render
+    iniciar_servidor_ping()
+
+    token = os.environ.get("TELEGRAM_TOKEN")
+    if not token:
+        logger.error("❌ ERROR CRÍTICO: No se ha detectado la variable de entorno TELEGRAM_TOKEN.")
+        sys.exit(1)
+
+    logger.info("🤖 Iniciando aplicación del Bot de Telegram...")
+    application = Application.builder().token(token).build()
+
+    # ConversationHandler blindado para evitar el bucle infinito al meter el número
+    conv_handler = ConversationHandler(
+        entry_points=[
+            CommandHandler("follow", callback_menu),
+            CallbackQueryHandler(callback_menu, pattern="^btn_iniciar$")
+        ],
+        states={
+            AWAITING_QUANTITY: [
+                MessageHandler(filters.TEXT & ~filters.COMMAND, recibir_cantidad)
+            ],
+            AWAITING_LINK: [
+                MessageHandler(filters.TEXT & ~filters.COMMAND, recibir_enlace)
+            ],
+        },
+        fallbacks=[
+            CommandHandler("cancel", comando_cancel),
+            MessageHandler(filters.COMMAND, comando_cancel) # Si mete cualquier comando durante el flujo, cancelamos de inmediato.
+        ],
+        allow_reentry=True
+    )
+
+    # Registro de Handlers ordinarios
+    application.add_handler(CommandHandler("start", comando_start))
+    application.add_handler(CallbackQueryHandler(callback_menu))
+    application.add_handler(conv_handler)
+
+    # Lanzamos el bot en modo Polling de escucha continua
+    application.run_polling()
 
 if __name__ == "__main__":
-    app = ApplicationBuilder().token(TOKEN).build()
-    
-    app.add_handler(CommandHandler("start", start))
-    app.add_handler(CommandHandler("stats", stats_command))
-    app.add_handler(CommandHandler("check", check_command))
-    app.add_handler(CommandHandler("proxycheck", proxy_check_command))
-    app.add_handler(CommandHandler("report", report_command))
-    app.add_handler(CommandHandler("follow", follow_command))
-    app.add_handler(CommandHandler("clean", clean_command))
-    
-    print("🤖 Servidor central del SMM TikTok Automation Bot activo y escuchando eventos...")
-    app.run_polling()
+    main()
