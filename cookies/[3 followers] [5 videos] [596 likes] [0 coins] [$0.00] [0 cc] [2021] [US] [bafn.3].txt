@@ -1,0 +1,36 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: bafn.3
+– Email: 
+– Mobile: 
+– Followers: 3
+– Videos: 5
+– Likes: 596
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2021
+– Country: US
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4686)\Browser\Cookies\Chrome_Default_[D18C].txt
+
+.tiktok.com	TRUE	/	FALSE	1803583936	tt-target-idc-sign	X5Jbycx7fT7VkHRKlWKvYripMcU6cvtmRYCyyVPfV9v9fQLL8LgEtZ5KdyJZJe_GXBHPEnpMxwCQuTorP1CAtItbXaKiR8xJyx51GEDo6g0kIF3jvDhDvbDeJKnnOKNGIYHJtGAjngOA3I6tQGuzz3kSNPXPQRIX1YI-VIsW-R22Y9CDt5dOhIm-ytqjpnU4my9fe-9v1KkAtsJIv6h2HpsyYznSF6nxn7RHhuLjwNnUf_5podgTOhrhr5Uvd0I0Ny8qrDfyC7fhzmAqn1sQcunqMfKxDL2kTB1gf8nzahchoouTyHSKJ3CzdWWKdNq7PijMRdI7ssJEg8rQqyu1z7Pxgu1ZIntCH0-9yIfi1JGFol5siGcleVsuEPtzNtNgsv24oOebnaYxIcxlJiAJKSWTk2N1qkesfRr2S8Y3vH1jpksF__4sS895sgbvMO_4V0q9bhe6eaPDcrGjp7BGR8BVTOsd723Tn5TshSrjb_WB2QNEBsB_sik3A1gcpC9_
+.tiktok.com	TRUE	/	TRUE	1790532472	sessionid	736011fc78ff5efe55a8720e8955914b
+.tiktok.com	TRUE	/	TRUE	1790532472	sessionid_ss	736011fc78ff5efe55a8720e8955914b
+.tiktok.com	TRUE	/	TRUE	1806084472	sid_guard	736011fc78ff5efe55a8720e8955914b%7C1774980472%7C15552000%7CSun%2C+27-Sep-2026+18%3A07%3A52+GMT
+.tiktok.com	TRUE	/	TRUE	1790532472	sid_tt	736011fc78ff5efe55a8720e8955914b
+.tiktok.com	TRUE	/	TRUE	1790532472	sid_ucp_v1	1.0.1-KGY2ZmMzYTJiNTgxMTZjYzhkMTU5NDMyMzUyMzdlOWU1MDczZTY1ZjQKIgiFiKm0nMf99mAQ-JqwzgYYswsgDDCY3NvCBjgHQPQHSAQQAxoDc2cxIiA3MzYwMTFmYzc4ZmY1ZWZlNTVhODcyMGU4OTU1OTE0YjJOCiD03UBaq90ULftmIQjeLsPEfkDM6UqGkzi9rFdo-R0PzxIg_l0E2rCLb_YH0JFW97xYwAIxmUHchn2kim7IGu0Dvq4YASIGdGlrdG9r
+.tiktok.com	TRUE	/	TRUE	1790532472	ssid_ucp_v1	1.0.1-KGY2ZmMzYTJiNTgxMTZjYzhkMTU5NDMyMzUyMzdlOWU1MDczZTY1ZjQKIgiFiKm0nMf99mAQ-JqwzgYYswsgDDCY3NvCBjgHQPQHSAQQAxoDc2cxIiA3MzYwMTFmYzc4ZmY1ZWZlNTVhODcyMGU4OTU1OTE0YjJOCiD03UBaq90ULftmIQjeLsPEfkDM6UqGkzi9rFdo-R0PzxIg_l0E2rCLb_YH0JFW97xYwAIxmUHchn2kim7IGu0Dvq4YASIGdGlrdG9r
+.tiktok.com	TRUE	/	TRUE	1790532472	tt_session_tlb_tag	sttt%7C1%7Cc2AR_Hj_Xv5VqHIOiVWRS__________rVBY6rrB2J4CuQDVV4LafFbI6DEQchvp4Ev5q2Z-u0Ow%3D
+.tiktok.com	TRUE	/	TRUE	1790532472	uid_tt	f95775cb6f6df417bf87e45324ef21c097b51dcc975fc5c7a5d99eb7aa112945
+.tiktok.com	TRUE	/	TRUE	1790532472	uid_tt_ss	f95775cb6f6df417bf87e45324ef21c097b51dcc975fc5c7a5d99eb7aa112945
+.tiktok.com	TRUE	/	FALSE	1790532472	store-country-code	sa
+.tiktok.com	TRUE	/	FALSE	1790532472	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1790532472	store-country-sign	MEIEDFR8O1dLx2Y733AJBAQgqTdXLjWVHlW6bDauOnn2yuBnzRaBABkCqGLkboCvUZUEEFVBiXPfMJneWmufSTOnJbM
+.tiktok.com	TRUE	/	FALSE	1790532472	store-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1790532472	tt-target-idc	alisg
+.tiktok.com	TRUE	/	TRUE	1796344842	tt_chain_token	ZccqaPzntbKjmaymU2FKiQ==
+.tiktok.com	TRUE	/	TRUE	1812328846	ttwid	1%7COhVSycsU2t82RFISYy8UXJ7h0rddWqNZPCt0XsdOkjs%7C1780792846%7C73eaa85165b6822d305c0ae2643dee9aea6a833b998174ceaa8a38cc72375ec4
+.tiktok.com	TRUE	/	FALSE	1812341137	odin_tt	b07d5fac9d81ffdbfd95145dee2c084119eaded2718de81a2dfa7e1f4594b98aadd337b2573a308240b6ffdac701337c30cbb2744af883e1d899ee37ed2f3b123530ff7cca3cb841a1ef50a59561421c
+.tiktok.com	TRUE	/	TRUE	1784445036	msToken	KELemMsDwkj1XgKN76jlgCk1DjPMVZORMssoxKgwqMi2aD8LHyFs_EhouEMvfU4uDFNwFvUSV0QV3ymmJMPO2Ra4s0AroHXMrtIJ6Mw0hPvCli8w2zBcuEm1SUa01aR0EyLbjfkk-oUqsps3S4G0pjBaag==
+.tiktok.com	TRUE	/	TRUE	1814687902	_ttp	3A8HvA7Kmn2EjY9Hz4HFHJS7I6W

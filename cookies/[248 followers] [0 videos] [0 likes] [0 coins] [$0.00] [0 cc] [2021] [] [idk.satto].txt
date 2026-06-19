@@ -1,0 +1,40 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: idk.satto
+– Email: e***7@gmail.com
+– Mobile: 
+– Followers: 248
+– Videos: 0
+– Likes: 0
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2021
+– Country: 
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (469)\Cookies\Opera GX_Default.txt
+
+.tiktok.com	TRUE	/	TRUE	1808275093	_ttp	3BVayxZK4JE6mSDdClLBn26BQzM
+.tiktok.com	TRUE	/	TRUE	1785454334	cmpl_token	AgQYAPNk_hfkTtKPgDHTXbRdP_OpAgRokH-F72CnJ_A
+.tiktok.com	TRUE	/	TRUE	1785454334	multi_sids	6899197372069741574%3A8de8239a64f32d80dff29127bc6e7319
+.tiktok.com	TRUE	/	FALSE	1782862334	passport_auth_status	91e2e2225fddcac3a12e788ffe0a607d%2C
+.tiktok.com	TRUE	/	TRUE	1782862334	passport_auth_status_ss	91e2e2225fddcac3a12e788ffe0a607d%2C
+.tiktok.com	TRUE	/	TRUE	1795822334	sessionid	8de8239a64f32d80dff29127bc6e7319
+.tiktok.com	TRUE	/	TRUE	1795822334	sessionid_ss	8de8239a64f32d80dff29127bc6e7319
+.tiktok.com	TRUE	/	TRUE	1795822334	sid_tt	8de8239a64f32d80dff29127bc6e7319
+.tiktok.com	TRUE	/	TRUE	1811374334	sid_guard	8de8239a64f32d80dff29127bc6e7319%7C1780270332%7C15552000%7CFri%2C+27-Nov-2026+23%3A32%3A12+GMT
+.tiktok.com	TRUE	/	TRUE	1795822334	sid_ucp_v1	1.0.1-KDU2NGQ5ZGRjZmNjZjhiYTljOTU3NmQ3ZmU2OTdmMDc0ZWY5ZWY0NmYKIQiGiJqsze63318Q_Inz0AYYswsgDDCvqJTIBjgIQBJIBBADGgJteSIgOGRlODIzOWE2NGYzMmQ4MGRmZjI5MTI3YmM2ZTczMTkyTgogr6eymP84kh_DHAuaklQBRWc1ClpZiO1r07tHi4i7T-ASIKZCMT_Sjlk55nLogz-9P2JOVVdNU9YlHTWLoeeilchKGAMiBnRpa3Rvaw
+.tiktok.com	TRUE	/	TRUE	1795822334	ssid_ucp_v1	1.0.1-KDU2NGQ5ZGRjZmNjZjhiYTljOTU3NmQ3ZmU2OTdmMDc0ZWY5ZWY0NmYKIQiGiJqsze63318Q_Inz0AYYswsgDDCvqJTIBjgIQBJIBBADGgJteSIgOGRlODIzOWE2NGYzMmQ4MGRmZjI5MTI3YmM2ZTczMTkyTgogr6eymP84kh_DHAuaklQBRWc1ClpZiO1r07tHi4i7T-ASIKZCMT_Sjlk55nLogz-9P2JOVVdNU9YlHTWLoeeilchKGAMiBnRpa3Rvaw
+.tiktok.com	TRUE	/	TRUE	1795822337	tt_chain_token	0Bq+I6DJaBu5+0Xu6WA3Ag==
+.tiktok.com	TRUE	/	TRUE	1795822334	tt_session_tlb_tag	sttt%7C4%7CjegjmmTzLYDf8pEnvG5zGf_________k-1UpS1iq9ohalFH3Sy9rgrsc-B53zQKAs35LW8qVRNo%3D
+.tiktok.com	TRUE	/	TRUE	1811806341	ttwid	1%7CoqD6m7rkEBatEJbd3AizVJRuMbV6bf7YvN3FNzxDJv8%7C1780270340%7C2e918c67588a3c9ac16f0722df43368edac3a958c45a26b75f426bc259c42edd
+.tiktok.com	TRUE	/	TRUE	1795822334	uid_tt	0fea2bee8762631c88db9a82c40234a1244442cec4b20c0f119b06f59f959af8
+.tiktok.com	TRUE	/	TRUE	1795822334	uid_tt_ss	0fea2bee8762631c88db9a82c40234a1244442cec4b20c0f119b06f59f959af8
+.tiktok.com	TRUE	/	FALSE	1811806343	store-country-code	br
+.tiktok.com	TRUE	/	FALSE	1811806343	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1811806343	store-country-sign	MEIEDF4GtzQkpfYCQVNLywQgWf0zOVD0z2KF8Iq8OQ3FLQuqQGZ6ycjd47Orf_ItSA4EEEOGEPzcF8up4M-uJ3T5XQY
+.tiktok.com	TRUE	/	FALSE	1811806343	store-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1811806343	tt-target-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1811806343	tt-target-idc-sign	nyjmO7km8GEaHDRIp71v5Cw-78bXBFUilP2FBrfQ55QcqzhVsZqZlyRfALwtQOBpqfdqvNY2Px5qRBZvYhPM3uXuLhgQeuEzCjfzKI3boxylzH393Nc_MP-w5H9A2ZjOip1FBbibRr-ehFmEahV0Rcc_4wp49Ps_xRfVf9Ad5K8ZJqtF7YyugVRtFkEeGYGLZsL1pSsvorBf1uo_2GYiOEmzg2y0pvZGbFtyhf7xP75lroQ6ulgLCLigKslBIcMtg1MViCvewaIu8nXRunxnA2P6znG2Y6IHNJRxGBju28lhxVec3ho4nZF2_cY4WIZ0lIKHjtCMwUFIpKGQ73p5Vm4X9koBSMmlqDKKLKNCEeX9GA7QPQGyyqOsTXaHcGPHrO-DhCs6L68HN-KQrFx_RKDGze3inNiylO9ay7a27iTgfqYtnM_orY3XvPJ4nnmEfME0-QfgF7BOCjjASuhpMlvFxt3WElSDCEZn2g7oi-aXQYOFx-ew7SwapI6JCaVt
+.tiktok.com	TRUE	/	FALSE	1811814892	odin_tt	311f9875cfc294ecb339489c0b56b9d1d8a810dc70379bccf11c6344cec2ff8559ba659304623c0e3deb7283267540a3872cae574f6614771edd25a5af5db475a5a2b47f045d4a1cf45c61acda0c7976
+.tiktok.com	TRUE	/	TRUE	1784445036	msToken	LYAdfsNl6NtmWJPdazVefTlidB64gwlhc1ho9Hj0lQAT5V-NCgE-cuR7rzQq0f-LfEPcK7aUy0Olczdq9Z2al7df4pTGjqLxmbcTk24Lr1zj4nHcHU4lkkHeSMUzBNxA13aZhc6lB3dVYVg=

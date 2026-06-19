@@ -1,0 +1,42 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: teddybalucanagjr
+– Email: 
+– Mobile: 
+– Followers: 3
+– Videos: 0
+– Likes: 0
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2023
+– Country: SE
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4332)\cookies\Google Chrome_Profile 15.txt
+
+.tiktok.com	TRUE	/	TRUE	1784445036	passport_csrf_token	2efb1a4f7c3f91987f0d705c87e8d50b
+.tiktok.com	TRUE	/	TRUE	1784445036	passport_csrf_token_default	2efb1a4f7c3f91987f0d705c87e8d50b
+.tiktok.com	TRUE	/	TRUE	1784445036	cmpl_token	AgQQAPO7F-RO0rU5H_OX9N0_8pbf3J6af4owYNxCPA
+.tiktok.com	TRUE	/	TRUE	1784445036	multi_sids	7280052666280313862%3Ab2140359a54038b5978d8c8eeb9298fa
+.tiktok.com	TRUE	/	FALSE	1784445036	passport_auth_status	8172b2a96fa9ce3e8051efb8647a6845%2C
+.tiktok.com	TRUE	/	TRUE	1784445036	passport_auth_status_ss	8172b2a96fa9ce3e8051efb8647a6845%2C
+.tiktok.com	TRUE	/	TRUE	1784445036	sessionid	b2140359a54038b5978d8c8eeb9298fa
+.tiktok.com	TRUE	/	TRUE	1784445036	sessionid_ss	b2140359a54038b5978d8c8eeb9298fa
+.tiktok.com	TRUE	/	TRUE	1792140039	sid_guard	b2140359a54038b5978d8c8eeb9298fa%7C1761036040%7C15552000%7CSun%2C+19-Apr-2026+08%3A40%3A40+GMT
+.tiktok.com	TRUE	/	TRUE	1784445036	sid_tt	b2140359a54038b5978d8c8eeb9298fa
+.tiktok.com	TRUE	/	TRUE	1784445036	sid_ucp_v1	1.0.0-KDI3MWE4M2RhMTI0OThhZWZjNDBkNjliMWI0ZTcwMWI5YzliN2Q5ZDkKIQiGiJj-war8g2UQiI7dxwYYswsgDDD74p-oBjgIQBJIBBADGgNzZzEiIGIyMTQwMzU5YTU0MDM4YjU5NzhkOGM4ZWViOTI5OGZh
+.tiktok.com	TRUE	/	TRUE	1784445036	ssid_ucp_v1	1.0.0-KDI3MWE4M2RhMTI0OThhZWZjNDBkNjliMWI0ZTcwMWI5YzliN2Q5ZDkKIQiGiJj-war8g2UQiI7dxwYYswsgDDD74p-oBjgIQBJIBBADGgNzZzEiIGIyMTQwMzU5YTU0MDM4YjU5NzhkOGM4ZWViOTI5OGZh
+.tiktok.com	TRUE	/	TRUE	1784445036	tt_session_tlb_tag	sttt%7C1%7CshQDWaVAOLWXjYyO65KY-v_________PMPFV57WTiZVmzl1izg-clC1FpDivw9Nel_lL2k8FOOQ%3D
+.tiktok.com	TRUE	/	TRUE	1784445036	uid_tt	6cb5b297d9ddff5666ce1731fe1c72cf5f52c18706808e59b9c38aca7f1de99e
+.tiktok.com	TRUE	/	TRUE	1784445036	uid_tt_ss	6cb5b297d9ddff5666ce1731fe1c72cf5f52c18706808e59b9c38aca7f1de99e
+.tiktok.com	TRUE	/	FALSE	1794057142	tt-target-idc-sign	DLt4-ZkC0nWXQpXRmwBQhdZ9EfmGcHYyFKbtYozIMTrb0L2Ghla2HQIOJ7C-0vb9353KhkMnzDvYEMjf9ozOMG_EozZYheaO9cHUmFtFRkkfBKN7SjzuLkmhIw3_U9DjOPL0yEuA66kbuc9uxD1V4OsxueUYmgki0zCX4g33n0Of-UaUX5KJqLEcnS16ihmNsBKqP5xOPi_L96ZzEYikpoUggpQDQ1bvpE1dc-yNS8Fwp3LBOVYCBxJm7HHHR4ozWIXH3fWrSGEHlP4aBe1IHNl5zU44N4HFLrs-75esYvvSSpYRjGtNjLjfTBmdeigtRqR8dGIY1_9mLxBdC9N9kWJlAlL5-gwz5dspnFp9PWjlZljbelykDZfig7Uv-9fZN9XEDBKACR1kcanLgyiHahYJJwh1ZZ3LgvmrHR4GNTDML2G1u7C5i-eaAMKfvzwe5LfLDwbfFOjdd5TUuO29Ev9FtPmbiDewenEjLMNa9fc-owvT4t5Gh1OSuz86xbZr
+.tiktok.com	TRUE	/	FALSE	1784445036	store-country-code	ph
+.tiktok.com	TRUE	/	FALSE	1784445036	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1784445036	store-country-sign	MEIEDGnLVEthPYujXdPvWQQgBXrgFPErKtx2Rp4CCTfU32-TRvckX5sEQdi4KU6-YYcEEPY9yudvWUxUefDlds5G_4s
+.tiktok.com	TRUE	/	FALSE	1784445036	store-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1784445036	tt-target-idc	alisg
+.tiktok.com	TRUE	/	TRUE	1784445036	tt_chain_token	E6mM/JlHw+XRWFfCh5iPtA==
+.tiktok.com	TRUE	/	TRUE	1794755018	ttwid	1%7CIEGTLRWZS2vB3sxdn5y3WwDgwccHTMdHuWIGFz-lz1M%7C1763219017%7C4cb9cbd59468ef234ba490f3d4ca0aa52828ff336ee7ad2cc0c7aa1860f1372f
+.tiktok.com	TRUE	/	FALSE	1794755642	odin_tt	a7ee56d86440d2274ec7f4ea5ef0e798c81b55c6277c3aacebe4b70ceb7c85b780c3e77eecddfd97a03660a3bcda561143af4d8e02b1fb4ca077d34789524e922995f07b1e41a6109baf578e4ff00ee2
+.tiktok.com	TRUE	/	TRUE	1784445036	msToken	do_0Z0ZbqMUjdFbsqK1EBFvdKz2uaSCvTVTTcW0q2l9WQ0jpuB7Rlzf5yZp44PG3l9YEUNGf5YliB8PS4W9-MDQhmTzp64z6_YliV7Opo1JcQnMUwitblXRsKe2hWXBzTwfESX31V4OLpzn1ZgbA9Z8aYg==
+.tiktok.com	TRUE	/	TRUE	1797063720	_ttp	35b953Z1aC6FzaKesF2ADpxhRfV

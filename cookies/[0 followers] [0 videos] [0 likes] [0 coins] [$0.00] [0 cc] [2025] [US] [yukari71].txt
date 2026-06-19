@@ -1,0 +1,34 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: yukari71
+– Email: k***0@gmail.com
+– Mobile: 
+– Followers: 0
+– Videos: 0
+– Likes: 0
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2025
+– Country: US
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4432)\Cookies\Brave_Default.txt
+
+.tiktok.com	TRUE	/	TRUE	1786373912	sessionid	469cedf68c2c91a02bc26b9c1aa7f450
+.tiktok.com	TRUE	/	TRUE	1786373912	sessionid_ss	469cedf68c2c91a02bc26b9c1aa7f450
+.tiktok.com	TRUE	/	TRUE	1786373912	sid_guard	469cedf68c2c91a02bc26b9c1aa7f450%7C1770821911%7C15552000%7CMon%2C+10-Aug-2026+14%3A58%3A31+GMT
+.tiktok.com	TRUE	/	TRUE	1786373912	sid_tt	469cedf68c2c91a02bc26b9c1aa7f450
+.tiktok.com	TRUE	/	TRUE	1786373912	sid_ucp_v1	1.0.1-KDg5ZDczMmRhMGNlMzYwOWExNmZlNDljYWY5ZTEzZjc5NTgzOTI0M2EKIgiWiNaEuL-ximkQl7KyzAYYswsgDDC9jNPIBjgBQOsHSAQQBRoEbm8xYSIgNDY5Y2VkZjY4YzJjOTFhMDJiYzI2YjljMWFhN2Y0NTAyTgogLOamxhoUtGp2A_bC9mHtwnkRhgUaZglBK3bAhuDro80SIGpSNemwYTZOZGF_OK01yDYnf7l6qVCIoowt4PSO1oRdGAUiBnRpa3Rvaw
+.tiktok.com	TRUE	/	TRUE	1786373912	ssid_ucp_v1	1.0.1-KDg5ZDczMmRhMGNlMzYwOWExNmZlNDljYWY5ZTEzZjc5NTgzOTI0M2EKIgiWiNaEuL-ximkQl7KyzAYYswsgDDC9jNPIBjgBQOsHSAQQBRoEbm8xYSIgNDY5Y2VkZjY4YzJjOTFhMDJiYzI2YjljMWFhN2Y0NTAyTgogLOamxhoUtGp2A_bC9mHtwnkRhgUaZglBK3bAhuDro80SIGpSNemwYTZOZGF_OK01yDYnf7l6qVCIoowt4PSO1oRdGAUiBnRpa3Rvaw
+.tiktok.com	TRUE	/	TRUE	1786373912	tt_session_tlb_tag	sttt%7C3%7CRpzt9owskaArwmucGqf0UP_________bhaBjNt1Npajpx2IIE-IWBWhWvYeaxZzJEL--QurbryI%3D
+.tiktok.com	TRUE	/	TRUE	1786373912	uid_tt	312fe8d8c995f594bdeda83a6cb2368f8a42670d831e4c880ea2142c41bf8560
+.tiktok.com	TRUE	/	TRUE	1786373912	uid_tt_ss	312fe8d8c995f594bdeda83a6cb2368f8a42670d831e4c880ea2142c41bf8560
+.tiktok.com	TRUE	/	FALSE	1792017712	odin_tt	b5126ad1daf15d790e4159a4c8aa4384acc179bea7d894ce32e8c5d1cf817c1606c465a6c18a583b20a0b9b0fb56945302ee71b28f3d2007d2165e17a23dd13aeeca8bf282b95e6b891ee68f9bfab8f0
+.tiktok.com	TRUE	/	FALSE	1786373911	store-country-code	pl
+.tiktok.com	TRUE	/	FALSE	1786373911	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1786373911	store-country-sign	MEIEDITnpdbCJF4PTm45XAQg9nKMQ5Bk-wrdFlQuefU6HkltLxXMhX8ORGc8C2QxAZ4EEMC90qVVF5clBv4QM1xF0gQ
+.tiktok.com	TRUE	/	FALSE	1786373911	store-idc	no1a
+.tiktok.com	TRUE	/	FALSE	1786373911	tt-target-idc	eu-ttp2
+.tiktok.com	TRUE	/	TRUE	1784445036	msToken	iQ8PuuVy1XjH59u9Gu0x6nuxamLGmviTRPiWUYMVGV9Fgt6puATjihipTQ43u6MRRAYIa7U8ZysEVh6SwLAW3gDTxQMrDEw3KtuvrwTc90vr3PwENRnlz-Uzk6GfmRxKBF7brdUF5wsrWrE=
+.tiktok.com	TRUE	/	TRUE	1794580854	tt_chain_token	LShpVtRJkdeI2MUze/xd2g==
+.tiktok.com	TRUE	/	TRUE	1794580861	ttwid	1%7CrmsAJiLUzqbU3clhM8ojuwc7nbQRsMocKSBGYuh-K48%7C1779028861%7C382399c6b3bf787e3b1c73ef590122f23efaaf48b7744b39edf1c7d88932c343

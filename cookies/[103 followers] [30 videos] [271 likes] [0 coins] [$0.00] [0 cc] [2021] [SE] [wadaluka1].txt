@@ -1,0 +1,37 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: wadaluka1
+– Email: w***a@gmail.com
+– Mobile: 
+– Followers: 103
+– Videos: 30
+– Likes: 271
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2021
+– Country: SE
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4692)\Cookies\Google Chrome_Default.txt
+
+.tiktok.com	TRUE	/	TRUE	1784445036	cmpl_token	AgQYAPMJ_hfkTtKwzAzmA_JdPPO-GHLJSD-SgmCgIVQ
+.tiktok.com	TRUE	/	TRUE	1784445036	multi_sids	6985894743150461957%3A7df635c896b4d0831e9a3af47d2b8d9a
+.tiktok.com	TRUE	/	TRUE	1791807426	sessionid	7df635c896b4d0831e9a3af47d2b8d9a
+.tiktok.com	TRUE	/	FALSE	1807791433	odin_tt	cad3b80588841a29d26a647f5c1205d221f026dbc03420221c24b4641347c2294491877be68e601c9e61a0fbcb4421d67d62d2be89a19a69b4971ab7de214d4c928939596d08b96e780089184445d3e9
+.tiktok.com	TRUE	/	TRUE	1791807426	sessionid_ss	7df635c896b4d0831e9a3af47d2b8d9a
+.tiktok.com	TRUE	/	TRUE	1791807426	sid_tt	7df635c896b4d0831e9a3af47d2b8d9a
+.tiktok.com	TRUE	/	TRUE	1807359426	sid_guard	7df635c896b4d0831e9a3af47d2b8d9a%7C1776255396%7C15552000%7CMon%2C+12-Oct-2026+12%3A16%3A36+GMT
+.tiktok.com	TRUE	/	TRUE	1791807426	sid_ucp_v1	1.0.1-KDYwZWIyODY0NzhmMDZjNzJkMjlkNTAxMzBkNDQyZWE0M2I0MTMxYjIKIgiFiILemMi4-WAQpIP-zgYYswsgDDDUtobDBjgHQPQHSAQQAxoDc2cxIiA3ZGY2MzVjODk2YjRkMDgzMWU5YTNhZjQ3ZDJiOGQ5YTJOCiDc-o5JONR4QCdpX5XFXDG0v-qiw4kJYF4DLu4Qhkhx0RIgQkursXX55QJ3vftrsJ3ambpYsEHzQsdwVC3ZBxIqwIYYBSIGdGlrdG9r
+.tiktok.com	TRUE	/	TRUE	1791807426	tt_session_tlb_tag	sttt%7C4%7CffY1yJa00IMemjr0fSuNmv_________LL8WRa0xGEvK_LXtt9XmImJTZSrhS9voggZD9epMKVGw%3D
+.tiktok.com	TRUE	/	TRUE	1791807426	uid_tt	cc3a51ff96391f42dc511446ae5085bbd2555de3b882c8d7d7afab4340580c25
+.tiktok.com	TRUE	/	TRUE	1791807426	uid_tt_ss	cc3a51ff96391f42dc511446ae5085bbd2555de3b882c8d7d7afab4340580c25
+.tiktok.com	TRUE	/	TRUE	1791807426	ssid_ucp_v1	1.0.1-KDYwZWIyODY0NzhmMDZjNzJkMjlkNTAxMzBkNDQyZWE0M2I0MTMxYjIKIgiFiILemMi4-WAQpIP-zgYYswsgDDDUtobDBjgHQPQHSAQQAxoDc2cxIiA3ZGY2MzVjODk2YjRkMDgzMWU5YTNhZjQ3ZDJiOGQ5YTJOCiDc-o5JONR4QCdpX5XFXDG0v-qiw4kJYF4DLu4Qhkhx0RIgQkursXX55QJ3vftrsJ3ambpYsEHzQsdwVC3ZBxIqwIYYBSIGdGlrdG9r
+.tiktok.com	TRUE	/	FALSE	1809933869	store-country-code	sd
+.tiktok.com	TRUE	/	FALSE	1809933869	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1809933869	store-country-sign	MEIEDF6N-nS2wzuROw-wkgQgxu68eCdsUo8-mQbwgv8iYPnnLnui1X5aW6E-aLSepUYEEIB23KxU7FyWfZfX4PBoVHI
+.tiktok.com	TRUE	/	FALSE	1809933869	store-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1809933869	tt-target-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1809933869	tt-target-idc-sign	nJLHGPjekDleIm9k9cctTcnLFdH4BKvnyE8clZq8iTvxagJfLVqshDejnD01c4nozokTCuC6X3kWoi88XUkcDRWXU6sHSlF911BrSlrsTKV45hlaXdj7E-F9iRg3bIZ7iBC0GukX7gd6v2SI1-mn3CxQU_0SGzuqDcNptWcdjuixi0ORPmOgwvrn-uJzTlehAl6F-ldz4Cr2xEjv896QObSoYSdhVnyfosKUte5u1FSn2wiVN6iAhGKTmtQXYJRWD6mcIiTHRANq_SaVgX5jmifevlCVacl550sYb4FS-CgvIlpBrXCJBVy2lZzzHOzkMbd7oNrQQgCpdmkADptFYl5iuDGomcjeH0fLjIxN9UJzp0fGT_mOrCR7BjsNpj7gKs9oX4wwVsRSID4QgLH48AB33DV8_taGVTomixnwaWe0C8L6DL9hK_mYIo4z9cGtHocOslTr4zOtDZWahcNZTk_wqN4-VD3Dh6B3pGOJ2ap2Q-0SYxOERYxZCBsZuvAw
+.tiktok.com	TRUE	/	TRUE	1793949852	tt_chain_token	zvQi89M0s/AtnWe+qum4ZQ==
+.tiktok.com	TRUE	/	TRUE	1809933856	ttwid	1%7CRWJSSGXBgDwp4KAa5y0peDGMDSpkDhQuSzppizekgPE%7C1778397854%7Cfb7052093edaa6ed20d893f0f935a2255a0d23321dc876d02cc1969a56dccd59
+.tiktok.com	TRUE	/	TRUE	1815031041	_ttp	3AKvFfHMsj9CcPfwMGXlT3v2qQn

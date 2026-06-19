@@ -1,0 +1,38 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: hugo_holmgren
+– Email: 
+– Mobile: +46****6232
+– Followers: 1275
+– Videos: 63
+– Likes: 5223
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2022
+– Country: US
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4709)\Cookies\Microsoft Edge_Default.txt
+
+.tiktok.com	TRUE	/	TRUE	1810809972	cookie-consent	{%22optional%22:true%2C%22ga%22:true%2C%22af%22:true%2C%22fbp%22:true%2C%22lip%22:true%2C%22bing%22:true%2C%22ttads%22:true%2C%22reddit%22:true%2C%22hubspot%22:true%2C%22version%22:%22v10%22}
+.tiktok.com	TRUE	/	TRUE	1782298054	cmpl_token	AgQQAPP3F-RO0rJAlCzB_d0_840Cb1-Xv5R8YKBpcw
+.tiktok.com	TRUE	/	TRUE	1782298054	multi_sids	7097244801439826950%3A8eb2e63967c03946ed44c876e7ea38ed
+.tiktok.com	TRUE	/	TRUE	1792666054	sessionid	8eb2e63967c03946ed44c876e7ea38ed
+.tiktok.com	TRUE	/	TRUE	1792666054	sessionid_ss	8eb2e63967c03946ed44c876e7ea38ed
+.tiktok.com	TRUE	/	TRUE	1808218054	sid_guard	8eb2e63967c03946ed44c876e7ea38ed%7C1777114051%7C15552000%7CThu%2C+22-Oct-2026+10%3A47%3A31+GMT
+.tiktok.com	TRUE	/	TRUE	1792666054	sid_tt	8eb2e63967c03946ed44c876e7ea38ed
+.tiktok.com	TRUE	/	TRUE	1792666054	sid_ucp_v1	1.0.1-KDBhMzQzZGJiMjE4MDNkMmRhOTZiNWZkNmY4N2QzYTNkMGQ5MjhjNTEKIgiGiLzOtNGev2IQw7eyzwYYswsgDDC29fmTBjgHQPQHSAQQBRoEbm8xYSIgOGViMmU2Mzk2N2MwMzk0NmVkNDRjODc2ZTdlYTM4ZWQyTgog1sZ5R2YuEfUo_8dlSU6R35mchIOSRMk6P17BQ3eLmnsSICRLWkFuuOsP2uYdpv1Z6NifCGhYr2tGLr4f62fEiOGMGAIiBnRpa3Rvaw
+.tiktok.com	TRUE	/	TRUE	1792666054	ssid_ucp_v1	1.0.1-KDBhMzQzZGJiMjE4MDNkMmRhOTZiNWZkNmY4N2QzYTNkMGQ5MjhjNTEKIgiGiLzOtNGev2IQw7eyzwYYswsgDDC29fmTBjgHQPQHSAQQBRoEbm8xYSIgOGViMmU2Mzk2N2MwMzk0NmVkNDRjODc2ZTdlYTM4ZWQyTgog1sZ5R2YuEfUo_8dlSU6R35mchIOSRMk6P17BQ3eLmnsSICRLWkFuuOsP2uYdpv1Z6NifCGhYr2tGLr4f62fEiOGMGAIiBnRpa3Rvaw
+.tiktok.com	TRUE	/	FALSE	1808650054	tt-target-idc-sign	txbszIZmGAg7mpk8TnOMx_fn3IUl1Uhi7342k7GRZo6d4_sN2O3HxSeaRjDINOpGvdwWhVSAaAQHXCSeAiK2PPyRCaQ2xYrPadIFMlW6jZYjCwMY1Qoq93-XBXBf1s5s-d62RzNS4xxlTq4DZpfxga10dzNn3FgupxrL6c6jeqFj3KB0ovMHNLKtYgpxGEQnigNeFWVnL38HU6Nxo2qr1Fco_zOCsxYP5HbuFkgXfTTHEwiiyKZS56kmZd8hZrZ5bI8UlPJKVSttIE-TQwYBtZ6HcmFO1UicsW8Gt_1xbYYhaOzobfH8lN42n3Yhr-W3znUY2zh_heEvSpEp2R0JYJJEMwtsTJvSp6NOqb9wlIitHg8nXkT6nDT1qD_ucNNOrB-f5qs0G20vRJ36C42uxJS0XarRum6M2jBZXFnbtb6YYDbyFH-mNlnF82QXJ61LXbTVar1a-ydSSFARCMsPH9mCNdH6471eGfOf_YZPTOLilifDd4UNJeKag6kwE2gU
+.tiktok.com	TRUE	/	TRUE	1792666054	tt_session_tlb_tag	sttt%7C2%7CjrLmOWfAOUbtRMh25-o47QAAAAAAAAAAZ2QoaIwAo_DaPovB-O28LnM5dl70m2R5tq1F5ccu_0U%3D
+.tiktok.com	TRUE	/	TRUE	1792666054	uid_tt	9f568fe61193937deb80a9027394c7f545fea24f40062176ea4bbed274d1a021
+.tiktok.com	TRUE	/	TRUE	1792666054	uid_tt_ss	9f568fe61193937deb80a9027394c7f545fea24f40062176ea4bbed274d1a021
+.tiktok.com	TRUE	/	FALSE	1808651175	odin_tt	c3db88ed00871a060c12de542d8bc187fe6aea019722b3bdd76ab5ebda356d937a42125219a5639add19401f3922ee3514262675a210d613350545bb40aebe92
+.tiktok.com	TRUE	/	FALSE	1792666054	store-country-code	se
+.tiktok.com	TRUE	/	FALSE	1792666054	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1792666054	store-country-sign	MEIEDHdHyeZ0DiBmSndLIAQgC_uhx0TAsC-IiSg4tyVjcF0rKQbRIpAKYFbjrSvdOGQEENIiCjuIlNuId951qCW5zQg
+.tiktok.com	TRUE	/	FALSE	1792666054	store-idc	no1a
+.tiktok.com	TRUE	/	FALSE	1792666054	tt-target-idc	eu-ttp2
+.tiktok.com	TRUE	/	TRUE	1808651173	ttwid	1%7CQ3Ue53atEkBE01KRuZizWXE0EosyOyrg4ihNdI_PPRY%7C1777115170%7Ce2ffa29f05ee6485747304e3d9c4c11776ab053c4220e2b062d6ed04ad193243
+.tiktok.com	TRUE	/	TRUE	1792673260	tt_chain_token	FSD+PAC+cELb3bfVyXcRzw==
+.tiktok.com	TRUE	/	TRUE	1787944684	_ttp	3AAq3yZ5OMYGMRxiyLBnGDa39sg

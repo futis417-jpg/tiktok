@@ -1,0 +1,35 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: saranxt1
+– Email: m***4@gmail.com
+– Mobile: 
+– Followers: 11
+– Videos: 17
+– Likes: 1171
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2024
+– Country: SE
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4581)\Browsers\Cookies_Yandex_Default.txt
+
+.tiktok.com	TRUE	/	FALSE	1784445036	cookie-consent	{%22optional%22:true%2C%22ga%22:true%2C%22af%22:true%2C%22fbp%22:true%2C%22lip%22:true%2C%22bing%22:true%2C%22ttads%22:true%2C%22reddit%22:true%2C%22hubspot%22:true%2C%22version%22:%22v10%22}
+.tiktok.com	TRUE	/	FALSE	1784445036	odin_tt	09955980756c46501f43725bfc78a882d4d57f68b6a4a54ce25d204932efdc70e58c0e94672b294c5346c4e76050963e883be98a9dd7445dbc8b5d017391772551cfc9ccc2dbd30ca6da3e6de7fca938
+.tiktok.com	TRUE	/	FALSE	1784445036	sessionid	9eba47a4dc9174c0d3100ce47dbf68c4
+.tiktok.com	TRUE	/	FALSE	1784445036	sessionid_ss	9eba47a4dc9174c0d3100ce47dbf68c4
+.tiktok.com	TRUE	/	FALSE	1784445036	sid_guard	9eba47a4dc9174c0d3100ce47dbf68c4%7C1756394837%7C15551993%7CTue%2C+24-Feb-2026+15%3A27%3A10+GMT
+.tiktok.com	TRUE	/	FALSE	1784445036	sid_tt	9eba47a4dc9174c0d3100ce47dbf68c4
+.tiktok.com	TRUE	/	FALSE	1784445036	sid_ucp_v1	1.0.0-KGVjNzU1NmNmMmVlN2VmNGE0Y2Q2NzllN2JhMjZiNzUwNWU0Y2MyZGMKGQihiJ28oMfk3mYQ1erBxQYYsws4CEASSAQQBRoEbm8xYSIgOWViYTQ3YTRkYzkxNzRjMGQzMTAwY2U0N2RiZjY4YzQ
+.tiktok.com	TRUE	/	FALSE	1784445036	ssid_ucp_v1	1.0.0-KGVjNzU1NmNmMmVlN2VmNGE0Y2Q2NzllN2JhMjZiNzUwNWU0Y2MyZGMKGQihiJ28oMfk3mYQ1erBxQYYsws4CEASSAQQBRoEbm8xYSIgOWViYTQ3YTRkYzkxNzRjMGQzMTAwY2U0N2RiZjY4YzQ
+.tiktok.com	TRUE	/	FALSE	1784445036	store-country-code	de
+.tiktok.com	TRUE	/	FALSE	1784445036	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1784445036	store-country-sign	MEIEDM41ALmkTyy1LO4BUwQgW9IDxY90q33VxcZwZA0eUdhzDKI44uUBsZhqezrGhssEEDHdaT66GJ81lRmu0F4XoCg
+.tiktok.com	TRUE	/	FALSE	1784445036	store-idc	no1a
+.tiktok.com	TRUE	/	FALSE	1784445036	tt-target-idc	eu-ttp2
+.tiktok.com	TRUE	/	FALSE	1784445036	tt-target-idc-sign	SwRSLXOHiQXRreRj55Ro_Stk3Ez9gs-iHKSF_79CRNK18nU1KgWl_RFKKs4kH_eoxCLM9TJ7kjY6H5SyG_ac1SiB8B8osabkgOSIRf9IWMmxyx8GOvMnyI2AnCd_wpDb8hv6PG8Sbugt8-TfgGR82XKGYPAkJmgJtBQM1M90Ntx71ufb7cKWen7Eq0MCDHk3v7HLoEm1Vk_Vz6DOevbBqX5jXLrxVQhf33a1oCSRGUO_RvM_JmpvMjVOCKqB-LO-UNIuY1Z4OnVmmSnAw3iGrbBvelscCXAn4vg89zWnxn-CgSodGtZZbkUtFG6zbmllWR94O5ouerwZTtUKlaf1E8nEpxXrJn5LSn3zOXqImmoyhff-fWKCEW3X9e9Okb2-TDAGO5RSgaVuFXD1V94YLo4x4kGuoiLYaMDVA6UAz_4EJ6_-5bBLjlv66HmHKZjpH6A9-wMdVLYsXB9iYIBqtN9GUOV-HcpP-zt7TMmbiFSD1YSMxl2veJ0WktA9sgCi
+.tiktok.com	TRUE	/	FALSE	1784445036	tt_chain_token	JttMrIo4EuwRqbPGlpsu1A==
+.tiktok.com	TRUE	/	FALSE	1784445036	ttwid	1%7Cvdn8bM03L9JuNxX1h4RwrjuylI31c0vlW7_rInUvTuA%7C1756394837%7C90dec2f85aa0c25c1c0b399b440c2883f8a2bf92aefb32ff8130639dbb8341a5
+.tiktok.com	TRUE	/	FALSE	1784445036	uid_tt	3f5d6073647f12ef4e6d0b735dcd38f4b787fd9412c8a6cb8c99878c1beebeb2
+.tiktok.com	TRUE	/	FALSE	1784445036	uid_tt_ss	3f5d6073647f12ef4e6d0b735dcd38f4b787fd9412c8a6cb8c99878c1beebeb2
+.tiktok.com	TRUE	/	FALSE	1784445036	_ttp	316zBRtLNuTondHTj1YQ3tBG4Um

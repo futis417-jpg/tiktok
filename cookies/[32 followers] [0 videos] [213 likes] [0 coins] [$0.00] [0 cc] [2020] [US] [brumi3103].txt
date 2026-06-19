@@ -1,0 +1,40 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: brumi3103
+– Email: 
+– Mobile: +40****7328
+– Followers: 32
+– Videos: 0
+– Likes: 213
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2020
+– Country: US
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4522)\Cookies\Brave_Default.txt
+
+.tiktok.com	TRUE	/	TRUE	1784122362	cmpl_token	AgQQAPPdF-RO0o4aSEXa6t088_rW-pQO_5R7YKfwuA
+.tiktok.com	TRUE	/	FALSE	1794490362	d_ticket	2a1f2ce2b1aa0799759a9dc138114087b9a23
+.tiktok.com	TRUE	/	TRUE	1784122362	multi_sids	6783730429709517829%3Ab888d7bbcf615e542e5ba02acec91c04
+.tiktok.com	TRUE	/	FALSE	1784445036	passport_auth_status	586a2b0b8da7b8cd2b5ab41af3091fcb%2C
+.tiktok.com	TRUE	/	TRUE	1784445036	passport_auth_status_ss	586a2b0b8da7b8cd2b5ab41af3091fcb%2C
+.tiktok.com	TRUE	/	TRUE	1794490362	sessionid	b888d7bbcf615e542e5ba02acec91c04
+.tiktok.com	TRUE	/	TRUE	1794490362	sessionid_ss	b888d7bbcf615e542e5ba02acec91c04
+.tiktok.com	TRUE	/	TRUE	1794490362	sid_tt	b888d7bbcf615e542e5ba02acec91c04
+.tiktok.com	TRUE	/	TRUE	1794490362	sid_guard	b888d7bbcf615e542e5ba02acec91c04%7C1778938362%7C15552000%7CThu%2C+12-Nov-2026+13%3A32%3A42+GMT
+.tiktok.com	TRUE	/	TRUE	1794490362	sid_ucp_v1	1.0.1-KGI1OGJkNjFkODg0YTFjZTQxNjQ4ZDA3NmZhNmJlMjVjYzY4OGExNDMKIgiFiOCWpdypkl4Q-uOh0AYYswsgDDD646HQBjgCQPEHSAQQBRoEbm8xYSIgYjg4OGQ3YmJjZjYxNWU1NDJlNWJhMDJhY2VjOTFjMDQyTgog9w6fZNKS5CFeDKJb8AaB6Ub_kz8qRgZFU3OPQqo-vBISIBgA0ROy5Fp0NbqBBIYC1-O0o4F8b9Jj341kzrHc75MwGAQiBnRpa3Rvaw
+.tiktok.com	TRUE	/	TRUE	1794490362	ssid_ucp_v1	1.0.1-KGI1OGJkNjFkODg0YTFjZTQxNjQ4ZDA3NmZhNmJlMjVjYzY4OGExNDMKIgiFiOCWpdypkl4Q-uOh0AYYswsgDDD646HQBjgCQPEHSAQQBRoEbm8xYSIgYjg4OGQ3YmJjZjYxNWU1NDJlNWJhMDJhY2VjOTFjMDQyTgog9w6fZNKS5CFeDKJb8AaB6Ub_kz8qRgZFU3OPQqo-vBISIBgA0ROy5Fp0NbqBBIYC1-O0o4F8b9Jj341kzrHc75MwGAQiBnRpa3Rvaw
+.tiktok.com	TRUE	/	TRUE	1794490362	tt_session_tlb_tag	sttt%7C1%7CuIjXu89hXlQuW6AqzskcBP________-nYvuJ8DqrWUNL9R7RqgUim71EFj70EoM6-GmiM3NqwzU%3D
+.tiktok.com	TRUE	/	TRUE	1794490362	uid_tt	b29693f297c85ca68643a75c6a88a3447201311d95fa0aa6ff7abaeea03402d7
+.tiktok.com	TRUE	/	TRUE	1794490362	uid_tt_ss	b29693f297c85ca68643a75c6a88a3447201311d95fa0aa6ff7abaeea03402d7
+.tiktok.com	TRUE	/	FALSE	1795350745	tt-target-idc-sign	J248-cE2gMRbe_61ZQVJ8W6PZui4StBX7RbkDcEIApnTKPPt0afsN3Txpyw2H-XLObDiuv94e2ccJaa-EFOhXoQq4itElJZQgAkHYKKQGNX6oUjXIBj_fBMct_t2218501NaBlZpErqE32Ar6W9hPd-ojGuqFlQaYW1zCsgcmS8meuJ_AZoBk29tyMLCVrDvdO8DqunVupHfWft8SGgsVfaS-PauPzUkv8O5SaQimGyy4x5MYqBn9jT5HPp2aoz8KIbqCXjp_17B_8ROMavD_EteX7SdrD2cZcMllag3KPlmpFpiWDfWN6wlQq_O9D-CKyCl2Vi-nhboqFYyMgqTMKmOViCiq5eygUXjvAQ7k5Qf5wH99wzikA9geEeujg5Cc0ACyaQ04jzV908TRL52lT3LJLf-vIAaoDpEf_4VKw79J31pxA4qj3lmAhAdggu_LBWd3SPk4rHRXXW4HzS3FrpSd8i7ig4Taqe5AAy1TZh1k61UAXUfLSelTxpEmaqM
+.tiktok.com	TRUE	/	TRUE	1784445036	msToken	FJ9--xkmDAjJq29WtE32y42v9UE8AazyZ18MdKfSIc2_QUgou-LL449Pz2aVlpbeNCfppO4GTih542tRuLfWr1QFyeZ34DsnT_oR5cnTQlcYcUTjUPoTWwuMs00u0KxVdWFqy1Wppdyxlxk=
+.tiktok.com	TRUE	/	FALSE	1796219204	odin_tt	865860d3fee1fc2de863a5750f606dcfee703196800321ec7558a91d8a230621e9f1d781f92be0ef1693a30c65a1031582fd626c6792e699de6dc63654762b8377f34c457a1e71ca95628ef2892e7f16
+.tiktok.com	TRUE	/	FALSE	1794490362	store-country-code	ro
+.tiktok.com	TRUE	/	FALSE	1794490362	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1794490362	store-country-sign	MEIEDPw8ReHLHei31nSDtQQgJTBn8PL9YatzV860IudEupAQcMVFoIEzT4J0JxbfqMAEEBj6wHfQWA7v1B4tQTNkS30
+.tiktok.com	TRUE	/	FALSE	1794490362	store-idc	no1a
+.tiktok.com	TRUE	/	FALSE	1794490362	tt-target-idc	eu-ttp2
+.tiktok.com	TRUE	/	TRUE	1796219201	tt_chain_token	ZdmmyXDh/DyINsmC5sETLg==
+.tiktok.com	TRUE	/	TRUE	1796219205	ttwid	1%7CLGDzw1qFY7ph74jvRfYw7xgy8wqvdmVvXmgrh_a9X0Q%7C1780667206%7C6eb7d3fa7d8c4b8b4fe426a304dfa3231219749fd7c1fbe2f5d90855661aca46

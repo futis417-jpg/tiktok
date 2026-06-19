@@ -1,0 +1,38 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: taczone.md
+– Email: t***d@gmail.com
+– Mobile: 
+– Followers: 25
+– Videos: 0
+– Likes: 0
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2025
+– Country: US
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4547)\cookies\cookies_ (14191).txt
+
+.tiktok.com	TRUE	/	FALSE	1784445036	_ga	GA1.1.2109941852.1746174230
+.tiktok.com	TRUE	/	FALSE	1784445036	_ga_LWWPCY99PB	GS1.1.1746174229.1.1.1746174313.0.0.122327105
+.tiktok.com	TRUE	/	FALSE	1801456370	tt-target-idc-sign	NPdSB2r1WLkKepeXGt3Uyr_2yQENFbQ1GVKEbwDytz84oiblD4oF5-fXoNnBNRWpO6BfHTCgb7C0U7Q1SCsHw-SBVwlw26JdaLFdRfxW_w-GAnyKh9j7IyUhHqI_qNANAMdMQqQO7lEJV7bQKYzfKc5xbK0mk3oBJmMp6HB5r7okOWbGSuGuYWgA4UNZ-nc7cTdWkec1TYeukYbsL7NEpen-KuPYu3ZdOkcZTnQpzNwa6YVGeHqbcLzOAyphekhR6dF_dzWqtya6iN1W3fIRRAAAcrRd0jZL7nZDJiJDJ2R85u8aFQwapW1q0fz63BVcA86KpA0ANb3TE3A8lVs9n5om093o23HNgNdTTc8PnpKH1qGvrRrbh5ClXindl-FONWJGtuf304r28_TDYjni8bqk0WWjLgyPAJviqpfo3E8U03VRfTXrx99lYvE19MsygkQUuZ95swWyxJlqmkYBgCMeiNOBoNJeE7H2LM1WEW1ZOxAEjj7JLpHkKbf9l9xl
+.tiktok.com	TRUE	/	TRUE	1790065233	sessionid	5b5889a326686f0fae5dfb8beccf566a
+.tiktok.com	TRUE	/	TRUE	1790065233	sessionid_ss	5b5889a326686f0fae5dfb8beccf566a
+.tiktok.com	TRUE	/	TRUE	1805617233	sid_guard	5b5889a326686f0fae5dfb8beccf566a%7C1774513233%7C15552000%7CTue%2C+22-Sep-2026+08%3A20%3A33+GMT
+.tiktok.com	TRUE	/	TRUE	1790065233	sid_tt	5b5889a326686f0fae5dfb8beccf566a
+.tiktok.com	TRUE	/	TRUE	1790065233	sid_ucp_v1	1.0.1-KDA2NDczZDRhZmY3NGQ1YzA3OGVmN2U5NDliY2JhMzM5NzYwYzU5ZjcKIQiIiMSM7tf2pmUQ0diTzgYYswsgDDDDtreqBjgIQBJIBBADGgJteSIgNWI1ODg5YTMyNjY4NmYwZmFlNWRmYjhiZWNjZjU2NmEyTgogyItjx2EwNS0AMm8f2Lr_HvW-0QrITKkhimTcAlUIMQgSIAOHlNxV4FbQQAesJbAMdV7PE577NIi0vNjCBBjdp4Z5GAEiBnRpa3Rvaw
+.tiktok.com	TRUE	/	TRUE	1790065233	ssid_ucp_v1	1.0.1-KDA2NDczZDRhZmY3NGQ1YzA3OGVmN2U5NDliY2JhMzM5NzYwYzU5ZjcKIQiIiMSM7tf2pmUQ0diTzgYYswsgDDDDtreqBjgIQBJIBBADGgJteSIgNWI1ODg5YTMyNjY4NmYwZmFlNWRmYjhiZWNjZjU2NmEyTgogyItjx2EwNS0AMm8f2Lr_HvW-0QrITKkhimTcAlUIMQgSIAOHlNxV4FbQQAesJbAMdV7PE577NIi0vNjCBBjdp4Z5GAEiBnRpa3Rvaw
+.tiktok.com	TRUE	/	TRUE	1790065233	tt_session_tlb_tag	sttt%7C3%7CW1iJoyZobw-uXfuL7M9Wav________-5CSRWbkAgvsh_o5Jh0_l_dnCZxp5eQXcGjZ7HFXruT1Q%3D
+.tiktok.com	TRUE	/	TRUE	1790065233	uid_tt	5198137ae9cce3db3750b722698300fcc665b07f85c6d2a3eebaac47b66101f4
+.tiktok.com	TRUE	/	TRUE	1790065233	uid_tt_ss	5198137ae9cce3db3750b722698300fcc665b07f85c6d2a3eebaac47b66101f4
+.tiktok.com	TRUE	/	TRUE	1808382404	_ttp	2wl2uq6yezWMi6ZuzNnosCoMpQJ
+.tiktok.com	TRUE	/	FALSE	1806642955	odin_tt	42e51cd24f44a8407cd4b3d30db6fd93c1bb75004fce4791efaecba768751026a455945c7b6aba472c109650fee0c7d4978a9d46024d763e1ea2a9cc59a23326606e2a9f08656181753bb1c26b03d468
+.tiktok.com	TRUE	/	FALSE	1790065233	store-country-code	th
+.tiktok.com	TRUE	/	FALSE	1790065233	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1790065233	store-country-sign	MEIEDC75yyZ-LbicF5jgZGaoVdYhXCwqj6iFc3Ng1sdNNL-WaA5byRR0MTV8EED3xlHXmc-OcbTPChZZ3EGk
+.tiktok.com	TRUE	/	FALSE	1790065233	store-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1790065233	tt-target-idc	alisg
+.tiktok.com	TRUE	/	TRUE	1790658941	tt_chain_token	Nsjj+fA2Zgs2tBPiRW1kWA==
+.tiktok.com	TRUE	/	TRUE	1806642945	ttwid	1%7Cgb-clAQRC-oK6v1cOYBQ-rSvzuaGQ_K8RF3MZcXQjmU%7C1775106944%7Cc3bc4d736dd2c30146b6725a42044b294701b9b14d2c38d3418a0ab762e6f3cc
+.tiktok.com	TRUE	/	TRUE	1784445036	msToken	v0ZDBTXs79qFhQP5GnMnCgHGJ3Q3g822EfzeNlhtXgdup4GQh_LCegeqr9QcCMkfnPSs5b9OTdGr0a8XA9H0b5lXshfNAK9CmPylXHNn4lNQ-aXNzZ5VnTEpvNb_DABLGxoKp_bmWnTvUvc=

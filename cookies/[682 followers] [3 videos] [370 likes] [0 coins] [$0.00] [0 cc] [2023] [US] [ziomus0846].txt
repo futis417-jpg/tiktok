@@ -1,0 +1,41 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: ziomus0846
+– Email: a***l@gmail.com
+– Mobile: 
+– Followers: 682
+– Videos: 3
+– Likes: 370
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2023
+– Country: US
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4425)\Cookies\Opera_Default.txt
+
+.tiktok.com	TRUE	/	TRUE	1785503476	_ttp	3DAaX36yhpUlzTJaD5IUdJKHe7V
+.tiktok.com	TRUE	/	TRUE	1784445036	tt_csrf_token	jxsso2C9-BXRmUrfwAzv0atJ9Bzvky9SuEew
+.tiktok.com	TRUE	/	TRUE	1809255372	ttwid	1%7CfPZmwJ0TlFBXnIbSyYTiiitA-fVZ3ReeVnRauCjctyw%7C1778151372%7Cf3f675e4ca248966a1588b05ec8f4a83d00be695d55d6d0625079b57f468496c
+.tiktok.com	TRUE	/	TRUE	1783335385	cmpl_token	AgQQAPPyF-RO0rPvJioa8x088532-hWb_5R5YKet5A
+.tiktok.com	TRUE	/	TRUE	1811847397	cookie-consent	{%22optional%22:false%2C%22ga%22:false%2C%22af%22:false%2C%22fbp%22:false%2C%22lip%22:false%2C%22bing%22:false%2C%22ttads%22:false%2C%22reddit%22:false%2C%22hubspot%22:false%2C%22version%22:%22v10%22}
+.tiktok.com	TRUE	/	TRUE	1784445036	s_v_web_id	verify_movdf8sk_X9CGeC0T_9DKB_4JSy_8YaI_7oW37cISvESu
+.tiktok.com	TRUE	/	TRUE	1793703384	sessionid	b52d94a997d9028a1017265a695afd65
+.tiktok.com	TRUE	/	TRUE	1793703384	sessionid_ss	b52d94a997d9028a1017265a695afd65
+.tiktok.com	TRUE	/	TRUE	1809255385	sid_guard	b52d94a997d9028a1017265a695afd65%7C1778151385%7C15551999%7CTue%2C+03-Nov-2026+10%3A56%3A24+GMT
+.tiktok.com	TRUE	/	TRUE	1793703384	sid_tt	b52d94a997d9028a1017265a695afd65
+.tiktok.com	TRUE	/	TRUE	1793703384	sid_ucp_v1	1.0.1-KDU5YWI2ZjYwNTY3MTA4YmIyOTFhOTRjMWE3OTQyOGEwMzdjNDVhMzcKIQiFiIeW2ZHy6GMQ2d_xzwYYswsgDDC1kceeBjgIQBJIBBAFGgRubzFhIiBiNTJkOTRhOTk3ZDkwMjhhMTAxNzI2NWE2OTVhZmQ2NTJOCiCj7HGu9LGkIL2KnN1q_G9bAWXDDtMBRwQ0h3Y2tJX72xIgUH3S7dSbX6Ci5cE4iQ8JFMBwgYgo7Soj350Rlk19sAoYBCIGdGlrdG9r
+.tiktok.com	TRUE	/	TRUE	1793703384	ssid_ucp_v1	1.0.1-KDU5YWI2ZjYwNTY3MTA4YmIyOTFhOTRjMWE3OTQyOGEwMzdjNDVhMzcKIQiFiIeW2ZHy6GMQ2d_xzwYYswsgDDC1kceeBjgIQBJIBBAFGgRubzFhIiBiNTJkOTRhOTk3ZDkwMjhhMTAxNzI2NWE2OTVhZmQ2NTJOCiCj7HGu9LGkIL2KnN1q_G9bAWXDDtMBRwQ0h3Y2tJX72xIgUH3S7dSbX6Ci5cE4iQ8JFMBwgYgo7Soj350Rlk19sAoYBCIGdGlrdG9r
+.tiktok.com	TRUE	/	FALSE	1809687385	tt-target-idc-sign	udOs13zSEZN_m-sNSPhZaE2pumqcnkszLeeeYQFGC3gh6JTlluItIB7kUAunffRbsTij8v2B3yTitjVpd_Ov9E-8psiaDEj8neryB7g87J-WP5unzr8BrThLQRsPjisnXVorbdRLkHgDAvDYC_7_wSU6CKg2IeRcFGACIORK-0poT4GKNzeZNBM0_fT7uPD8FwMk6bAkzHDrAcOBO2KKNJZCpaptiAAWvFKJuVDV7tnNQ76ZyBDUx0J2imuwYHRf95a047QJbcaUgECO5OTV1KIEaAPqY9zQ-MV8Yt_IE4iW_FvpCYLr1MeslSqd4s94XSLKu2OCtoJFCjqyDg5cJGDjv5Mk0ytbcGehAC8C6Rf2VSMg0JXYwZwMWj35jM8yYab0QesokD-98FZN_jsL6jFqGGBvKnfIEXsZyNvjtZahEIJ_-dr_fedG6nbM49HRS0JQuj_8umR1fYn-sCHbm4q-VjC42a8uLstCVSHDpoqWMeLc2nRGdGyIYWAhEc56
+.tiktok.com	TRUE	/	TRUE	1793703384	tt_session_tlb_tag	sttt%7C4%7CtS2UqZfZAooQFyZaaVr9Zf________-iIelOEfpmv3DVXnyl5JSpBpN_BOmoDqDXdUT27GaQ8kQ%3D
+.tiktok.com	TRUE	/	TRUE	1793703384	uid_tt	7e411544b9361473a36501f84a08f0faedadf14d5ec2e994b0be2e9a9b3e0591
+.tiktok.com	TRUE	/	TRUE	1793703384	uid_tt_ss	7e411544b9361473a36501f84a08f0faedadf14d5ec2e994b0be2e9a9b3e0591
+.tiktok.com	TRUE	/	TRUE	1783335385	multi_sids	7192750590265508869%3Ab52d94a997d9028a1017265a695afd65
+.tiktok.com	TRUE	/	FALSE	1812135556	odin_tt	76474c48903243d11cae3dee1b1fb08883d5363b7dd2a88255d385432c77884ecdcdd7d44c0e95eeba55b1c17b80ddb5d1eb9db43a5ef443cb894a9c05aee62065f4cca3779aafb918be8b9e19265d4d
+.tiktok.com	TRUE	/	FALSE	1793703383	store-country-code	pl
+.tiktok.com	TRUE	/	FALSE	1793703383	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1793703383	store-country-sign	MEIEDJ4xXCv4Fui8KAZgZwQghGjnhGppQM_MPcKRhguYVd0DdSeSxTHTX-0XR3T4p3sEEBXV3h6S7ibRYZrgBbQKoaw
+.tiktok.com	TRUE	/	FALSE	1793703383	store-idc	no1a
+.tiktok.com	TRUE	/	FALSE	1793703383	tt-target-idc	eu-ttp2
+.tiktok.com	TRUE	/	TRUE	1796861020	tt_chain_token	e3EkZ3KkixThaj24HyGzTw==
+.tiktok.com	TRUE	/	TRUE	1782173050	msToken	eBr1xw_3tSnFaMAHLxpybjggdDRiPA_B2oAMmupARzteLFa0s9LjBnEL-wAnoLow8uYAT7VTE21Rh8nJ4feVZaqKI0LLSonviJY_nlJn6Tq9wC63RgAwT3rX5GhHJatKIadOUIjm5m7rFdY=

@@ -1,0 +1,43 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: herobrinefrl1111
+– Email: k***7@interia.pl
+– Mobile: 
+– Followers: 299
+– Videos: 28
+– Likes: 436
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2024
+– Country: US
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4481)\Browser\Cookies\Firefox_yzikqms7.default-release_[B012].txt
+
+.tiktok.com	TRUE	/	TRUE	1811444816	cookie-consent	{%22optional%22:true%2C%22ga%22:true%2C%22af%22:true%2C%22fbp%22:true%2C%22lip%22:true%2C%22bing%22:true%2C%22ttads%22:true%2C%22reddit%22:true%2C%22hubspot%22:true%2C%22version%22:%22v10%22}
+.tiktok.com	TRUE	/	FALSE	1809285442	d_ticket	4a15321ad7df18a37a391c45f6659e3c4fa82
+.tiktok.com	TRUE	/	TRUE	1782933442	multi_sids	7441277774981039126%3A157319baad89f782775685657d25cd75
+.tiktok.com	TRUE	/	TRUE	1782933442	cmpl_token	AgQQAPPyF-RO0rd6VBJ8890v85fSBQ8Wf5R5YKeCEQ
+.tiktok.com	TRUE	/	TRUE	1808853442	sid_guard	157319baad89f782775685657d25cd75%7C1777749443%7C15552000%7CThu%2C+29-Oct-2026+19%3A17%3A23+GMT
+.tiktok.com	TRUE	/	TRUE	1793301442	uid_tt	b841f1be4a6a6d909f6989e3362b5e1f9135fec2de1b10a18753472610042c58
+.tiktok.com	TRUE	/	TRUE	1793301442	uid_tt_ss	b841f1be4a6a6d909f6989e3362b5e1f9135fec2de1b10a18753472610042c58
+.tiktok.com	TRUE	/	TRUE	1793301442	sid_tt	157319baad89f782775685657d25cd75
+.tiktok.com	TRUE	/	TRUE	1793301442	sessionid	157319baad89f782775685657d25cd75
+.tiktok.com	TRUE	/	TRUE	1793301442	sessionid_ss	157319baad89f782775685657d25cd75
+.tiktok.com	TRUE	/	TRUE	1793301442	tt_session_tlb_tag	sttt%7C3%7CFXMZuq2J94J3VoVlfSXNdf________-_esCSEl_Nqlc2NTnacz23Nnsra8s7Sof9REky4Rb-wQ8%3D
+.tiktok.com	TRUE	/	TRUE	1793301442	sid_ucp_v1	1.0.1-KDhhZmMwZjllNGQ2Y2UyZDFmODRmMTJhNzAxZGJlY2I1MTk1ODBjMTAKIgiWiISm39auomcQw5vZzwYYswsgDDDz-JK6BjgEQOoHSAQQBRoEbm8xYSIgMTU3MzE5YmFhZDg5Zjc4Mjc3NTY4NTY1N2QyNWNkNzUyTgogO3XRxCOqLOoN7I3SdAJEznnSvvc_lgU7tlaeqf6LZ2sSIE3tOMDD1RInaG9HtybR-9k2Mny6dIHLn2_ovQc1bnXYGAQiBnRpa3Rvaw
+.tiktok.com	TRUE	/	TRUE	1793301442	ssid_ucp_v1	1.0.1-KDhhZmMwZjllNGQ2Y2UyZDFmODRmMTJhNzAxZGJlY2I1MTk1ODBjMTAKIgiWiISm39auomcQw5vZzwYYswsgDDDz-JK6BjgEQOoHSAQQBRoEbm8xYSIgMTU3MzE5YmFhZDg5Zjc4Mjc3NTY4NTY1N2QyNWNkNzUyTgogO3XRxCOqLOoN7I3SdAJEznnSvvc_lgU7tlaeqf6LZ2sSIE3tOMDD1RInaG9HtybR-9k2Mny6dIHLn2_ovQc1bnXYGAQiBnRpa3Rvaw
+.tiktok.com	TRUE	/	TRUE	1787244292	_ttp	3E5V7oKOPoZIfuDqQlZuLGaKmK8
+.tiktok.com	TRUE	/	TRUE	1811320810	ttwid	1%7Cmw85BkJQzDswazP3TDaY_vLurEOIKE5REqq_2cArtUU%7C1778767316%7C03683202878bd45ea963e6b78882c9208e9de0e418f7630851358db6f4fed3c5
+.tiktok.com	TRUE	/	TRUE	1787994561	_ttp	3DAnYrH8YT5O7teAGLMnSLbHDtm
+.tiktok.com	TRUE	/	TRUE	1788007259	_ttp	3EURerIHripYJw7G09gYKJbfEOQ
+.tiktok.com	TRUE	/	TRUE	1796222874	tt_chain_token	93MgKX1PS56mDgcUxATomA==
+.tiktok.com	TRUE	/	TRUE	1812211319	ttwid	1%7CwGJjHn4VXiONcMqhqh6KpPQrT-lIIJ2xJHcltCU_-LQ%7C1780675321%7C6560ee4f7eea410f28ee0b4929e447f3c67d8d3c78c51d31f2690b222412da12
+.tiktok.com	TRUE	/	FALSE	1812211324	store-idc	no1a
+.tiktok.com	TRUE	/	FALSE	1812211324	store-country-sign	MEIEDLNaj6-MHsXcscPAIQQgOR9VrnYxZH5pKVMwL4EistBP7vtYiE1XHqw0kwEJ5QkEEMWgLp3UAyeyYUfrz3nkaPA
+.tiktok.com	TRUE	/	FALSE	1812211324	store-country-code	pl
+.tiktok.com	TRUE	/	FALSE	1812211324	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1812211324	tt-target-idc	eu-ttp2
+.tiktok.com	TRUE	/	FALSE	1812211324	tt-target-idc-sign	Hbn7xjydXc-ADihAJkjrsNapol9vSl8S02l4MPYsEb7sZRgTiudYlFI7D7ioxJqEChoCAhotlC2SoUajMXS2XhBGYJj_YBLifktgqbgoky-15IDCmb-ZBXrgnf0VjucRWrGobTV5viR0zNnWd5Ar104NpJ6KZyN2fnu9ITSXvfoXv1DTqWupjtYb40BqWV_M_iZsK4EfH8rsNVsevcq5jMa9K3WTTlaKgkkpxTEQPB_VNZdmUJGBmm87-E2kxKcin-kzrZ0Z92DwRVr7Wr5cbUStQoC6bgIHBuRR8raFEz0NbOO_21BhdJZ2vnhApgE5f3-2UMt9RhdrInVKACcSVSbVQeRNZdzesprdsR8tbJ5zgumJ0NmwwRDlzuGxx2ucdUuuW4emJqFyLwQKuD31oBiCFnknqYARRUbi8ngqyr9AcQAkYSTj3qQMWzINORameb0QRVZ3q84gbk4haX1rvgEtbQL9sG6rUuk9wYtyrJ-husvewpgenoUUOk_QuEap
+.tiktok.com	TRUE	/	FALSE	1812211324	odin_tt	4e9753bf6ff00645c48dbdd16aacf8f93b8417f2a7468e846877cb645de20623a15295c2b51141cbbf37eb94b68fafd23449e8916c0718455617880a96898c09e6af71154311a3c2505b4a8f3fb89704
+.tiktok.com	TRUE	/	TRUE	1784445036	msToken	3F-10HqTYydek3Blo_gNNY1F36jeozzV2CnxlqpJw1timM9uaBB8dziAcJCt7QDSbl-QhGJzwKzZEY0QMkbHw3DwQrq6MRsHyG1uknfWheDota069mOENejRvIstUmHpr5VV9bvq0nDb

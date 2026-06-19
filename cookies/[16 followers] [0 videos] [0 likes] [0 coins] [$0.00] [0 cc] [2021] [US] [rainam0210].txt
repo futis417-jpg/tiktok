@@ -1,0 +1,36 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: rainam0210
+– Email: s***2@gmail.com
+– Mobile: 
+– Followers: 16
+– Videos: 0
+– Likes: 0
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2021
+– Country: US
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4782)\Cookies\Google Chrome_Default.txt
+
+.tiktok.com	TRUE	/	TRUE	1790194617	sessionid	afca1c254563d84d6adaa7c668472154
+.tiktok.com	TRUE	/	TRUE	1790194617	sessionid_ss	afca1c254563d84d6adaa7c668472154
+.tiktok.com	TRUE	/	TRUE	1790194617	sid_tt	afca1c254563d84d6adaa7c668472154
+.tiktok.com	TRUE	/	TRUE	1790194617	sid_ucp_v1	1.0.1-KGY5ZjI1M2MzNWM2ZWMzYmQxNDM0ZTgwMjkxOTVkZjZmZGM1YzRhMjMKIgiBiNLQg9ebsmAQusubzgYYswsgDDC39JXGBjgHQPQHSAQQAxoCbXkiIGFmY2ExYzI1NDU2M2Q4NGQ2YWRhYTdjNjY4NDcyMTU0Mk4KINmp0fBpDsxt0KPRKM6Jn4_JJkA5b9RurmJcPEz3pTpUEiA70nWer9HHT9pAm1jBKiGxx4Igw4SSHlfPnNmB64mWpBgDIgZ0aWt0b2s
+.tiktok.com	TRUE	/	TRUE	1805746618	sid_guard	afca1c254563d84d6adaa7c668472154%7C1774642618%7C15551999%7CWed%2C+23-Sep-2026+20%3A16%3A57+GMT
+.tiktok.com	TRUE	/	TRUE	1790194617	tt_session_tlb_tag	sttt%7C5%7Cr8ocJUVj2E1q2qfGaEchVP_________TCQ-7tRy50nBBWz69dxmOcuZrIslQSVJNPvsCNU5_Q00%3D
+.tiktok.com	TRUE	/	TRUE	1790194617	ssid_ucp_v1	1.0.1-KGY5ZjI1M2MzNWM2ZWMzYmQxNDM0ZTgwMjkxOTVkZjZmZGM1YzRhMjMKIgiBiNLQg9ebsmAQusubzgYYswsgDDC39JXGBjgHQPQHSAQQAxoCbXkiIGFmY2ExYzI1NDU2M2Q4NGQ2YWRhYTdjNjY4NDcyMTU0Mk4KINmp0fBpDsxt0KPRKM6Jn4_JJkA5b9RurmJcPEz3pTpUEiA70nWer9HHT9pAm1jBKiGxx4Igw4SSHlfPnNmB64mWpBgDIgZ0aWt0b2s
+.tiktok.com	TRUE	/	TRUE	1790194617	uid_tt_ss	83157182acd6a5b8307b60032bece154d58e0faa322b8f31915af04c05ec1319
+.tiktok.com	TRUE	/	TRUE	1790194617	uid_tt	83157182acd6a5b8307b60032bece154d58e0faa322b8f31915af04c05ec1319
+.tiktok.com	TRUE	/	FALSE	1806340900	tt-target-idc-sign	fcdnbh7MVqR1RfNL6u8s855c5hNAv5dZjQMULRO-sFsEDWGtuLk_WO4-xo8VLXkOxVHMrl0Z_iM1SgKABHCaZf-wvLYQbknNpUm0pNwjEjP3EjFKgIGY4m38oZVVg-GaR0jaMp4ggRdqBTSSwnxwJt_fEf6gQSer3pgixbMgmLzKege1dW7jLkcoKEclpi245DR3SI1Gsud4CrKMymNC7qQIoHGE7NYeC6Y4H8LdzklFq-c_bo8yB5URg1KrrcZf1fZE5r2PFwo9Lg4aIXvUPObV8Rvt4TKoRak0lNUy5ZgqjxBTGU4oz4B5L7yj0c-clIhk1iOpETECeazVmWni-y2xyj6xshU1vPqCEkOtpRJchbWkfYx1wWDRCDLkQ_J03bKtLdrHwXft-dKZBWXZVV4O6bJRCmuqMm2OpgsDkoJPTKCR2vve32_JR9mLxw6010O3YkdbCqDb5riEFoSKF9vWmtQiXnju0pu26UOFvCpsIkZqwxM6KIl63gvRSAQ9
+.tiktok.com	TRUE	/	TRUE	1796231124	tt_chain_token	seGm4w5bcWjjNids66LqeQ==
+.tiktok.com	TRUE	/	TRUE	1812215126	ttwid	1%7CJHiQJ1HiwHK-FuJAYnqA70Jj4EH_B9QT5Ek4YHj1iPY%7C1780679127%7C8526230ebca35d88db6d16c016e6b0993a14235aa963a2b173726ab6ead2824d
+.tiktok.com	TRUE	/	FALSE	1790194617	store-country-code	th
+.tiktok.com	TRUE	/	FALSE	1812215137	odin_tt	b07df26c671228125a581fa26bfa0d4f079ba5b277d5c5a7116d825d1c6d75054a6af1fcfb5b61ed74bd608646b82a91932ad5ecd28ab501e940c24e6b5ba4b39452c5696e1da69ba228a5a914adfad7
+.tiktok.com	TRUE	/	FALSE	1790194617	store-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1790194617	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1790194617	store-country-sign	MEIEDHidm4T5hbxEdXPjlwQgJth4o16plC-4oe-hEQ_X4NXI9p6dMg3rZqftFgIeauMEEPpCprAvmm9qV9f1lPeWgtk
+.tiktok.com	TRUE	/	FALSE	1790194617	tt-target-idc	alisg
+.tiktok.com	TRUE	/	TRUE	1784445036	msToken	PPrIM4D4h0kiIiJKKF5Am9WAf4x5aULindtul2G8WRMltBqF_d89Z9Jdp_zX1IR4_GCi6w-KtukbB1RVjenxJGtfPZMIG-4AQSc3kQYzpOgPwp4DynrFzG01jrT7LF5D65Jbr7HwJRvTYwk=
+.tiktok.com	TRUE	/	TRUE	1815065573	_ttp	33DdSzEWf2CTclnPJobm5toTJR7

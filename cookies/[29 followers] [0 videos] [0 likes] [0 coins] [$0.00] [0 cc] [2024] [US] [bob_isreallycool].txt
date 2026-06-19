@@ -1,0 +1,38 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: bob_isreallycool
+– Email: e***8@gmail.com
+– Mobile: 
+– Followers: 29
+– Videos: 0
+– Likes: 0
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2024
+– Country: US
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4247)\[Simple Checker] TikTok Cookies.txt
+
+.tiktok.com	TRUE	/	TRUE	1782370901	cmpl_token	AgQYAPO7_hfkTtKwd1lNrfrdOPLbMbYQTP-WMGCgbsg
+.tiktok.com	TRUE	/	TRUE	1782370901	multi_sids	6938278917225055233%3A76f1f0a3b77f570bb6aa73139bfda25a
+.tiktok.com	TRUE	/	TRUE	1792738901	sessionid	76f1f0a3b77f570bb6aa73139bfda25a
+.tiktok.com	TRUE	/	TRUE	1792738901	sessionid_ss	76f1f0a3b77f570bb6aa73139bfda25a
+.tiktok.com	TRUE	/	TRUE	1808290901	sid_guard	76f1f0a3b77f570bb6aa73139bfda25a%7C1777186320%7C15552000%7CFri%2C+23-Oct-2026+06%3A52%3A00+GMT
+.tiktok.com	TRUE	/	TRUE	1792738901	sid_tt	76f1f0a3b77f570bb6aa73139bfda25a
+.tiktok.com	TRUE	/	TRUE	1792738901	sid_ucp_v1	1.0.1-KDQxNjRmZGNiMDQxZmY4N2U5Mzc0Nzc3NTg4NzIyZDNlMjYxMGMzMjYKIQiBiKCuov3tpGAQkOy2zwYYswsgDDComNfOBjgIQBJIBBADGgJteSIgNzZmMWYwYTNiNzdmNTcwYmI2YWE3MzEzOWJmZGEyNWEyTgog3wBKRUq1epqw8EHsKFzz8HmXB5Jp1dIJk6nh74iWVfkSIGhgsIH-wCWK2nCZPRdT1SXbZrc8oT5hBHxdMmBb_2S7GAMiBnRpa3Rvaw
+.tiktok.com	TRUE	/	TRUE	1792738901	ssid_ucp_v1	1.0.1-KDQxNjRmZGNiMDQxZmY4N2U5Mzc0Nzc3NTg4NzIyZDNlMjYxMGMzMjYKIQiBiKCuov3tpGAQkOy2zwYYswsgDDComNfOBjgIQBJIBBADGgJteSIgNzZmMWYwYTNiNzdmNTcwYmI2YWE3MzEzOWJmZGEyNWEyTgog3wBKRUq1epqw8EHsKFzz8HmXB5Jp1dIJk6nh74iWVfkSIGhgsIH-wCWK2nCZPRdT1SXbZrc8oT5hBHxdMmBb_2S7GAMiBnRpa3Rvaw
+.tiktok.com	TRUE	/	TRUE	1792738901	tt_session_tlb_tag	sttt%7C4%7CdvHwo7d_Vwu2qnMTm_2iWv_________8Gqzb119HJPchT0AfOkiq7aE6O8-llYnvZn_4mmE_maU%3D
+.tiktok.com	TRUE	/	TRUE	1792738901	uid_tt	b4a3e6ceffc8bbce7f086cb1b4c6d5533af2fb26c2dbfe6868bc9a6a6e2291e0
+.tiktok.com	TRUE	/	TRUE	1792738901	uid_tt_ss	b4a3e6ceffc8bbce7f086cb1b4c6d5533af2fb26c2dbfe6868bc9a6a6e2291e0
+.tiktok.com	TRUE	/	FALSE	1808723143	tt-target-idc-sign	OzubVfGg67wLL7gZc3pY7Iy8Mp4PmWxv-WjDdobjVNkjZxfzCQy-9WUF7bUVpy3OJ77qJceOOiEA7ATxjy2dwiPTV0_zpk7422gQ3YGbCIjY-9Z1FD-65bbEMtqeiKqhg3Eb-gD_PM_Xk4ekvDKoPNHJXDHx-8jWFNLq91aseFAktIqav8NN5y074G9EMbj5ls-Mafhm--ZNyXZcDdRUD0O1nP3BowKH4Rf5m9tnqYlZJEy-2WJNyihj2JpTJ3W-pxOsKmfBKst8AB0D-Iya4SDorJSKYwUu9hW2_cEBOJ_8SNZQys-VvZW13Hzu7fPZp1CceQxmFU8tKjfkWSy2W6_Avqk4uNl9SNDDz8fxzrh2MK9DRa-DZnIxP2qERyqq4O2Zsnvreh5o_QkZ_B9oyYzqB7Qhgqc0ghxh7p2rQEV_v9wyssegTG2d7dBvaCbmR0Q1nlZwWS2JhQqgwuC98J94bZ6PdbbZd8DbsI6R0R4BE4ispEGhSsmj3EEVlM2A
+.tiktok.com	TRUE	/	FALSE	1792739028	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1792739028	store-country-code	ph
+.tiktok.com	TRUE	/	FALSE	1792739028	store-country-sign	MEIEDASV96IRrE3JgLFkGwQgX1aGD773u8mbBhPtm-_HNaERcu5eFgj0UxPjYzQSVS4EEMAyW_u1OCfRrGcVcw0yHvA
+.tiktok.com	TRUE	/	FALSE	1792739028	store-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1792739028	tt-target-idc	alisg
+.tiktok.com	TRUE	/	TRUE	1812332189	ttwid	1%7CImnJQ1C2Az43SYgjhxRmTZWtcPWgqC8Nc-s4ZDcdlBU%7C1780795482%7Cda75d8f98be6a2207c5ba4cea185aee5b06a365bed8feb14d14b09fd18c378dd
+.tiktok.com	TRUE	/	TRUE	1796348185	tt_chain_token	TshdffsP2KwD4DS5pBJ+sg==
+.tiktok.com	TRUE	/	FALSE	1812332791	odin_tt	1f7f447fb0b317d071228e8c840d69b484c86bf7498954bab31ccb36779d73cbd37df2a18d80590d29f0910317ca128e214bbc80967db1c1ee75b3916b336c1c388eeef9522554b8c87aaf04420677b7
+.tiktok.com	TRUE	/	TRUE	1784445036	msToken	QsGbN7jjJmayqiarj4CKb-yf1A6MAFX-HfxU_lZl5fbQjNFPydvUKG2TnrvmQyho7JsJLC4tikJ7h55sFLjEgFUYXQX_ifXTQ2Ey3A9Qe8c2ViwhTs5UWcOdokOp
+.tiktok.com	TRUE	/	TRUE	1814493435	_ttp	2mfyCzESB1HBQTKrV2nZARa6S8J

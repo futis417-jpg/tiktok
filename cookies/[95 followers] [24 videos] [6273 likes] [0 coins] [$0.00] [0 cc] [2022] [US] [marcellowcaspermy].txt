@@ -1,0 +1,47 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: marcellowcaspermy
+– Email: 
+– Mobile: 
+– Followers: 95
+– Videos: 24
+– Likes: 6273
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2022
+– Country: US
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4466)\Cookies\Opera GX_Default.txt
+
+.tiktok.com	TRUE	/	TRUE	1809546769	cookie-consent	{%22optional%22:true%2C%22ga%22:true%2C%22af%22:true%2C%22fbp%22:true%2C%22lip%22:true%2C%22bing%22:true%2C%22ttads%22:true%2C%22reddit%22:true%2C%22hubspot%22:true%2C%22version%22:%22v10%22}
+.tiktok.com	TRUE	/	TRUE	1783626756	from_way	paid
+.tiktok.com	TRUE	/	TRUE	1784445036	lang_type	en
+.tiktok.com	TRUE	/	TRUE	1784445036	passport_csrf_token	a57d2413d5d48fb199cd3d23055d7338
+.tiktok.com	TRUE	/	TRUE	1784445036	passport_csrf_token_default	a57d2413d5d48fb199cd3d23055d7338
+.tiktok.com	TRUE	/	TRUE	1784445036	tt_csrf_token	eWwmwPy7-bH3d1brdSjGPgjJ477kV4KAN4rk
+.tiktok.com	TRUE	/	TRUE	1807386756	tta_attr_id_mirror	0.1775850758.7627220928035815440
+.tiktok.com	TRUE	/	FALSE	1784445036	csrfToken	SvmSumoe-btIVP5DXXvPnAlnJvNiOCpKaUMg
+.tiktok.com	TRUE	/	TRUE	1787304767	_ttp	3C7zEOS8p522CS80mnEFnUBnZQz
+.tiktok.com	TRUE	/	TRUE	1784445036	s_v_web_id	verify_mntbpacv_HIYQyRTB_wMQr_41wZ_BhFm_OTnFNka6jrNT
+.tiktok.com	TRUE	/	TRUE	1785335765	cmpl_token	AgQQAPPyF-RO0rKxm5Kmsd0887jMObdfP4B5YKcvuA
+.tiktok.com	TRUE	/	TRUE	1785335765	multi_sids	7102024008660616197%3A5d7dad5c30fa5f4904dc60bf32b83e71%7C7462084588166235144%3A956041ad8bda716e181623199d8fd136
+.tiktok.com	TRUE	/	TRUE	1795703765	sessionid_ss	5d7dad5c30fa5f4904dc60bf32b83e71
+.tiktok.com	TRUE	/	TRUE	1811255765	sid_guard	5d7dad5c30fa5f4904dc60bf32b83e71%7C1780151766%7C15552000%7CThu%2C+26-Nov-2026+14%3A36%3A06+GMT
+.tiktok.com	TRUE	/	TRUE	1795703765	sessionid	5d7dad5c30fa5f4904dc60bf32b83e71
+.tiktok.com	TRUE	/	TRUE	1795703765	sid_tt	5d7dad5c30fa5f4904dc60bf32b83e71
+.tiktok.com	TRUE	/	TRUE	1795703765	sid_ucp_v1	1.0.1-KDFmNTAzOWRkNjJjZWMxZGNhMGNmYWQ4OTJmOGViZmVmNGQ0YWMyNTMKIgiFiIz00qbdx2IQ1uvr0AYYswsgDDDl6r2UBjgHQPQHSAQQBRoEbm8xYSIgNWQ3ZGFkNWMzMGZhNWY0OTA0ZGM2MGJmMzJiODNlNzEyTgogiBbxFHas73xLDjmzi5zcdnV58tYZ0ZNtG0tkhQXSyWwSICSxOrbuO3VoaVe4oEApR3zADiDd45Lc-G_Au3wOUpbIGAIiBnRpa3Rvaw
+.tiktok.com	TRUE	/	TRUE	1795703765	ssid_ucp_v1	1.0.1-KDFmNTAzOWRkNjJjZWMxZGNhMGNmYWQ4OTJmOGViZmVmNGQ0YWMyNTMKIgiFiIz00qbdx2IQ1uvr0AYYswsgDDDl6r2UBjgHQPQHSAQQBRoEbm8xYSIgNWQ3ZGFkNWMzMGZhNWY0OTA0ZGM2MGJmMzJiODNlNzEyTgogiBbxFHas73xLDjmzi5zcdnV58tYZ0ZNtG0tkhQXSyWwSICSxOrbuO3VoaVe4oEApR3zADiDd45Lc-G_Au3wOUpbIGAIiBnRpa3Rvaw
+.tiktok.com	TRUE	/	FALSE	1811687765	tt-target-idc-sign	IV2QNVS0z57HTWdCvy91FF6km6QMwjvuIJ3T3E5Sot1vRr5FB52qTWv3plpn6geZtCFofLhTJlCRznt9lM9lETAaf_2dVXT0EIvQ2J9s_s-F3e4J7hIvjU77wGrCTh8yyps4vO3FHMrhBNP4LZsoq0vb7oNvoPmoxgPQB7QMKZgfRyFdK5eHbiaHrnr_14maiFn0jK6ucol1uokAclCYrRsX92Ba9H54mR-dXIRm-I3M0SCEa0Ai6BYYGzQe9KtMwceEhU1fqUb-e6sQotu4chmN0PLHeaU04VghMcUV1T0uJlEwVfkaYt0gASfvIN89nrsc33WBo6-HHwDzWMo3QCwXwZDNaTwmTFBzvcfne4srndjdQP_78bmS5KntbMcmB5a_TtWK7pTIeFCy-QAGkbMuf151YCd-ijf-McAAb4iNDx_LXFpjXit8jLq4yF9RH8KMrfvAug0O3jjZdCwWvGyQKRGeRQ7xpXD76Z9BI84QryK63OQCJ7QzX2T2d50e
+.tiktok.com	TRUE	/	TRUE	1795703765	tt_session_tlb_tag	sttt%7C5%7CXX2tXDD6X0kE3GC_Mrg-cf_________yh5w3gb4h5uLkLVxnJoEffUlLwsyVwmgXben6nNy4rRE%3D
+.tiktok.com	TRUE	/	TRUE	1795703765	uid_tt_ss	24ad45b4440f185ea1caffcfafa956ff9bcba27ff76cd45e2f95f1fc09596fb4
+.tiktok.com	TRUE	/	TRUE	1795703765	uid_tt	24ad45b4440f185ea1caffcfafa956ff9bcba27ff76cd45e2f95f1fc09596fb4
+.tiktok.com	TRUE	/	FALSE	1812304178	odin_tt	4363a937698c1af8303ba7aa1b6b763b103dd4f8ac4affc6cf7bca3bd770f88b00193b18a7020da07fd18ccdf4e097efbb142cf4d7b16811b1ee2330ec78ddf4f5b701e6cede7b525c14fa3c138ad1f0
+.tiktok.com	TRUE	/	TRUE	1796320175	tt_chain_token	f+swOLfFT6wFHPjRSvES5g==
+.tiktok.com	TRUE	/	TRUE	1812304180	ttwid	1%7CbkZ2f2GhBChTXHYJVv7XwrMQn2LYF0izcytVVQ5wALQ%7C1780768180%7C6cf4fa4eeaa58065ff6903e74591c4301d180b6231f249b53577dcfb59938934
+.tiktok.com	TRUE	/	TRUE	1784445036	msToken	0Fpo4K39-AEvfo6ejosl0jIxxy6s4I-0tDYry3Pb0BM5V6-_wTFxENATWY8RPqGupgDfAsjhi1LARvBnhYFrpvpvLaWIhivw4cx5DYEzacXp-WQ3rapVCVWo_C6nry8mOYR1wj3_sAQiX0uvzP7xYn-UOII=
+.tiktok.com	TRUE	/	FALSE	1795703766	store-country-code	pl
+.tiktok.com	TRUE	/	FALSE	1795703766	store-country-sign	MEIEDE7jV9iksKuwel4SYgQgPUB9VZwGpRVsi-FnXhA1cMuMgadOeSo5aBPPdd3h8GkEEEEvRF0yOZ398qXSxM8F8x0
+.tiktok.com	TRUE	/	FALSE	1795703766	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1795703766	store-idc	no1a
+.tiktok.com	TRUE	/	FALSE	1795703766	tt-target-idc	eu-ttp2

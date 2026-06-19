@@ -1,0 +1,38 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: jocafl
+– Email: b***3@gmail.com
+– Mobile: 
+– Followers: 800
+– Videos: 0
+– Likes: 7176
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2021
+– Country: US
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (437)\Edge\Default\Cookies.txt
+
+.tiktok.com	TRUE	/	FALSE	1800642078	d_ticket	fc89a1342006034dd4520f23853cbbdfb1197
+.tiktok.com	TRUE	/	TRUE	1784445036	cmpl_token	AgQYAPNk_hfkTtKwOASKjr1dP_MSBQmIGH-Q72CgXmk
+.tiktok.com	TRUE	/	TRUE	1784445036	multi_sids	6919475356605842438%3A2f7323eb0d736c9b86e6d6d65089ac9e
+.tiktok.com	TRUE	/	TRUE	1792006892	sessionid	2f7323eb0d736c9b86e6d6d65089ac9e
+.tiktok.com	TRUE	/	TRUE	1792006892	sessionid_ss	2f7323eb0d736c9b86e6d6d65089ac9e
+.tiktok.com	TRUE	/	TRUE	1807558892	sid_guard	2f7323eb0d736c9b86e6d6d65089ac9e%7C1776454885%7C15552000%7CWed%2C+14-Oct-2026+19%3A41%3A25+GMT
+.tiktok.com	TRUE	/	TRUE	1792006892	sid_tt	2f7323eb0d736c9b86e6d6d65089ac9e
+.tiktok.com	TRUE	/	TRUE	1792006892	sid_ucp_v1	1.0.1-KDllNWJjYzQ3NDUwZjZlMzk5ZjhmYmY3M2ZmNWYyODkxY2ZmMzcyYzcKIQiGiL600MW6g2AQ5ZmKzwYYswsgDDD0tf3DBjgIQBJIBBADGgJteSIgMmY3MzIzZWIwZDczNmM5Yjg2ZTZkNmQ2NTA4OWFjOWUyTgogo-s9nMFcMi-PA4jwWe9M-DQs3yJcbNfxqMJnUFlMoaoSIENbf-r0rxNWJoxcXeCMJ7kxRQ2fcUpoiIDf-xp-kyO_GAUiBnRpa3Rvaw
+.tiktok.com	TRUE	/	TRUE	1792006892	ssid_ucp_v1	1.0.1-KDllNWJjYzQ3NDUwZjZlMzk5ZjhmYmY3M2ZmNWYyODkxY2ZmMzcyYzcKIQiGiL600MW6g2AQ5ZmKzwYYswsgDDD0tf3DBjgIQBJIBBADGgJteSIgMmY3MzIzZWIwZDczNmM5Yjg2ZTZkNmQ2NTA4OWFjOWUyTgogo-s9nMFcMi-PA4jwWe9M-DQs3yJcbNfxqMJnUFlMoaoSIENbf-r0rxNWJoxcXeCMJ7kxRQ2fcUpoiIDf-xp-kyO_GAUiBnRpa3Rvaw
+.tiktok.com	TRUE	/	TRUE	1792006892	tt_session_tlb_tag	sttt%7C3%7CL3Mj6w1zbJuG5tbWUImsnv_________sc9nM_TBzFkNd4qQTG6-Em6CdqnJuzEzjfBg_46pRpNQ%3D
+.tiktok.com	TRUE	/	TRUE	1792006892	uid_tt	cc8f61bc71d768600bbca184dd5ab597cf75d73bbf56b6a69847494fc42ae7f6
+.tiktok.com	TRUE	/	TRUE	1792006892	uid_tt_ss	cc8f61bc71d768600bbca184dd5ab597cf75d73bbf56b6a69847494fc42ae7f6
+.tiktok.com	TRUE	/	FALSE	1808068399	store-country-code	br
+.tiktok.com	TRUE	/	FALSE	1808068399	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1808068399	store-country-sign	MEIEDMuMArH5_pphDmLJpQQg5Aol-_3hov0eFiYiZpZwy9TEFa4-ZDat7EwsobyeuIsEEDjvsAUnQy7KeeDslxRZhok
+.tiktok.com	TRUE	/	FALSE	1808068399	store-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1808068399	tt-target-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1808068399	tt-target-idc-sign	OFj4TW6fB77a1gknIakqCIn-gJdU9-96yLTPiB0lgKhm9IUEUPIFVz2CFJsq2MNOOSe3JfSku1f3eOW6waRIwxRL4gFKLkemk7F4l8_a7Ioc7ql0DSf2nsRPzegtoW6u0pIRX_4iWavp2ALyRv-p_kJIbF8n4Utsg52DTC5KOgLeYWWdjPh9hVODT8hISOwTt3ebmczpb9cNJvmjrGijgo0qwL_X4oC_7k9_voftS2lVCQpWtNqRTU5_OO7Plcxh1ADzAxtgTZej8ERfbL_I9ajRMyvItm9MiBmyNDAAZ-DYhi13wnho8D4Yn3eDRi9YXFWzGdmtrVCZttBoG0kbOsR96B6eHJNcqVowNLlwaNLOHt8O35lc0zM9MQNCS2D8SDBbJns2oO8sMqkRo0S9MSQC1Z8ufGb0XDYA_XkH0EUWEl8XuB-CRGOK6SKoLjU_VViASJTdP8Vg1hIEWkmWbt7eqRPbdTdSMSfsQ3emBvI3C9SSvZYQd2nZBKei5pRg
+.tiktok.com	TRUE	/	TRUE	1792084382	tt_chain_token	tlOr87whOTt8A3fNj/EeRg==
+.tiktok.com	TRUE	/	TRUE	1808068393	ttwid	1%7CdrnOmIsGhjHktMyzXspkVa1PHqxkvC2sUiysawQHcoQ%7C1776532385%7C56b5f3b67d9d077398467f8d330a5ce611af7511c6bfc1ab1f4ef9f7caf47e38
+.tiktok.com	TRUE	/	FALSE	1808069594	odin_tt	63aacda0892013a88e529b871ae5bea9e5c5bdd23679aaa7ca5f6eb78cac6071b864559ca605e868aa73f407ed50e027f57a1a12debcd7da4a55b8bb529b2da6
+.tiktok.com	TRUE	/	TRUE	1811606012	_ttp	2z3OgMGlpTtudvaSa9kQxJGQVpk

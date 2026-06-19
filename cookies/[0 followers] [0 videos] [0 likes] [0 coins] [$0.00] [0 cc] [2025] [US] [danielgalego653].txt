@@ -1,0 +1,39 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: danielgalego653
+– Email: 
+– Mobile: 
+– Followers: 0
+– Videos: 0
+– Likes: 0
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2025
+– Country: US
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4496)\Cookies\Brave_Default.txt
+
+.tiktok.com	TRUE	/	TRUE	1785301871	cmpl_token	AgQQAPPzF-RO0riy_n0KvV0Y8HvoDEoS_6N4YKct4w
+.tiktok.com	TRUE	/	TRUE	1785301871	multi_sids	7533414807363355681%3Aacb090d1470247d50ae0db8c2328e8ca
+.tiktok.com	TRUE	/	FALSE	1795669882	odin_tt	d406c2ca982c0a3aeb295fc9ac7758d54d8dcd4397b0278635522a7dd33e25981a6c558cfb1a6e2028935d49020828bd5f437fe30bbae692289876e0ed4169431b63687eb9a049a5ce60b240186a3f97
+.tiktok.com	TRUE	/	FALSE	1782709871	passport_auth_status	86c875fd2bd3d8f9246b2c5dfa1f56f3%2C
+.tiktok.com	TRUE	/	TRUE	1782709871	passport_auth_status_ss	86c875fd2bd3d8f9246b2c5dfa1f56f3%2C
+.tiktok.com	TRUE	/	TRUE	1795669871	sessionid	acb090d1470247d50ae0db8c2328e8ca
+.tiktok.com	TRUE	/	TRUE	1795669871	sessionid_ss	acb090d1470247d50ae0db8c2328e8ca
+.tiktok.com	TRUE	/	TRUE	1795669871	sid_guard	acb090d1470247d50ae0db8c2328e8ca%7C1780117869%7C15552000%7CThu%2C+26-Nov-2026+05%3A11%3A09+GMT
+.tiktok.com	TRUE	/	TRUE	1795669871	sid_tt	acb090d1470247d50ae0db8c2328e8ca
+.tiktok.com	TRUE	/	TRUE	1795669871	sid_ucp_v1	1.0.1-KDZlODRlMzFjYjQ2ZWI5Y2NmNGZkYTk5NDc5YjY3ZmE3NzVhM2EyMTYKIQihiL6UqJuExmgQ7eLp0AYYswsgDDCUorDEBjgIQBJIBBAFGgRubzFhIiBhY2IwOTBkMTQ3MDI0N2Q1MGFlMGRiOGMyMzI4ZThjYTJOCiCkuJk22V_oAcbLocNc8SzUa4MOg4E0T1TfQrjJBfDiRhIg6jvgWv_RC1Zv3oYyYHQ4g8uIE4SwEijvOFPgZt8QcRgYBSIGdGlrdG9r
+.tiktok.com	TRUE	/	TRUE	1795669871	ssid_ucp_v1	1.0.1-KDZlODRlMzFjYjQ2ZWI5Y2NmNGZkYTk5NDc5YjY3ZmE3NzVhM2EyMTYKIQihiL6UqJuExmgQ7eLp0AYYswsgDDCUorDEBjgIQBJIBBAFGgRubzFhIiBhY2IwOTBkMTQ3MDI0N2Q1MGFlMGRiOGMyMzI4ZThjYTJOCiCkuJk22V_oAcbLocNc8SzUa4MOg4E0T1TfQrjJBfDiRhIg6jvgWv_RC1Zv3oYyYHQ4g8uIE4SwEijvOFPgZt8QcRgYBSIGdGlrdG9r
+.tiktok.com	TRUE	/	FALSE	1795669871	store-country-code	pt
+.tiktok.com	TRUE	/	FALSE	1795669871	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1795669871	store-country-sign	MEIEDC2UWnd-1Juo54Hk5AQgQ_bB6N7zwu7Mu9RR_5wo2Fnh8zLJAxbuI5lxaLBQO_MEENHAaVg-x5hFngavhK432KM
+.tiktok.com	TRUE	/	FALSE	1795669871	store-idc	no1a
+.tiktok.com	TRUE	/	FALSE	1795669871	tt-target-idc	us-eastred
+.tiktok.com	TRUE	/	FALSE	1795669871	tt-target-idc-sign	IAmFv70GU0791HI2MiT6whzSYIBHGrmDsG28y08SuJCzvBbzwgF3FCZClWkMEVJFxAKcOtm7s8w_U7YShz6s4aeYEbiWmW9xqZ1C5FwMgN9nWg3OEBIb5XCqgIb3PSS7okgfUb6TEYUVjpHSWLVfrCqgnIqqW10wY1dPVbM7Wj5k-T-H4g1w949H5dqSDU83LWOkyJC7NDTogRpkXKU4dgEYTFW0HW0Pj-Tt4rHFvorlwr7o90PBZaqi0S_yXo4Qou-ffU6hjhKLzxQyHuRcdiBkFTZPrziN61mX8w6J99vjyFio42t18g_bTbfeCreVjV00lgfWfu_O1xza_dX6KIbYMdE55wxmB0AcB6zDTxzqJykUIif5JOqCfTXCiIZkiRx8N11-vxiIrRCeftOioV2aGx8zM_HJdaVxRwqmi3XQhfjQExmxV8pgqYj46cCrEGrcJMfBKzHIuJgqWQKiPB8gGFfN9sRDszlROAKI-qPoK3Qv9q6t2PhNoKheNBHK
+.tiktok.com	TRUE	/	TRUE	1795669873	tt_chain_token	Uovb9F3i1S3LTplh+O19Ng==
+.tiktok.com	TRUE	/	TRUE	1795669871	tt_session_tlb_tag	sttt%7C1%7CrLCQ0UcCR9UK4NuMIyjoyv_________tvBiOIGkB44cJGZ4XjBAHlzyl9R1U2iAtIqB-AkCls24%3D
+.tiktok.com	TRUE	/	TRUE	1795669880	ttwid	1%7CchmfV9wM1KvUtF0PRZIbxihg_DQbRwSks8ZvmPLyt1k%7C1780117879%7Ced6d48da463adad8f1269a60c9a647a1013c87fca2c5a16f2553367e3ffd636a
+.tiktok.com	TRUE	/	TRUE	1795669871	uid_tt	61fc92ac33008778651b99215bc75a23d7408defb18326647f70386d0e4645fa
+.tiktok.com	TRUE	/	TRUE	1795669871	uid_tt_ss	61fc92ac33008778651b99215bc75a23d7408defb18326647f70386d0e4645fa
+.tiktok.com	TRUE	/	TRUE	1789165490	_ttp	3F6Fy5FHNZmx21J2q0exfq4wqUM

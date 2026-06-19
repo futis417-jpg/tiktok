@@ -1,0 +1,43 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: forlezz6580
+– Email: w***g@rambler.ru
+– Mobile: 
+– Followers: 223
+– Videos: 0
+– Likes: 0
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2025
+– Country: SE
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4683)\Browsers\Cookies_Yandex_Default.txt
+
+.tiktok.com	TRUE	/	FALSE	1784445036	cookie-consent	{%22optional%22:true%2C%22ga%22:true%2C%22af%22:true%2C%22fbp%22:true%2C%22lip%22:true%2C%22bing%22:true%2C%22ttads%22:true%2C%22reddit%22:true%2C%22hubspot%22:true%2C%22version%22:%22v10%22}
+.tiktok.com	TRUE	/	FALSE	1784445036	_ga_LWWPCY99PB	GS1.1.1745639960.2.1.1745640858.0.0.43568414
+.tiktok.com	TRUE	/	FALSE	1784445036	FPAU	1.2.207914934.1762758377
+.tiktok.com	TRUE	/	FALSE	1784445036	_fbp	fb.1.1762758377247.1047092866
+.tiktok.com	TRUE	/	FALSE	1784445036	_ga	GA1.1.GA1.1.GA1.1.1741432657.1745556569
+.tiktok.com	TRUE	/	FALSE	1784445036	_ga_GR6VLNH8D4	GS1.1.1762758354.4.0.1762759563.0.0.572379890
+.tiktok.com	TRUE	/	FALSE	1784445036	d_ticket	d3157cb0238ffe3302fa0b25d64d144f8db61
+.tiktok.com	TRUE	/	FALSE	1784445036	tt-target-idc-sign	amnvKyUFmegJPbK4S9DoPcUgNw8UH4x3S48XGR0-mLcGdILzIbpZzKZYcpOHc9Z8aJuvahTDKa1HcK8GFaIk7bIdPs9qzCoexbofbQr01ZAXBfTn5KATJ0S5dDR9W100bum-z-7vSaRJh77UvgL9C_2fsSlV3HljexD0I1aKOIXSL1hQwNC7i_95i2bFXYwO9MCTIXEEm_gU0RTb-uLdNTmX-l0OF4YkaGcLvcEh3BZ6asjf0uZi5Mh7KvB2H9IjqoGvO_KzlWIwmXCT-ZL5zyl_HDU546DvOEhyMIQuQqt40oinzHgKji0Fs-yu5oU_0Qk8rBfcWF_CkO04kI6sP5SGbAApPnT4YmXE5iVnzZwhcJChRaozWOIs9lyrOwWvbEfdo9Jb8TcfTJVrckaqHOjtfs1JjB-yh8arVVornJU7IcKmxnbZQbWFc8N_4nld7g-ek-q5TIo0qvbpTl4QtRjBfni03gckeVdfopjI9MHti3gpfhs4QS1VyL7dhgXc
+.tiktok.com	TRUE	/	FALSE	1784445036	odin_tt	913b8eef08ec7d3457e508e7a8c84e61276699eec6bb6d9221a2cdb299b01c133231bec103ac9efda8535ebedf7cef9bef87b4bea81eae8b1bd81a0cd445d5a2
+.tiktok.com	TRUE	/	FALSE	1784445036	_ttp	2y6zezeYSDahZMwutYIM1IvgI5Y
+.tiktok.com	TRUE	/	FALSE	1784445036	msToken	OuzUDis57qqEIKP98ZhYCTDO-auABnMmcK9u7QRG29FLgzAiueNxspgxJoEiVzcLOEGdjOx02zSaWu9gz974ra_ppded8a9CGxk-jD0cUmAb1_gNbLa4tEk5Ej_PBOE861reUntIN0knIA==
+.tiktok.com	TRUE	/	FALSE	1784445036	sessionid	aa6e145326fda25bb91b0adba527f99b
+.tiktok.com	TRUE	/	FALSE	1784445036	sessionid_ss	aa6e145326fda25bb91b0adba527f99b
+.tiktok.com	TRUE	/	FALSE	1784445036	sid_guard	aa6e145326fda25bb91b0adba527f99b%7C1767697738%7C10722031%7CSun%2C+10-May-2026+13%3A29%3A29+GMT
+.tiktok.com	TRUE	/	FALSE	1784445036	sid_tt	aa6e145326fda25bb91b0adba527f99b
+.tiktok.com	TRUE	/	FALSE	1784445036	sid_ucp_v1	1.0.1-KDQwY2JjYTFhOWUyZDdiMDc4Yzc0M2Q1YWE0MWI2NjZhM2M3MDlkMDUKGAieiLHmte_H_2cQytrzygYYsws4BkDvBxAEGgd1c2Vhc3Q1IiBhYTZlMTQ1MzI2ZmRhMjViYjkxYjBhZGJhNTI3Zjk5YjJOCiBiQvMxPYuLe36Zv3IIkRDeogwsDBXnxgQUWt2-pm3lkBIgCBu-hPm7I-WGSKpVWoQ6VjgOwDVFp3zbHCtgLKrRZUsYASIGdGlrdG9r
+.tiktok.com	TRUE	/	FALSE	1784445036	ssid_ucp_v1	1.0.1-KDQwY2JjYTFhOWUyZDdiMDc4Yzc0M2Q1YWE0MWI2NjZhM2M3MDlkMDUKGAieiLHmte_H_2cQytrzygYYsws4BkDvBxAEGgd1c2Vhc3Q1IiBhYTZlMTQ1MzI2ZmRhMjViYjkxYjBhZGJhNTI3Zjk5YjJOCiBiQvMxPYuLe36Zv3IIkRDeogwsDBXnxgQUWt2-pm3lkBIgCBu-hPm7I-WGSKpVWoQ6VjgOwDVFp3zbHCtgLKrRZUsYASIGdGlrdG9r
+.tiktok.com	TRUE	/	FALSE	1784445036	store-country-code	us
+.tiktok.com	TRUE	/	FALSE	1784445036	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1784445036	store-country-sign	MEIEDDvJDnSwkCzZR59yfgQg02TYRk067W3xEGltmV5Eo9tBdSz984CWd1Wglem_6WQEED_Dtw8WnbqFqQOJxp6QPyo
+.tiktok.com	TRUE	/	FALSE	1784445036	store-idc	useast5
+.tiktok.com	TRUE	/	FALSE	1784445036	tt-target-idc	useast5
+.tiktok.com	TRUE	/	FALSE	1784445036	tt_chain_token	MI/Or8MkneRHTVsSrby0yw==
+.tiktok.com	TRUE	/	FALSE	1784445036	tt_session_tlb_tag	sttt%7C2%7Cqm4UUyb9olu5GwrbpSf5m__________BdSM00p5sg__TsBLgteCSnapfxzud3jQCcE8VIGXjKGM%3D
+.tiktok.com	TRUE	/	FALSE	1784445036	ttwid	1%7CB7p_uPFjNdyISJdkV79ugqdRJQQ20lWo0w3yFpAlxfg%7C1767697738%7C09472227d8d5a7a4c4f986fddc6e9b0297328c41d55e787a4c92e5c8b8c51eb7
+.tiktok.com	TRUE	/	FALSE	1784445036	uid_tt	02715ba931254b71dffc30be127815b7db0c8fb2ec8eaaf8a27597ecdb6c254a
+.tiktok.com	TRUE	/	FALSE	1784445036	uid_tt_ss	02715ba931254b71dffc30be127815b7db0c8fb2ec8eaaf8a27597ecdb6c254a

@@ -1,0 +1,41 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: zinkx26
+– Email: d***s@gmail.com
+– Mobile: +46****4879
+– Followers: 1498
+– Videos: 0
+– Likes: 72
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2023
+– Country: US
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4699)\Cookies\Microsoft Edge_Default.txt
+
+.tiktok.com	TRUE	/	TRUE	1811130618	cookie-consent	{%22optional%22:true%2C%22ga%22:true%2C%22af%22:true%2C%22fbp%22:true%2C%22lip%22:true%2C%22bing%22:true%2C%22ttads%22:true%2C%22reddit%22:true%2C%22hubspot%22:true%2C%22version%22:%22v10%22}
+.tiktok.com	TRUE	/	FALSE	1784445036	passport_auth_status	dfb174458ae730a8a369cca7d2ee1dc7%2C
+.tiktok.com	TRUE	/	TRUE	1784445036	passport_auth_status_ss	dfb174458ae730a8a369cca7d2ee1dc7%2C
+.tiktok.com	TRUE	/	TRUE	1784285810	cmpl_token	AgQQAPNSF-RO0rTBLDu2Jh0T85Dm3ev-_4F8YKfqBA
+.tiktok.com	TRUE	/	FALSE	1810637810	d_ticket	099087cb633a6dd38a065ab6a536fbcec39f5
+.tiktok.com	TRUE	/	TRUE	1784285810	multi_sids	7634023438654997526%3A61dbc62fa118abd155f152d34f85a012%7C7620319382145926166%3Adba8ae3da8ed34ea0c0e5a36036aed1a%7C7277749499166245930%3A200ee7b5fb185e623869817bb1655821
+.tiktok.com	TRUE	/	TRUE	1794653810	sessionid	200ee7b5fb185e623869817bb1655821
+.tiktok.com	TRUE	/	TRUE	1794653810	sessionid_ss	200ee7b5fb185e623869817bb1655821
+.tiktok.com	TRUE	/	TRUE	1810205810	sid_guard	200ee7b5fb185e623869817bb1655821%7C1779101810%7C15552000%7CSat%2C+14-Nov-2026+10%3A56%3A50+GMT
+.tiktok.com	TRUE	/	TRUE	1794653810	sid_tt	200ee7b5fb185e623869817bb1655821
+.tiktok.com	TRUE	/	TRUE	1794653810	sid_ucp_v1	1.0.1-KDRlMDkwNWFmNmQ3ZmIzMDQ2MjdhNGVmMmZkZGE4OWRiM2YwNzkzNGYKGgiqiNPww9Pw_2QQ8uCr0AYYsws4BEDqB0gEEAQaB3VzZWFzdDUiIDIwMGVlN2I1ZmIxODVlNjIzODY5ODE3YmIxNjU1ODIxMk4KIM2MOwAEE9FazaR8INqEO3fbwrGOECnFIaGTo61uVWZOEiAyhcMdh8V6GQhqVTqR3Ezvtl3w36l14LhG4ZQ5f21u2BgCIgZ0aWt0b2s
+.tiktok.com	TRUE	/	FALSE	1810637814	odin_tt	c2ebdce2c8cc0986d7af23d7b47b488da9a34c80f4aaff554aea7e5e6bf1896841e362de705519ef513d019ee23ff6c4f52152a2d1882c64b19e5c75ba690fab2276793ebf99977b451572c715515c1d
+.tiktok.com	TRUE	/	TRUE	1794653810	ssid_ucp_v1	1.0.1-KDRlMDkwNWFmNmQ3ZmIzMDQ2MjdhNGVmMmZkZGE4OWRiM2YwNzkzNGYKGgiqiNPww9Pw_2QQ8uCr0AYYsws4BEDqB0gEEAQaB3VzZWFzdDUiIDIwMGVlN2I1ZmIxODVlNjIzODY5ODE3YmIxNjU1ODIxMk4KIM2MOwAEE9FazaR8INqEO3fbwrGOECnFIaGTo61uVWZOEiAyhcMdh8V6GQhqVTqR3Ezvtl3w36l14LhG4ZQ5f21u2BgCIgZ0aWt0b2s
+.tiktok.com	TRUE	/	FALSE	1810637816	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1810637816	store-country-code	us
+.tiktok.com	TRUE	/	FALSE	1810637816	store-idc	useast5
+.tiktok.com	TRUE	/	FALSE	1810637816	tt-target-idc	useast5
+.tiktok.com	TRUE	/	FALSE	1810637816	store-country-sign	MEIEDBk8I0YpKuCdckeeSQQgW5oj0TaTJ6EKtBfn1MQD79IHbwv6H_OkV5gbAMibjAIEEFWIDlpo7wpKnv3fA0wiqws
+.tiktok.com	TRUE	/	TRUE	1794653813	tt_chain_token	P8Iwe7OKcQp5OE7bNKbwtg==
+.tiktok.com	TRUE	/	TRUE	1794653810	tt_session_tlb_tag	sttt%7C1%7CIA7ntfsYXmI4aYF7sWVYIf________-63cVcbCRv-lHNgiyJuS3wrfSfbR3RSoJ9r5ynTLfZ1Ok%3D
+.tiktok.com	TRUE	/	FALSE	1810637816	tt-target-idc-sign	Nrw4MKPczZlkTWK5Zc6MDrRiZ2ZcYu4daQd4yng3R14Y9E5up41jmfn1Ve4yVBqOqJY4gy5o8yp_yVxRM0RV_ES_gRXb2PCdb5Rvt_9I93r5vG-dGYjaRK4k5zT9MsdVi7LjFNoUEGF-nqLcZhB4XbugMXx55klQjB0KcPJL_9PyUP5o8-Ud7SuIm1IDmfOnTobAqkDiue5ZIxdNu1-7LP-mHNKsIl-P5B8iWZpOOhOlqlf9H0jyz47kDVKU0nlGtVY2VcZZHtEpqzyO_74rI9Y0agyzgSdRgG0ka0_hlD3KjwtIkojjLtGatO1DbtVSr-Yz4Bgda8yHaEU079Y83V9ib7ZTkjw9aoenuP2f2BDL15JR7PIOtfJag_rLkKQCxfnwHoHJs_Mi_DDYTjzBpgQA0Urdb-8qks1Rk8wuUWU25kgrehOpf-mMy855FUv91OIg9Pazsgloa70zRVdVdo1FLKkyGlNria6gmPXSxvkq2KVlKMWFBv0s6rNLrL-M
+.tiktok.com	TRUE	/	TRUE	1810637816	ttwid	1%7Ci07Q0_i7-YYaD3SSqo8uL0LJce09MXNMb2Xe0v6S5_E%7C1779101815%7Cf3b53e7722738d8102f75a582ace12026af8f53ad5534c3e41aa182ff370cb65
+.tiktok.com	TRUE	/	TRUE	1794653810	uid_tt	d94669bcd35e2fbeac2b0145d6a27d319bac2e8e4dc2a20bc7abdfabbd20781a
+.tiktok.com	TRUE	/	TRUE	1794653810	uid_tt_ss	d94669bcd35e2fbeac2b0145d6a27d319bac2e8e4dc2a20bc7abdfabbd20781a
+.tiktok.com	TRUE	/	TRUE	1788178915	_ttp	3Ea3aOOex5l3WpaRONexaiMuxPY

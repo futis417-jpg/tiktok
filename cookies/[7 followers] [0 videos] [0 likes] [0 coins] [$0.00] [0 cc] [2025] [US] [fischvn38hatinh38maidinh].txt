@@ -1,0 +1,35 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: fischvn38hatinh38maidinh
+– Email: 
+– Mobile: 
+– Followers: 7
+– Videos: 0
+– Likes: 0
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2025
+– Country: US
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4719)\Cookies\Google Chrome_Default.txt
+
+.tiktok.com	TRUE	/	TRUE	1784544286	sid_ucp_v1	1.0.1-KGU0YTBkOTU0ZDNiZDNkMmJjMTY1MzM0OTU2YTMxNzc5MTFlMTYxZDkKIQiSiI-c6KrXw2cQkdzCywYYswsgDDCBu528BjgIQApIBBADGgNteTIiIGUyZDkwNmZlMWUyYmYwZDUyZWE5NDQwZTQxZGM0NDExMk4KINUsTUd0dfn5L_dF-kd5Z-1TCH-P8rMv4lHoNI4drFzyEiDAaV2QTSnsAAelR4j2_qtu6EfNqEOm1EAnS0Jf0xa4kRgEIgZ0aWt0b2s
+.tiktok.com	TRUE	/	TRUE	1784544286	ssid_ucp_v1	1.0.1-KGU0YTBkOTU0ZDNiZDNkMmJjMTY1MzM0OTU2YTMxNzc5MTFlMTYxZDkKIQiSiI-c6KrXw2cQkdzCywYYswsgDDCBu528BjgIQApIBBADGgNteTIiIGUyZDkwNmZlMWUyYmYwZDUyZWE5NDQwZTQxZGM0NDExMk4KINUsTUd0dfn5L_dF-kd5Z-1TCH-P8rMv4lHoNI4drFzyEiDAaV2QTSnsAAelR4j2_qtu6EfNqEOm1EAnS0Jf0xa4kRgEIgZ0aWt0b2s
+.tiktok.com	TRUE	/	FALSE	1802179022	tt-target-idc-sign	HpmiMidkOxZ7wzpgjARPslJCOWf3xRzHP4EStJgkyFx71Rz-dqBnRYTs_NwbGSId7jvtMhsDcC6PRqtmcydPeYuOPl83ZWcVDZrR3trPtDog9xNTRwB2U1dl6Y8Ec_eTD1hTL44hQ0vD17lJ21dNWQPzEEo85B_lvtoQQE0OxlKtbESKGmzGfs2yjm-ueyJEz4FIC-mgdNalPXeerCVGuD-L9Bdh7tk1qJM99aDOW8lWh73JqlTdDMDDyrwsATZASSsYo5-F-zZ8v0aqL0NoVdhjwE9eyTZBiQLnkYrRuLx3CD5m98pvsGC_jmZdaAvAq7-nmFWYS7F_iYIxz0inUrfo7JpaMy6pU3E1eVdI0BoLeYCLJO08PYEbwGe33kaMTjVIB_nadhAOjI35iD5UeQ9hYm4x2LE6NMLreHBM_3mJaVX7kBiRCISli46c2SGAqbiV21N0sSsLgNmPfYotxHIssaPc6J1C0ZdEu12Ozc85ue6U3W1RgFEk9f2YbyHM
+.tiktok.com	TRUE	/	TRUE	1791730738	sessionid	e2d906fe1e2bf0d52ea9440e41dc4411
+.tiktok.com	TRUE	/	TRUE	1791730738	sessionid_ss	e2d906fe1e2bf0d52ea9440e41dc4411
+.tiktok.com	TRUE	/	TRUE	1808633428	sid_guard	e2d906fe1e2bf0d52ea9440e41dc4411%7C1777529429%7C14201310%7CSun%2C+11-Oct-2026+14%3A58%3A59+GMT
+.tiktok.com	TRUE	/	TRUE	1791730738	sid_tt	e2d906fe1e2bf0d52ea9440e41dc4411
+.tiktok.com	TRUE	/	TRUE	1791730738	uid_tt	56bb8f7bc3875fdff3e1f19886a9ff4f13fda30dd9142f3eae56f1e7a5d0d358
+.tiktok.com	TRUE	/	TRUE	1791730738	tt_session_tlb_tag	sttt%7C4%7C4tkG_h4r8NUuqUQOQdxEEf_________-6PZjDdf5vOmpuZZy_5Y2BjeP-ASnpZ5OgDHEC7vVNYw%3D
+.tiktok.com	TRUE	/	TRUE	1791730738	uid_tt_ss	56bb8f7bc3875fdff3e1f19886a9ff4f13fda30dd9142f3eae56f1e7a5d0d358
+.tiktok.com	TRUE	/	FALSE	1791730740	store-country-code	vn
+.tiktok.com	TRUE	/	FALSE	1791730740	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1791730740	store-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1791730740	store-country-sign	MEIEDKCcbrngfBcRYysPrQQgbQ5SvsioG3dLonfJFWjC0qDdSCO9TDksd8l1IS-ACY0EEPr_D8tgf1ooNI_ejTDMA-4
+.tiktok.com	TRUE	/	FALSE	1791730740	tt-target-idc	alisg
+.tiktok.com	TRUE	/	TRUE	1810867716	ttwid	1%7Caei2lKnIt73QfwzxTwjTWTHhkTzHeB1JClkf4uW2pwE%7C1779331715%7C29e6b4235824933f053b1bc210589b42d9195388324e5aa4163d87e4dde0793a
+.tiktok.com	TRUE	/	TRUE	1794883709	tt_chain_token	tEN8fwSIgePwCJiz7zl6aQ==
+.tiktok.com	TRUE	/	FALSE	1810868320	odin_tt	c5affb406fd1a757d8cf92c9da0b8d08b72bc515cec08538400159190abde0275aa5fb4395297946bd06bea092366b6eedf02574fbfb0eaf9b21f0ac3a07e1af1adaae3b9fb404ad4d872bd495f3def3
+.tiktok.com	TRUE	/	TRUE	1813288824	_ttp	38c1uA54V4cQ7EoNH4uKRABr0Hi

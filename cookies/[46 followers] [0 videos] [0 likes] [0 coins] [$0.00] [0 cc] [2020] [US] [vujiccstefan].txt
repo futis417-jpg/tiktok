@@ -1,0 +1,39 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: vujiccstefan
+– Email: 
+– Mobile: +381****3488
+– Followers: 46
+– Videos: 0
+– Likes: 0
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2020
+– Country: US
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4542)\Cookies\Opera GX_Default.txt
+
+.tiktok.com	TRUE	/	FALSE	1790018153	_ga_LWWPCY99PB	GS1.1.1755455398.4.1.1755458153.0.0.1700493550
+.tiktok.com	TRUE	/	FALSE	1790017743	_ga	GA1.1.808494614.1740773913
+.tiktok.com	TRUE	/	FALSE	1787310497	tt-target-idc-sign	hSmBsEE7btzAbIN4M_8fLUW0LAslnR868D2keg_uH-fsc2a5RAPIaWbVPP7Y1mqFjmUxVSWEM_Q7l_DlVv1sSI9mhUxGPoYlGk1_pioESFGyUIuAiYivohs38_yCTNkluFuuVnTh0DiG1qihA6AwPy5fT87dkaeccWX9ypWdW3nZsQjr11yMJ0bFKdv7mpEW_v0GVNUkDll3Emuz8biZbzcgvwK_jgLT0ImV40hSgReL0oWGQT7Keidod7kBI90edrb9p0jMM2djlUnnA-O2j06McdrktHQmRzIkPAPcdxpzjxZ6BI6Qdnl8GUIYlOQZ1DutEm-Oq0_qtgM3YVzDQw2jljZB1Xo1avhlc5GUl1ikdqkPErkJHuztcagk-8jHV2iJv0Au53Tc6sFlC7V1su-ZxDXpOLejTs-RcQUO-G6-LjwjXHztQCSovvmoGJBoX9wUr5a4oXcZc5gzXUCf8JBn6nDcPSSYbPhQfEZE9zli6v_O_8gwsJrmd9w7sWAM
+.tiktok.com	TRUE	/	TRUE	1795351595	sessionid	240beb493d145263b65fa56ff6597601
+.tiktok.com	TRUE	/	TRUE	1795351595	sessionid_ss	240beb493d145263b65fa56ff6597601
+.tiktok.com	TRUE	/	TRUE	1810903595	sid_guard	240beb493d145263b65fa56ff6597601%7C1779799599%7C15552000%7CSun%2C+22-Nov-2026+12%3A46%3A39+GMT
+.tiktok.com	TRUE	/	TRUE	1795351595	sid_tt	240beb493d145263b65fa56ff6597601
+.tiktok.com	TRUE	/	TRUE	1795351595	ssid_ucp_v1	1.0.1-KDg4NjNkYTBhYWU4MWJmY2M5OGY1NTliNmQ0MWY0NjU5YzU4Yzk0MDcKIgiFiKDEvJygq14Qr6zW0AYYswsgDDCig9ryBTgHQPQHSAQQAxoDc2cxIiAyNDBiZWI0OTNkMTQ1MjYzYjY1ZmE1NmZmNjU5NzYwMTJOCiCA4GcFyQI4kXp-NO8zxBddrcxc9MJi-wNFp8ac3rKX3hIgoT5JeVf-ex2LFxZvC0MyN1c4lJhyQ31-_gJXtd2Tx-kYAyIGdGlrdG9r
+.tiktok.com	TRUE	/	TRUE	1795351595	sid_ucp_v1	1.0.1-KDg4NjNkYTBhYWU4MWJmY2M5OGY1NTliNmQ0MWY0NjU5YzU4Yzk0MDcKIgiFiKDEvJygq14Qr6zW0AYYswsgDDCig9ryBTgHQPQHSAQQAxoDc2cxIiAyNDBiZWI0OTNkMTQ1MjYzYjY1ZmE1NmZmNjU5NzYwMTJOCiCA4GcFyQI4kXp-NO8zxBddrcxc9MJi-wNFp8ac3rKX3hIgoT5JeVf-ex2LFxZvC0MyN1c4lJhyQ31-_gJXtd2Tx-kYAyIGdGlrdG9r
+.tiktok.com	TRUE	/	TRUE	1795351595	uid_tt	cff94fbb0e8ad474dc32e8847bc4aa6a7ba691e3a2f2b8a47265c79b6c06a554
+.tiktok.com	TRUE	/	TRUE	1795351595	uid_tt_ss	cff94fbb0e8ad474dc32e8847bc4aa6a7ba691e3a2f2b8a47265c79b6c06a554
+.tiktok.com	TRUE	/	TRUE	1795351595	tt_session_tlb_tag	sttt%7C4%7CJAvrST0UUmO2X6Vv9ll2Af_________t1kaxn1HqWb8TJiw6M82uCS2AOuVjIFHFQfYUKpJT42Q%3D
+.tiktok.com	TRUE	/	TRUE	1788039926	_ttp	2lGO2rph24ri2u5u00n6EMrdsc3
+.tiktok.com	TRUE	/	TRUE	1784445036	tt_csrf_token	tXtUAtfZ-irOSprE0CPgbZZV4sQ5lFr2qGtI
+.tiktok.com	TRUE	/	FALSE	1795351597	store-country-code	rs
+.tiktok.com	TRUE	/	FALSE	1795351597	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1795351597	store-country-sign	MEIEDP0LEgbRxMx7ZOCg3AQgprSxEKg4k208VgTiTf5q03C5xHkOgiepLdokDGCQxzQEEJLJQnkFmDGX-gLi4NBePB8
+.tiktok.com	TRUE	/	FALSE	1795351597	store-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1795351597	tt-target-idc	alisg
+.tiktok.com	TRUE	/	TRUE	1796857476	tt_chain_token	o6hazGgr4gesGdGwpspePw==
+.tiktok.com	TRUE	/	TRUE	1812841480	ttwid	1%7CGrZZI_nnmQjtEIei0QdXKOmlSGrXzI1GLROAROXKtbI%7C1781305481%7C0de103f5b3dd5afec5981cdc49b9e8a67f8410a39deb7314ca68e834e27da8a7
+.tiktok.com	TRUE	/	TRUE	1782169493	msToken	NQrKnFESWJUcOli9WFtXOfqSray36XdVIZGPrFoDKRn6bfwJ1ShIKgZ40xTcJF3UTj6s7bxDrnNqNT6B_ZdztK45oq0T-c1FxWrcSRaAEKFj3a--6ihKE4NhqbKs
+.tiktok.com	TRUE	/	FALSE	1812841491	odin_tt	edb0ad15ccc88f2c6d976fe17341a7ea18031787fb42adcfee3647cd787bee71148fae6bd6a02a7f4f95dbaad61eb03bcd2b58049f17137cb24a1fda6993e3120c69ce25cb9054de5abcd77cd03daf9c

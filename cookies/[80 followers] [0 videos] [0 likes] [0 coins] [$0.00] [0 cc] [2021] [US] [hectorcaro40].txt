@@ -1,0 +1,36 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: hectorcaro40
+– Email: h***o@gmail.com
+– Mobile: +54****3291
+– Followers: 80
+– Videos: 0
+– Likes: 0
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2021
+– Country: US
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4744)\cookies\cookies_ (10564).txt
+
+.tiktok.com	TRUE	/	FALSE	1800731114	d_ticket	0d85f29547f99cc2ddfb911b48c4f027fb29c
+.tiktok.com	TRUE	/	TRUE	1784747114	sessionid	283c594b69426c20d30cc9759656e794
+.tiktok.com	TRUE	/	TRUE	1784747114	sessionid_ss	283c594b69426c20d30cc9759656e794
+.tiktok.com	TRUE	/	TRUE	1800299114	sid_guard	283c594b69426c20d30cc9759656e794%7C1769195113%7C15552000%7CWed%2C+22-Jul-2026+19%3A05%3A13+GMT
+.tiktok.com	TRUE	/	TRUE	1784747114	sid_tt	283c594b69426c20d30cc9759656e794
+.tiktok.com	TRUE	/	TRUE	1784747114	sid_ucp_v1	1.0.1-KGYwMmJkM2YxYTYzMWFjZjg4MWI4MzNiYzU3Y2E3OWU2YWVkOTUxZjIKIgiFiNq-y42yjmEQ6YzPywYYswsgDDDQ1-HGBjgBQOoHSAQQAxoCbXkiIDI4M2M1OTRiNjk0MjZjMjBkMzBjYzk3NTk2NTZlNzk0Mk4KIGhIpQgZTIBilyQ0bXU1c0chg-kLE82jVv17yav8HNTCEiCwwTk9lthJIDyC7gqweN46AZsMrmCPzBopH0YbDFTUIBgDIgZ0aWt0b2s
+.tiktok.com	TRUE	/	TRUE	1784747114	ssid_ucp_v1	1.0.1-KGYwMmJkM2YxYTYzMWFjZjg4MWI4MzNiYzU3Y2E3OWU2YWVkOTUxZjIKIgiFiNq-y42yjmEQ6YzPywYYswsgDDDQ1-HGBjgBQOoHSAQQAxoCbXkiIDI4M2M1OTRiNjk0MjZjMjBkMzBjYzk3NTk2NTZlNzk0Mk4KIGhIpQgZTIBilyQ0bXU1c0chg-kLE82jVv17yav8HNTCEiCwwTk9lthJIDyC7gqweN46AZsMrmCPzBopH0YbDFTUIBgDIgZ0aWt0b2s
+.tiktok.com	TRUE	/	TRUE	1784747114	tt_session_tlb_tag	sttt%7C3%7CKDxZS2lCbCDTDMl1llbnlP_________4IONHePZvHjN4Iim1uJk5DQRfU2A5m9S-6Xw2m7RvJ2c%3D
+.tiktok.com	TRUE	/	TRUE	1784747114	uid_tt	fb5818b24f86edc3475423c0b8e0b4a1d8a09f8048ab7a33321bc9a698e3f544
+.tiktok.com	TRUE	/	TRUE	1784747114	uid_tt_ss	fb5818b24f86edc3475423c0b8e0b4a1d8a09f8048ab7a33321bc9a698e3f544
+.tiktok.com	TRUE	/	FALSE	1800829305	store-country-code	ar
+.tiktok.com	TRUE	/	FALSE	1800829305	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1800829305	store-country-sign	MEIEDIDAuLuZ32QwS9TRZgQg_xf7ryZ8L7yhhgs86iyEhYUPcAtn5G842busd4jAe9gEEOGvGp3eNXv1xV6vVslOTWc
+.tiktok.com	TRUE	/	FALSE	1800829305	store-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1800829305	tt-target-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1800829305	tt-target-idc-sign	tV_uF49KP3lzdjeIUWHUKl8sZXUskO2By8_oKNumoedm3-EugMuKe7TP03_hXKUexnD2fwuk1-WrxDe4ThnC92L5UdpJU425SJKfXE8xF2rI_iIp5MWL3dlpwPICNr_I9jMgP7YE1DfYREyVsKcygUvZeYIy5vHfiAC16IKSzuEQ8yXgwbbSBRmiEkSE6Ckq6p-yV7wVPhyTUDmpAm3mlLTo5B-1nR_6HTQ82RdfBbCctfDUtnAzCZda2j8RJ_8vItfo3lUbtWUThOIj3FgANyxwhIZO07zawDeJe_wu1z-hLzT8jRd0s651Djz7o8sc27slDKZ5aQr4Wa6_zfqdEpenlsvIipU5d9zPtU6WjmPCDxttk1ZOCGxu646okSuwEJTkVlBB45BuRSyRS56qCp0wBj7F-fo6h5HN6Hvxp74v3bZaNZApdNjYny_RsmZHZX9Y41bwWpMM_IlYS-evin37tiD5wg7WobpxpYi2KyeUeMZ_CN7tj_trCYlVmXZ_
+.tiktok.com	TRUE	/	TRUE	1784845283	tt_chain_token	4ajfMe9UqXkZwjSa4Hni0g==
+.tiktok.com	TRUE	/	TRUE	1800829294	ttwid	1%7C8C1P9mvMh5iZmzC2suNdAtvDw2MEc7XDk-zsdIcZBBU%7C1769293295%7Cb9c9432d5fac899eeaa142b4f41746537d54e93082670d93dae4278cda5c2f95
+.tiktok.com	TRUE	/	FALSE	1800829308	odin_tt	d7a4283acea42f0eb04235782f1c270e2347c57d35406ea6425cbfa7e460fee4f338be64626df818aacfb03c98fcdef60939f0c030e185a577168469cebc3d12
+.tiktok.com	TRUE	/	TRUE	1805982883	_ttp	12R1NxJEuAXGtsGXR8ci89svf4dkzwQxe3

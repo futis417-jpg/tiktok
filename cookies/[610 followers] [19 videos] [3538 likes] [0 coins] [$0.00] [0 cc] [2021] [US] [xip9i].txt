@@ -1,0 +1,37 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: xip9i
+– Email: l***0@gmail.com
+– Mobile: 
+– Followers: 610
+– Videos: 19
+– Likes: 3538
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2021
+– Country: US
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4668)\Cookies\Brave_0.txt
+
+.tiktok.com	TRUE	/	TRUE	1784445036	cmpl_token	AgQYAPO__hfkTtKOLpo1yf1dP_OmDzOSmz-WNGCgHyE
+.tiktok.com	TRUE	/	TRUE	1784445036	multi_sids	6778045610710762502%3A47a1dd3cf9e6411e0d3a71d794088c3a
+.tiktok.com	TRUE	/	TRUE	1791042548	sessionid	47a1dd3cf9e6411e0d3a71d794088c3a
+.tiktok.com	TRUE	/	TRUE	1791042548	sessionid_ss	47a1dd3cf9e6411e0d3a71d794088c3a
+.tiktok.com	TRUE	/	TRUE	1791042549	sid_guard	47a1dd3cf9e6411e0d3a71d794088c3a%7C1775490549%7C15551999%7CSat%2C+03-Oct-2026+15%3A49%3A08+GMT
+.tiktok.com	TRUE	/	TRUE	1791042548	sid_tt	47a1dd3cf9e6411e0d3a71d794088c3a
+.tiktok.com	TRUE	/	TRUE	1791042548	sid_ucp_v1	1.0.1-KDEzMmE5NDM0NWNmZWQ1MjYzOTNjOWZkNzFmZmRhYTg1MGY3ZGJiOGIKIgiGiL6OpJKdiF4Q9avPzgYYswsgDDCq8OvEBjgHQPQHSAQQAxoCbXkiIDQ3YTFkZDNjZjllNjQxMWUwZDNhNzFkNzk0MDg4YzNhMk4KILc-YbhlBmMD0FkEfOa0FIW_imt38vaiW54RJhBo2Rt9EiBvBDv9n8gjuqeLQbK0HrjRAxzidcbZMowrBpUht-0D5RgDIgZ0aWt0b2s
+.tiktok.com	TRUE	/	TRUE	1791042548	ssid_ucp_v1	1.0.1-KDEzMmE5NDM0NWNmZWQ1MjYzOTNjOWZkNzFmZmRhYTg1MGY3ZGJiOGIKIgiGiL6OpJKdiF4Q9avPzgYYswsgDDCq8OvEBjgHQPQHSAQQAxoCbXkiIDQ3YTFkZDNjZjllNjQxMWUwZDNhNzFkNzk0MDg4YzNhMk4KILc-YbhlBmMD0FkEfOa0FIW_imt38vaiW54RJhBo2Rt9EiBvBDv9n8gjuqeLQbK0HrjRAxzidcbZMowrBpUht-0D5RgDIgZ0aWt0b2s
+.tiktok.com	TRUE	/	TRUE	1791042548	tt_session_tlb_tag	sttt%7C4%7CR6HdPPnmQR4NOnHXlAiMOv_________A8eVIMlLEZo7HreNZRToR7gEtjVn8IE9Io76DNR4jJg8%3D
+.tiktok.com	TRUE	/	TRUE	1791042548	uid_tt	3c5819b0ac3d7a58485e6251f5bf3983180d54fff62e7d176d53df1475938525
+.tiktok.com	TRUE	/	TRUE	1791042548	uid_tt_ss	3c5819b0ac3d7a58485e6251f5bf3983180d54fff62e7d176d53df1475938525
+.tiktok.com	TRUE	/	FALSE	1796158554	tt-target-idc-sign	WWtuZwkHK2_cgqJm7r_P0URmbfHwqaRPH3lHwV_Q4Ug7QoTC1EKQF5msKsAV1NfOTwm5iWDUiTN7YwhU7SgMmGBtTjtI2jorv3vDyRFFlfaIiQ3kBDWXD2ps1UvkSbKY_SAtNNWjDLZD23RPggwBa49MJN9mkYmGfYNwf_5dQj1CxoWGp-gmHys0mN5ubpn7WcXbXaePoNSdDpT5v27QHf5gDHd6EQ6Sy14N4vLOkTqhk-h_dS1rD2B5b3ar28WYRi9TEF5RehE5O0nxfnvhXBPdfnG6nmhlPHxPhhmG6hqotpzXS2Ws2qve6mULxPinYg9cjBl2eE2_YfF_KOqL7RQj8J7W4d-qlkOaFxcoLrBIASVt_7QKA4ZQ4yHnUdsbiZ7kkRpLse75b-kh5xw7y3wGmwED7uXPq3xdwKru5G1SrD4tlT4mWodaul-M0UeCSaom95Jd1U2JlnsQaFYnZhXwhB7St6G8SOsXi9zZxLSRSpLZgy0s-nr8KM56pxad
+.tiktok.com	TRUE	/	FALSE	1791042548	store-country-code	sa
+.tiktok.com	TRUE	/	FALSE	1791042548	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1791042548	store-country-sign	MEIEDPd4z9eLTnMpm2LhuwQgX05DVpZXqnRfHjJ7r8XIrS8-ylQtV0uVhWzAN1JazJwEEFBnvOr11FiKc6MyJ6ByYTc
+.tiktok.com	TRUE	/	FALSE	1791042548	store-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1791042548	tt-target-idc	alisg
+.tiktok.com	TRUE	/	TRUE	1796190019	tt_chain_token	Matt7Oq8fBiZ1c9Hd7jANQ==
+.tiktok.com	TRUE	/	TRUE	1796190022	ttwid	1%7CMh3rhXAKkM3TpY0BRbMpvl1QQ2RiugmNilD7jHao4wY%7C1780638022%7Cde60b8240a3439d931160306203e4e04b27e64db1b6ed357001fe97bdadadab5
+.tiktok.com	TRUE	/	FALSE	1796190275	odin_tt	eaf14ae545b774aebccb7f508f37ec8ebd8d841e2ec3bf576f27c95dd7528455ad411e8678b38fb2fe820220208a7a47cb451523d0d03106cb5d43ba2b4b6160a69ec3dc08c6147f86ef3d94d1fad125
+.tiktok.com	TRUE	/	TRUE	1784445036	msToken	VS2tMCPHaC46T-hldpgkn7KXzUpCvRa3JgagEbALItD4MsR7LvTWOl-QJdohTJ0YM05X941_3TU4ZLvbvnNQ6p9YZe50s3PFEVLGXhSdT1DeN__GNL4ci6zvQVm4gSbgSWqwHopMArxaEv4=

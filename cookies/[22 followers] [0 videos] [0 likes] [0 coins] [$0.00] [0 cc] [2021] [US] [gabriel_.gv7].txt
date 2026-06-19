@@ -1,0 +1,40 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: gabriel_.gv7
+– Email: g***9@gmail.com
+– Mobile: 
+– Followers: 22
+– Videos: 0
+– Likes: 0
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2021
+– Country: US
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4744)\cookies\cookies_ (10553).txt
+
+.tiktok.com	TRUE	/	TRUE	1785427225	_ttp	12R1NxJEuAXGtsGXR8ci89svf4dkzwQxe3
+.tiktok.com	TRUE	/	TRUE	1784445036	passport_csrf_token	12R1NxJEuAXGtsGXR8ci89svf4dkzwQxe3
+.tiktok.com	TRUE	/	TRUE	1784445036	passport_csrf_token_default	12R1NxJEuAXGtsGXR8ci89svf4dkzwQxe3
+.tiktok.com	TRUE	/	TRUE	1784445036	cmpl_token	AgQYAPNk_hfkTtKOYVGUlyEdP_Pnu37o03-Q72Ch16E
+.tiktok.com	TRUE	/	TRUE	1784445036	multi_sids	6800364188638364678%12R1NxJEuAXGtsGXR8ci89svf4dkzwQxe3
+.tiktok.com	TRUE	/	TRUE	1786242581	sessionid	46bdfc3b63c850aa43a6d46b4f8d1850
+.tiktok.com	TRUE	/	TRUE	1786242581	sessionid_ss	46bdfc3b63c850aa43a6d46b4f8d1850
+.tiktok.com	TRUE	/	TRUE	1786242581	sid_guard	46bdfc3b63c850aa43a6d46b4f8d1850%7C1770690580%7C15552000%7CSun%2C+09-Aug-2026+02%3A29%3A40+GMT
+.tiktok.com	TRUE	/	TRUE	1786242581	sid_tt	46bdfc3b63c850aa43a6d46b4f8d1850
+.tiktok.com	TRUE	/	TRUE	1786242581	sid_ucp_v1	1.0.1-KGU3NmM2Njg4ODUwYWU5OWFkZTQ4ZGYzZmE3M2Y5NmQxZmM4MzViN2YKIgiGiM_4sebvr14QlLCqzAYYswsgDDCS0rvDBjgHQPQHSAQQAxoCbXkiIDQ2YmRmYzNiNjNjODUwYWE0M2E2ZDQ2YjRmOGQxODUwMk4KIBYBB4K3K5bPSTw_QjGWi5Estnj-3GALcvDxF6tpH6dSEiB2HPG-wE6O3tVyIFe41Z41v09ipfOIWSymGQwDr3ohYhgFIgZ0aWt0b2s
+.tiktok.com	TRUE	/	TRUE	1786242581	ssid_ucp_v1	1.0.1-KGU3NmM2Njg4ODUwYWU5OWFkZTQ4ZGYzZmE3M2Y5NmQxZmM4MzViN2YKIgiGiM_4sebvr14QlLCqzAYYswsgDDCS0rvDBjgHQPQHSAQQAxoCbXkiIDQ2YmRmYzNiNjNjODUwYWE0M2E2ZDQ2YjRmOGQxODUwMk4KIBYBB4K3K5bPSTw_QjGWi5Estnj-3GALcvDxF6tpH6dSEiB2HPG-wE6O3tVyIFe41Z41v09ipfOIWSymGQwDr3ohYhgFIgZ0aWt0b2s
+.tiktok.com	TRUE	/	FALSE	1786242582	tt-target-idc-sign	aUcFJFaXrkbtw_t9qY0OWJbacpxzQKvmLFKNeFwEjXbymS1QvzqJOEs1NEEoUsxTHQTORGVTAXBbmtfTPeG07zLshPNUtmF9z4KdhbuU90YnRCZtthibJyILGfXQDT5rMiU7n-J4M8QuYc21c9ZFAcWlmej6IwqVO3SkXpSXeUy9AyPg-QZF2sHN4_HlCGUTOAzq6a2qfjvYYQdSC6dr_m6ZDnSbGE1XDtxeJnH1SuOGdH4BM5Ach1zsiNKLP7EL3SkmP2zPQsI0UWJxmngVbErtzXJdcIMtrtCKOT7JTJxgnjeMsFcQvEOB4f8HF3j9E3cdyNrhawbrZqPqVs_fQeerxF7O2_V3cLWXof2KIppvApWdVVlFu3y6dMjMXfZ2ff8q1p7fEsB_jdpnBA5CBM_sNZYMfxujhpkWLWjN_zABqOKS2rSPPoymheweVhKaj8ylUH4jdcbJ1cKdyTF19waC0Wm06YHEfY_gAhkHqoTMIorwIE3fnjCJil7wGMYm
+.tiktok.com	TRUE	/	TRUE	1786242581	tt_session_tlb_tag	sttt%7C1%7CRr38O2PIUKpDptRrT40YUP________-u1dVNsxwNnvffo437W8sFX6eMw_xfbQDJjlvZdPucT_4%3D
+.tiktok.com	TRUE	/	TRUE	1786242581	uid_tt	bbf69a3a253f2fd725ea48da32b67d7e5c2a88bb05a72d582ab2365d114932e2
+.tiktok.com	TRUE	/	TRUE	1786242581	uid_tt_ss	bbf69a3a253f2fd725ea48da32b67d7e5c2a88bb05a72d582ab2365d114932e2
+.tiktok.com	TRUE	/	FALSE	1790180153	odin_tt	768a9af70699074fd5964bd785e3653c863253f08d4700369cdc1aa66cd3bc07a55f922b76ace2f35b71fd8afc9af28032e7ed1f390a5afb262214f0c462ead575bdc9b517b63c11ce832761f6020cf3
+.tiktok.com	TRUE	/	FALSE	1786242581	store-country-code	br
+.tiktok.com	TRUE	/	FALSE	1786242581	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1786242581	store-country-sign	MEIEDAIlYkiGywVLjNbxNgQgLuzmth2DnJeS6Pqw0puYQcwprAIPrPfgiQvHL-88FYsEEMt3M3AVZBuvEIVZU0I7Kn0
+.tiktok.com	TRUE	/	FALSE	1786242581	store-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1786242581	tt-target-idc	alisg
+.tiktok.com	TRUE	/	TRUE	1790180139	tt_chain_token	cvTo3UTxE1s/3Nqhf2Qr0Q==
+.tiktok.com	TRUE	/	TRUE	1790180144	ttwid	1%7CpVTf4J9DH9Lu3YeRw-mJvmWt2LHoWmyvUwEVkKlB_R0%7C1774628143%7C71dd0df690676df7fc0bf7fc107d2cf967b286996918106ad3e6e7415e91b6ce
+.tiktok.com	TRUE	/	TRUE	1784445036	msToken	tx-pweHnqtPW7uide8QKE0FoyGknkgXqWDu7N05CBbaN0eAxTDBy7JY3URk5F3zx2TS-ye4Xy25JxHPQdmeum9QA-aNSq-_4eekeqe0XtFDdzhrhYQWboXL9AZAaXToDHwvSTTTuHGR_57M=

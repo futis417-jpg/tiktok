@@ -1,0 +1,35 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: banyohking
+– Email: 
+– Mobile: 
+– Followers: 59
+– Videos: 0
+– Likes: 0
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2023
+– Country: 
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4330)\Cookies\Google Chrome_Default.txt
+
+.tiktok.com	TRUE	/	TRUE	1808005574	_ttp	2q0HeQqDrQDLzkFOsiE7emjbPZ6
+.tiktok.com	TRUE	/	TRUE	1790116782	sessionid	d4ec5cd4aa1049e184a9825ae3fffef9
+.tiktok.com	TRUE	/	TRUE	1790116782	sessionid_ss	d4ec5cd4aa1049e184a9825ae3fffef9
+.tiktok.com	TRUE	/	TRUE	1790116782	sid_tt	d4ec5cd4aa1049e184a9825ae3fffef9
+.tiktok.com	TRUE	/	TRUE	1805668782	sid_guard	d4ec5cd4aa1049e184a9825ae3fffef9%7C1774564781%7C15552000%7CTue%2C+22-Sep-2026+22%3A39%3A41+GMT
+.tiktok.com	TRUE	/	TRUE	1790116782	sid_ucp_v1	1.0.1-KDBiYTljNmFlOTE2NWJiNmZhNDJhZThhZmE5NjI3ZDE1MWUyM2Q3ZGUKIQiFiOLIiqLIxGQQreuWzgYYswsgDDCwwqSkBjgIQApIBBADGgJteSIgZDRlYzVjZDRhYTEwNDllMTg0YTk4MjVhZTNmZmZlZjkyTgogOlbccq9S8GCRa4wEh7yk9EgfgKsisR8dI6eQ1jrvmb8SIFQWr61aaj2iserhxWXVglOo2Nuyqp4fuFHXGdhnUQyzGAMiBnRpa3Rvaw
+.tiktok.com	TRUE	/	TRUE	1790116782	tt_session_tlb_tag	sttt%7C3%7C1Oxc1KoQSeGEqYJa4__--f_________cec0SnCpX4FDKcHdFolGL9YJqxw9rLPQH9qLrmbp1TyY%3D
+.tiktok.com	TRUE	/	TRUE	1790116782	uid_tt	5c163f64825a0e4b247e3859c2335423fba5813585e8e27290c26ede31d1b5d7
+.tiktok.com	TRUE	/	TRUE	1790116782	uid_tt_ss	5c163f64825a0e4b247e3859c2335423fba5813585e8e27290c26ede31d1b5d7
+.tiktok.com	TRUE	/	TRUE	1790116782	ssid_ucp_v1	1.0.1-KDBiYTljNmFlOTE2NWJiNmZhNDJhZThhZmE5NjI3ZDE1MWUyM2Q3ZGUKIQiFiOLIiqLIxGQQreuWzgYYswsgDDCwwqSkBjgIQApIBBADGgJteSIgZDRlYzVjZDRhYTEwNDllMTg0YTk4MjVhZTNmZmZlZjkyTgogOlbccq9S8GCRa4wEh7yk9EgfgKsisR8dI6eQ1jrvmb8SIFQWr61aaj2iserhxWXVglOo2Nuyqp4fuFHXGdhnUQyzGAMiBnRpa3Rvaw
+.tiktok.com	TRUE	/	FALSE	1806100807	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1806100807	store-country-code	ph
+.tiktok.com	TRUE	/	FALSE	1806100807	store-country-sign	MEIEDEMt1S7MXGo39SsuRQQg638mZLl_tl-zV5zUayfGeBOIaM8rqQBglyBlEg9l3ccEEPC9x_oadskNaejNkvPf6yI
+.tiktok.com	TRUE	/	FALSE	1806100807	store-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1806100807	tt-target-idc	alisg
+.tiktok.com	TRUE	/	TRUE	1790116785	tt_chain_token	Y7g0ZrjyzClQFeuPtMzjKw==
+.tiktok.com	TRUE	/	FALSE	1806100807	tt-target-idc-sign	WEuwNwgVYXGiiwaHcdG0asMVFJSVxk0Y_E1RwUHu2LMSQsHF67XgtfGMmpcoB1VDNximla47Dyv-kOj3RgjAzY597nWO6pXnmevl1NIKypHOlAR76dX28WZNJ1XnbuRsV4-PWkMaLCtNwR6HOdaw3AsElDLQuLS-ys_8BnlE9JY4ia94jdwSwWwf0N5A5VD4zAPe0nkRgMXjI-J8ENxPHUQdkJzs_xM6SFPCwQtq-Zo2xQ71IaoSOXxfwq97dLjePnZrMFc_xutDQWESLU62zPTpVTbeXw-3xaOOSnzygTOLgb2KKbuRcKtsR4GKv2Kyd561OcuxbEMN-RVWvix5JHtYjMFEqSpRiI1mdGATeS_wYKQSlMXZIl7NjLTnBPey3HDcjjT7oRNZrf4Fo0od-2BnHO2ynpijJ74CO0Z39mVDA5raXQ9Pm55WfEib9wTaXbpLfI2XDn10_lb1GHb9Ishyw69ZaZMO_XZD57K_wEqdxyoujX6OusuUVag6b5Cd
+.tiktok.com	TRUE	/	TRUE	1806100792	ttwid	1%7C4a6oOh-IdAvZNHchopCBH1_KCQ61s97KDHEQ02zJi7M%7C1774564792%7Cb13ef79f296e9ba86896cdeaa5f8f02dbf44fcd7b664f5f71938ffa9e57209b6
+.tiktok.com	TRUE	/	FALSE	1806101433	odin_tt	5564414f192e67413b2b22b482a483e69b83bc25d8e9b5575bc556c1a1d34c27ea89e611c5c8039d8a69c58dc4b5e8f76087ab14505c240afa9cdbae2860c90d96e7fc1ce019154670852718f9362446

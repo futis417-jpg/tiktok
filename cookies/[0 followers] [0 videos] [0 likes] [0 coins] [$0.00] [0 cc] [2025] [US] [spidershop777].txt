@@ -1,0 +1,40 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: spidershop777
+– Email: b***2@gmail.com
+– Mobile: 
+– Followers: 0
+– Videos: 0
+– Likes: 0
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2025
+– Country: US
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4547)\cookies\cookies_ (14187).txt
+
+.tiktok.com	TRUE	/	TRUE	1808332959	cookie-consent	{%22optional%22:true%2C%22ga%22:true%2C%22af%22:true%2C%22fbp%22:true%2C%22lip%22:true%2C%22bing%22:true%2C%22ttads%22:true%2C%22reddit%22:true%2C%22hubspot%22:true%2C%22version%22:%22v10%22}
+.tiktok.com	TRUE	/	TRUE	1784445036	cmpl_token	AgQQAPPyF-RO0rkICrn8-V0v86dUVgXdv5R5YKDIsA
+.tiktok.com	TRUE	/	FALSE	1806173050	d_ticket	0f74bb0bb26259c692a7f56b382680c814bad
+.tiktok.com	TRUE	/	TRUE	1784445036	multi_sids	7581497842184455190%12R1NxJEuAXGtsGXR8ci89svf4dkzwQxe3
+.tiktok.com	TRUE	/	FALSE	1784445036	passport_auth_status	e4d2262ef143e1fba80c890b90e2fe86%2C
+.tiktok.com	TRUE	/	TRUE	1784445036	passport_auth_status_ss	e4d2262ef143e1fba80c890b90e2fe86%2C
+.tiktok.com	TRUE	/	TRUE	1790189050	sessionid	dac019f41aa14f39ad6fe0fdc3a46fdb
+.tiktok.com	TRUE	/	TRUE	1790189050	sessionid_ss	dac019f41aa14f39ad6fe0fdc3a46fdb
+.tiktok.com	TRUE	/	TRUE	1805741051	sid_guard	dac019f41aa14f39ad6fe0fdc3a46fdb%7C1774637051%7C15551999%7CWed%2C+23-Sep-2026+18%3A44%3A10+GMT
+.tiktok.com	TRUE	/	TRUE	1790189050	sid_tt	dac019f41aa14f39ad6fe0fdc3a46fdb
+.tiktok.com	TRUE	/	TRUE	1790189050	sid_ucp_v1	1.0.1-KDU5YWQ5ZTQxZTMwOTJlNjQ5YmY0NTIxMDA3MzlmZGRiNjA1NmZkOTIKIQiWiK6m54O5m2kQ-5-bzgYYswsgDDCzyNvJBjgIQBJIBBAFGgRubzFhIiBkYWMwMTlmNDFhYTE0ZjM5YWQ2ZmUwZmRjM2E0NmZkYjJOCiBDWuGap8vzPmWZnRSlCalmKFechRJZrRnxFNaERZwy_hIgyBEZd3bJkkuHJ-OY9smhHGD-2iQ3h7w6SdBZU2EMZsoYAyIGdGlrdG9r
+.tiktok.com	TRUE	/	TRUE	1790189050	ssid_ucp_v1	1.0.1-KDU5YWQ5ZTQxZTMwOTJlNjQ5YmY0NTIxMDA3MzlmZGRiNjA1NmZkOTIKIQiWiK6m54O5m2kQ-5-bzgYYswsgDDCzyNvJBjgIQBJIBBAFGgRubzFhIiBkYWMwMTlmNDFhYTE0ZjM5YWQ2ZmUwZmRjM2E0NmZkYjJOCiBDWuGap8vzPmWZnRSlCalmKFechRJZrRnxFNaERZwy_hIgyBEZd3bJkkuHJ-OY9smhHGD-2iQ3h7w6SdBZU2EMZsoYAyIGdGlrdG9r
+.tiktok.com	TRUE	/	TRUE	1790189050	tt_session_tlb_tag	sttt%7C3%7C2sAZ9BqhTzmtb-D9w6Rv2_________-nHASnboE8C6iHsDpjQCvzfDXKUDXGrv5jcS2q1apcAD8%3D
+.tiktok.com	TRUE	/	TRUE	1790189050	uid_tt	e3e003f563d12758cca253993c6bfc25e7703584adefa9591f0faddf2c82d8d2
+.tiktok.com	TRUE	/	TRUE	1790189050	uid_tt_ss	e3e003f563d12758cca253993c6bfc25e7703584adefa9591f0faddf2c82d8d2
+.tiktok.com	TRUE	/	FALSE	1806173167	odin_tt	1802d9d256c701278422080976de8a61990a78d21823381a70b8dc9e49068c2bbb6539dba31ba13b8a07704ed27334534d36782db46f81f4f9f5e8113133e72a
+.tiktok.com	TRUE	/	FALSE	1806173167	store-country-code	pl
+.tiktok.com	TRUE	/	FALSE	1806173167	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1806173167	store-country-sign	LbicF5jgZGaoVdYhXCwqj6iFc3Ng1sdNNL-EoCreBzn_vNcTNjgPlOmEeKSa6cBMEEFG_h0hUvD_lliugONgTx7c
+.tiktok.com	TRUE	/	FALSE	1806173167	store-idc	no1a
+.tiktok.com	TRUE	/	FALSE	1806173167	tt-target-idc	eu-ttp2
+.tiktok.com	TRUE	/	FALSE	1806173167	tt-target-idc-sign	h5qNeYIQVOMWypGBOT9z7TG_4m_Ev5dfAm8FeChvOOIkzAJ1PAte4ad99hXf8zmI6iGjAGMjdI9R9SnKoxf1HgmxmDUNmtxOzzCCA7KC2pUG56nVeWfeRQFJKJCarSPnBntZbmKzecTh7ySd-Z689QQMYB8NdF67aTdPzAIC6ImCvDeDbJt09hTJcVTefftXdbY5NKI_akyDVntDl6Sbx8A6_rQkucIOlc2PGw6EMdECqwiIN-pTZxy9WcyUIUb3zKCz75wBzONb_0H1F0uEzrEYBVeJP2Uj7qSgHkh2PeJooaZDTONyihfoM0JzlwFH6kSIigrqOSZDGd8EJyqdjzA-ZUiEjVT9-wRd2b8cLMgDdnVfWudZhKU1CLMtOMFlAMSL4Vf5DXbUh9-N-IJwH-NTs_LBVOMxGifPKL4QNFz-Jm2VoU3oHHFhmKjSSy0qWpWJqoqp06YKIJ4X8qRNsP6AWe0YW1ljByTJOtigPWUfvI-06Jr1rO5QeJQbjvl3
+.tiktok.com	TRUE	/	TRUE	1790189162	tt_chain_token	x5K6Dgd7KZhq/jGKj1e7Tw==
+.tiktok.com	TRUE	/	TRUE	1806173167	ttwid	1%7C6KxF_Tqmj8jJ4Pcr4v4RjSZ_Tt9Ht2z3HrYi2bu9oPU%7C1774637166%7C3080ac69cb09f6aeda036c200ab6a7f93c8a05e3025d0b6a0af840b7e5fac3c1

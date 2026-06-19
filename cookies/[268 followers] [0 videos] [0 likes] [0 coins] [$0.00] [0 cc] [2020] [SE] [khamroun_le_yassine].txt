@@ -1,0 +1,41 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: khamroun_le_yassine
+– Email: 
+– Mobile: 
+– Followers: 268
+– Videos: 0
+– Likes: 0
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2020
+– Country: SE
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4875)\Cookies\Chrome_0.txt
+
+.tiktok.com	TRUE	/	TRUE	1784445036	cmpl_token	AgQYAPMU_hfkTtKPU_MKB_gdO_PuL0hanH-Xn2Ch_do
+.tiktok.com	TRUE	/	TRUE	1784445036	multi_sids	6876184837343593474%3Afef1bec28efb890c2ae5efc77ee05b44
+.tiktok.com	TRUE	/	FALSE	1784445036	passport_auth_status	bbfdf5e693c08dbc2c398adcf3eb922b%2C
+.tiktok.com	TRUE	/	TRUE	1784445036	passport_auth_status_ss	bbfdf5e693c08dbc2c398adcf3eb922b%2C
+.tiktok.com	TRUE	/	TRUE	1784445036	passport_csrf_token	55cdf3600758f87a82d24f29ed1909eb
+.tiktok.com	TRUE	/	TRUE	1784445036	passport_csrf_token_default	55cdf3600758f87a82d24f29ed1909eb
+.tiktok.com	TRUE	/	TRUE	1786578133	sessionid	fef1bec28efb890c2ae5efc77ee05b44
+.tiktok.com	TRUE	/	TRUE	1786578133	sessionid_ss	fef1bec28efb890c2ae5efc77ee05b44
+.tiktok.com	TRUE	/	TRUE	1802130133	sid_guard	fef1bec28efb890c2ae5efc77ee05b44%7C1771026132%7C15552000%7CWed%2C+12-Aug-2026+23%3A42%3A12+GMT
+.tiktok.com	TRUE	/	TRUE	1786578133	sid_tt	fef1bec28efb890c2ae5efc77ee05b44
+.tiktok.com	TRUE	/	TRUE	1786578133	sid_ucp_v1	1.0.1-KDIzYjg0NmQzMjg5YzM0OGU0MzhlNWY3N2YwZDA1NDQwMTFmNTJmMWEKIQiCiKv-2LXHtl8Q1O2-zAYYswsgDDCdmMfDBjgIQApIBBADGgNteTIiIGZlZjFiZWMyOGVmYjg5MGMyYWU1ZWZjNzdlZTA1YjQ0Mk4KINqGs_V-2Y2De9eOpG8I8x63AlqH3A-bVjn9ML1zz0SNEiB_kHtvBqW_85uLiKHepRt9FqlwqtLo4eTZInYS8zgLHBgDIgZ0aWt0b2s
+.tiktok.com	TRUE	/	TRUE	1786578133	ssid_ucp_v1	1.0.1-KDIzYjg0NmQzMjg5YzM0OGU0MzhlNWY3N2YwZDA1NDQwMTFmNTJmMWEKIQiCiKv-2LXHtl8Q1O2-zAYYswsgDDCdmMfDBjgIQApIBBADGgNteTIiIGZlZjFiZWMyOGVmYjg5MGMyYWU1ZWZjNzdlZTA1YjQ0Mk4KINqGs_V-2Y2De9eOpG8I8x63AlqH3A-bVjn9ML1zz0SNEiB_kHtvBqW_85uLiKHepRt9FqlwqtLo4eTZInYS8zgLHBgDIgZ0aWt0b2s
+.tiktok.com	TRUE	/	FALSE	1802562139	tt-target-idc-sign	i9SnfJjPZf2eGbit0CZ-uzNEYS9LPVaBc3FeMhn4qTcqDn9Qojx0jGCEyooZBQlpRSX1zF3SBViWUQZASL9zSaVZomBDpeRudYJOI_mmaZUwHnhW6PMjVZhEGUnhONLbfIw85clPVVfvLz-hWOwa6YgZ8cMA2NkPO6Nb1qeGH1cPdRTltdebP6csiYDkAV-gTsAEAxhM1CLfeBO6XyV0nfjOX6dQ0aSnAmEadbFtt3L6PDXOXaC_ea8dd0TLPhepFl7lKS5ome-W3D5eOGOhuxvT35tYBIlonoXttbQUvNRP2_YZx3n1I7YomkHrvfWJ1hC5BRPEs8GTqxGVXBwqCxfucbt5BCsPxFB20vbe-RvkV4AuQQ_KctEPCvtA6hyS2wTVxkLDEtPeORkIfQ5yGkc53i0VSVy2R1kYghL7BwUTQnNbxKWfD2xYTP7jCm0cWazdLc0qOnCcGBdhDMR5Nq4gqO_ygW4zujrR07y3yAvzlgdfm9l5m7316CgE-8H-
+.tiktok.com	TRUE	/	TRUE	1786578135	tt_chain_token	kqK0RoDuj/fnbUlcgUb/Jg==
+.tiktok.com	TRUE	/	TRUE	1786578133	tt_session_tlb_tag	sttt%7C3%7C_vG-wo77iQwq5e_HfuBbRP_________HXkRL8JukDl2YpLivuYAH1kMlvyuFYS-gpTg3_5spZXA%3D
+.tiktok.com	TRUE	/	TRUE	1802562139	ttwid	1%7CAAn85Alq32ijpWNHT3gf9v7DAar0CKEsN3zKLUkwOuA%7C1771026139%7C528e36ccd7acbeabdbf18b529124251da891321607bdabd1068648d2ba8dc990
+.tiktok.com	TRUE	/	TRUE	1786578133	uid_tt	ce3a715e9e97201882240c04f4ea05a3534bc5063b7e42b0b6276eb1b79f67ea
+.tiktok.com	TRUE	/	TRUE	1786578133	uid_tt_ss	ce3a715e9e97201882240c04f4ea05a3534bc5063b7e42b0b6276eb1b79f67ea
+.tiktok.com	TRUE	/	FALSE	1786578132	store-country-code	tn
+.tiktok.com	TRUE	/	FALSE	1786578132	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1786578132	store-country-sign	MEIEDL59kOV9aTt40cTSOQQg7OyzJMgFmCdIUYUUD5a06Bqn_qMwrzgfQGzRcIq_c2wEEJM9-Yv7W3xRHJybNRJAMjo
+.tiktok.com	TRUE	/	FALSE	1786578132	store-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1786578132	tt-target-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1802562752	odin_tt	eb9a02c9754f4fec09591c6b6ec00500dba3bae39abfcb974944939be54b2db7b3bf4631a359343c5a3ea955b4777013e615cd2003db343ff1ba652c4b9ba9bedb8cea0bfc2da1e397685ecb5edb0ccf
+.tiktok.com	TRUE	/	TRUE	1784445036	msToken	dle72dKY2-sjOVvyVpA5owEG2KZZH6bXu5JrVANVjbeGCZp-gRAxcGNeZv5cp7RqrvGX-rWP7SoO19qOa89od94lPT9gupMatqqCaml1iiMIIGM52f7k94wzVDsC_visopxM6IqmZuXlTT4=

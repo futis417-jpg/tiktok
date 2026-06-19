@@ -1,0 +1,46 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: diamondfox_2
+– Email: 
+– Mobile: +49****5716
+– Followers: 72
+– Videos: 18
+– Likes: 349
+– Coins: 22
+– Balance: $0.00
+– CC: 0
+– Year: 2025
+– Country: US
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (479)\Chrome\Default\Cookies.txt
+
+.tiktok.com	TRUE	/	TRUE	1784445036	passport_csrf_token	28c8d2ed00ba00f423fdfbf5496fdbaf
+.tiktok.com	TRUE	/	TRUE	1784445036	passport_csrf_token_default	28c8d2ed00ba00f423fdfbf5496fdbaf
+.tiktok.com	TRUE	/	TRUE	1784445036	cmpl_token	AgQQAPORF-RO0rjdX4MivV0v8wyHs5ENP5QaYKJJYA
+.tiktok.com	TRUE	/	TRUE	1784445036	multi_sids	7558079370696295446%3A7e96a609d9075196f4bb0d4e3ab8efa1
+.tiktok.com	TRUE	/	TRUE	1784310984	sessionid	7e96a609d9075196f4bb0d4e3ab8efa1
+.tiktok.com	TRUE	/	TRUE	1784310984	sessionid_ss	7e96a609d9075196f4bb0d4e3ab8efa1
+.tiktok.com	TRUE	/	TRUE	1799862984	sid_guard	7e96a609d9075196f4bb0d4e3ab8efa1%7C1768758983%7C15552000%7CFri%2C+17-Jul-2026+17%3A56%3A23+GMT
+.tiktok.com	TRUE	/	TRUE	1784310984	sid_tt	7e96a609d9075196f4bb0d4e3ab8efa1
+.tiktok.com	TRUE	/	TRUE	1784310984	sid_ucp_v1	1.0.1-KDZlYmZiM2UzNmI4YzMyNWYyNGUxZWU2MGJjOTVkZWFhOTczNmQ0NDAKIgiWiL7UyqTs8WgQx720ywYYswsgDDCH447HBjgHQPQHSAQQBRoEbm8xYSIgN2U5NmE2MDlkOTA3NTE5NmY0YmIwZDRlM2FiOGVmYTEyTgogAw0TqajxPw9yauhWSDEfF9iBvKLmVvvJdChZPD1UFIMSIL9kLAeUPIHzVc51Hk_YVPfh5Vg5MEcOAQxyroxy8CzzGAUiBnRpa3Rvaw
+.tiktok.com	TRUE	/	TRUE	1784310984	ssid_ucp_v1	1.0.1-KDZlYmZiM2UzNmI4YzMyNWYyNGUxZWU2MGJjOTVkZWFhOTczNmQ0NDAKIgiWiL7UyqTs8WgQx720ywYYswsgDDCH447HBjgHQPQHSAQQBRoEbm8xYSIgN2U5NmE2MDlkOTA3NTE5NmY0YmIwZDRlM2FiOGVmYTEyTgogAw0TqajxPw9yauhWSDEfF9iBvKLmVvvJdChZPD1UFIMSIL9kLAeUPIHzVc51Hk_YVPfh5Vg5MEcOAQxyroxy8CzzGAUiBnRpa3Rvaw
+.tiktok.com	TRUE	/	TRUE	1784310984	tt_session_tlb_tag	sttt%7C5%7CfpamCdkHUZb0uw1OOrjvof________-56p2QzdbBfgN5dBnnOb1C-dNIPu6K5oBmErKvN-DNGaw%3D
+.tiktok.com	TRUE	/	TRUE	1784310984	uid_tt	1d527e94a9ca9c69beca8e1a99bbfa4355d00f39d89929d37a2cf6e48b66fd4d
+.tiktok.com	TRUE	/	TRUE	1784310984	uid_tt_ss	1d527e94a9ca9c69beca8e1a99bbfa4355d00f39d89929d37a2cf6e48b66fd4d
+.tiktok.com	TRUE	/	TRUE	1784445036	FPAU	1.2.167796351.1768759004
+.tiktok.com	TRUE	/	TRUE	1784445036	FPID	FPID2.2.H%2Fo%2FJjfIvU4G06FOFQpp%2BKqhotsdFKUuRL09Z%2BdHsxY%3D.1768759004
+.tiktok.com	TRUE	/	TRUE	1784445036	_fbp	fb.1.1768759003630.1770848374
+.tiktok.com	TRUE	/	FALSE	1803319004	_ga	GA1.1.1066234452.1768759004
+.tiktok.com	TRUE	/	TRUE	1802455003	cookie-consent	{%22optional%22:true%2C%22ga%22:true%2C%22af%22:true%2C%22fbp%22:true%2C%22lip%22:true%2C%22bing%22:true%2C%22ttads%22:true%2C%22reddit%22:true%2C%22hubspot%22:true%2C%22version%22:%22v10%22}
+.tiktok.com	TRUE	/	FALSE	1803319817	_ga_GR6VLNH8D4	GS1.1.1768759003.1.0.1768759817.0.0.1787980130
+.tiktok.com	TRUE	/	TRUE	1804137062	_ttp	38MPYy0dcNnwbpPPKN7SejadDno
+.tiktok.com	TRUE	/	FALSE	1802105155	store-country-code	de
+.tiktok.com	TRUE	/	FALSE	1802105155	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1802105155	store-country-sign	MEIEDEBzdTSA7R8BsLxD2QQgRVgLM9HkYQ4uCKP_P2TjS3ecrdVlhOfjqNEh74Tu0yEEEHfG2fgTfZQl6nDXUacKiAM
+.tiktok.com	TRUE	/	FALSE	1802105155	store-idc	no1a
+.tiktok.com	TRUE	/	FALSE	1802105155	tt-target-idc	eu-ttp2
+.tiktok.com	TRUE	/	FALSE	1802105155	tt-target-idc-sign	u53OpbNNqV_crz_Cc6XcLP0deIewG8974NDxxK0FOgVlYk5SoUFcTk8-09Q1yVAek8-VbigpokHL731DCAq2RJmq1pVsZPEygVPln9aQx1zmgJZ8rV4ixT2g4EDbCSqlm7ugToIipmiV1qx7TaODwhEqdcwHfXRhdSeLqbjU39wnCmUScZ1LNySwA0fdYBlZqO0kHcf37aNgBwmYFuHtAoTL6zG_bqsTz3viZtXDUnK8i4HjMlARHiDswT6l51gtqugwueXVlbTjkciQOhI33PptkyGPcLQX5zYKVd6WCZH7xfUYxKwdQM8wKwNxSR0POqk1f5LNDFegk8SsRqPaQ30o01sLYwXEyueCbl-_E10V94efa29tlwwNDmRV_Z_Ty6A33UU3yZrfrmGURYIaSVC3NC5LguHpifpUo12w7yZ6jc7soTIBLd_UuFazXwy0CB4_E908fxtSzEHs4V32rS58E3Zut38FnZMs64jIFeXZolfvz6ZA32J4mNOatER-
+.tiktok.com	TRUE	/	TRUE	1786121152	tt_chain_token	uRYOFa0HPxiPwG8AEzqC9w==
+.tiktok.com	TRUE	/	TRUE	1802105155	ttwid	1%7CFWgmSDrcsajEgTq7Lgi3qH0HGdsNesdWPLmEzHpl38k%7C1770569157%7C92a60c733d99740eb3ed477dea06b60483c3a5bccb959ec6ccc81f669507906e
+.tiktok.com	TRUE	/	TRUE	1784445036	msToken	47pUKfhkk9oW7B-5kggSNDcpMY4NN-PKGvkETmB7Aa5_Nt7h-1nV8QhiCl3ecrc7tk4_8BQh5FvEKVEAJGmHGlVWbcDGA72XLF5fsQ6HkInSbOpyVF_gBKpH4ez4upq3Ox6slrjrOAA3DQ==
+.tiktok.com	TRUE	/	FALSE	1802105761	odin_tt	3e4a2becf95259ea1860f9ec1e0150fe13b836cd47ea95232f4a16df13c1175a7df2d4ab7b572a11ee96e7bb90bb9e5b5450c5ece269506e4ac5eee24c50388a8d3c639433f8205cff4181f508a32040

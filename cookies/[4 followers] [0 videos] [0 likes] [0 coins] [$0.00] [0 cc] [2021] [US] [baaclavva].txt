@@ -1,0 +1,37 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: baaclavva
+– Email: s***2@gmail.com
+– Mobile: 
+– Followers: 4
+– Videos: 0
+– Likes: 0
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2021
+– Country: US
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4537)\Chrome\Profile 1\Cookies.txt
+
+.tiktok.com	TRUE	/	TRUE	1805758250	cookie-consent	{%22optional%22:true%2C%22ga%22:true%2C%22af%22:true%2C%22fbp%22:true%2C%22lip%22:true%2C%22bing%22:true%2C%22ttads%22:true%2C%22reddit%22:true%2C%22hubspot%22:true%2C%22version%22:%22v10%22}
+.tiktok.com	TRUE	/	TRUE	1787614264	sessionid	b4b5ea9dfcf46895c3cbced70e28873b
+.tiktok.com	TRUE	/	TRUE	1787614264	sessionid_ss	b4b5ea9dfcf46895c3cbced70e28873b
+.tiktok.com	TRUE	/	TRUE	1803166264	sid_guard	b4b5ea9dfcf46895c3cbced70e28873b%7C1772062354%7C15552000%7CMon%2C+24-Aug-2026+23%3A32%3A34+GMT
+.tiktok.com	TRUE	/	TRUE	1787614264	sid_tt	b4b5ea9dfcf46895c3cbced70e28873b
+.tiktok.com	TRUE	/	TRUE	1787614264	sid_ucp_v1	1.0.1-KDEwNjRmOGJjNmYzN2IxZGQ3MGExZDg2ZGIwN2JjYmZlZGEzNTk0ZmUKIQiFiJmg_LX5zmAQko3-zAYYswsgDDCSjf7MBjgIQBJIBBAFGgRubzFhIiBiNGI1ZWE5ZGZjZjQ2ODk1YzNjYmNlZDcwZTI4ODczYjJOCiBn8_7-ZBKxv5J_Jw27dkmAibKKqglCvDdAql_R361AsxIggbGDu57fR5nBNaVxFfWxXmaVEFavL_k0t_l-V6ivIcwYBSIGdGlrdG9r
+.tiktok.com	TRUE	/	TRUE	1787614264	ssid_ucp_v1	1.0.1-KDEwNjRmOGJjNmYzN2IxZGQ3MGExZDg2ZGIwN2JjYmZlZGEzNTk0ZmUKIQiFiJmg_LX5zmAQko3-zAYYswsgDDCSjf7MBjgIQBJIBBAFGgRubzFhIiBiNGI1ZWE5ZGZjZjQ2ODk1YzNjYmNlZDcwZTI4ODczYjJOCiBn8_7-ZBKxv5J_Jw27dkmAibKKqglCvDdAql_R361AsxIggbGDu57fR5nBNaVxFfWxXmaVEFavL_k0t_l-V6ivIcwYBSIGdGlrdG9r
+.tiktok.com	TRUE	/	TRUE	1787614264	tt_session_tlb_tag	sttt%7C5%7CtLXqnfz0aJXDy87XDiiHO__________eApke0Laapbys1s7S-46dWwBufzqL6Irv2lnk9E6deUM%3D
+.tiktok.com	TRUE	/	TRUE	1787614264	uid_tt	e9d33c24179a61998d4219e884712756a852ceefc4c73cfb7055debad30a9d40
+.tiktok.com	TRUE	/	TRUE	1787614264	uid_tt_ss	e9d33c24179a61998d4219e884712756a852ceefc4c73cfb7055debad30a9d40
+.tiktok.com	TRUE	/	FALSE	1804177702	tt-target-idc-sign	E0pj5eYUSty_LQv3XJU8OHaIKO0O_sVjohmw_XW-K9P0S70HRbRXMbhE9s3e4iC4RB03AtXIyJbBxEhyvaFkxbiYQPvZH84qphibwbupw9FRoUThVwvwDJKw1oq87OlIVsLWhElLR1XNe05QUoPMW0O-tarOSQcAQQGNQ5lBQZRx5-WPQz7PegygpVXl4-DX9m9vWzQjEv889nr6v1dqhO7l75ZhZ08lRYep-60Uicze-c5dX29xkl3uD-SmgBouoqFm-mCysof29FD633EXaQOx67E7lWl9XCT-OwBQGOqhg93p2LSb9gpQa6MSvxz6H4-zT2c19csNs05Oz0vjWFohzQIy3TYsGqMYKSGWJznOm57kT1QGqjnKoRzurQ4wMuqdjhv2Jo-ekj6k-zw_DT61Q9N4rRQ6M1FHTM1NnlpW2bo9i2L3AGotqLGWBwytBRG9COMlAJpFoRrnUp0VVfZPdYCCjttukxOuQKUdyoQg9Wo2p8Ei3x9nrWmx0VrX
+.tiktok.com	TRUE	/	FALSE	1809637144	odin_tt	5d0790de64e8d2469831f0c70268d99ef2a2cbb5d20865da66533a56a499e1bbc6a953f093c8fde17cc3e4ac7774e408196a7f83f4f2a7a8b161169d5da72bea4d2c1b92709a5ad2a62b6a9ff5aa5f3d
+.tiktok.com	TRUE	/	FALSE	1787614179	store-country-code	ro
+.tiktok.com	TRUE	/	FALSE	1787614179	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1787614179	store-country-sign	MEIEDCho1ccm0V0prz2joAQggwR1OPdmgyULYjonnaFs3vXkx5-O3hkDr6CuiL7AeHoEEN0lGyOfXVZ-64USRQaIJAM
+.tiktok.com	TRUE	/	FALSE	1787614179	store-idc	no1a
+.tiktok.com	TRUE	/	FALSE	1787614179	tt-target-idc	eu-ttp2
+.tiktok.com	TRUE	/	TRUE	1793653138	tt_chain_token	gt0SW7GOfQCpbtnz/WwhnQ==
+.tiktok.com	TRUE	/	TRUE	1809637143	ttwid	1%7CmcBu47pxEADWWwjfheBs9w7UXHsH9qW_VwhwHB2Uomw%7C1778101318%7C607c2190d67ca0894665c003568aa522064b4ccf34a52a3160060aaddc978bed
+.tiktok.com	TRUE	/	TRUE	1784445036	msToken	FvsQb7kERchdwcZ1yTW7tQPzgtf4V-nFQsKhUNqlcQXXLu4FscDgFCoeHviqyHGw1oXDhirq-Tzj-QYxBmlxuJY0jNPKyFJps9kQw9D9RKpXY2gJxDPu3n5rAvDNf4HcBDXTuCLd_kXUh_M=
+.tiktok.com	TRUE	/	TRUE	1786458388	_ttp	3851dpmc3FB1SzTiALjiFCKSZmX

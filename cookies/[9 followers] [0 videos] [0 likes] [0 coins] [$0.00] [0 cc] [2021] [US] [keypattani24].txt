@@ -1,0 +1,37 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: keypattani24
+– Email: g***9@gmail.com
+– Mobile: 
+– Followers: 9
+– Videos: 0
+– Likes: 0
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2021
+– Country: US
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4766)\Cookies\Edge_0.txt
+
+.tiktok.com	TRUE	/	FALSE	1791180832	_ga	GA1.1.1105772976.1756620821
+.tiktok.com	TRUE	/	FALSE	1791180837	_ga_LWWPCY99PB	GS1.1.1756620821.1.1.1756620837.0.0.122483095
+.tiktok.com	TRUE	/	FALSE	1793379763	tt-target-idc-sign	Ue9L12FZmXXD4AR4Dx7yzYOjXn8cvMlIwGyagFKBTAz721RcmUnz2C9gmrTgvtzWC2QRtKq-bLSuJvtcXxWzRO7dp5_9oMCM2zMkfGSvS6WFsMms4d3RrcMsN7tjp4B2xYx3vXBdiz-iO1wmtgbXDQd4Ou41ZpYU2Dc2S9i_JAZp_Dn9wDgO6YRWC4GcEu4tl348meQX4_5Tx3unky8XqUY3kAD8s1NFNABlnF7O0Gs2MsfrEg2xQvqhD8SeAr-X47ZFEAaehfXRhlAV5K8V4oQCPuNZFMT4jk3AsLOhXpV1qEsHY6SEJsz3RxSfo9AiYLn9iNcgSe8vY2q41sOI9yO1GwwjS3IxJc5BAMwCZj1wgigY9SAhZe2PutUVyRrgAmmLpVgWLIWl8Gt4uSVwykccarE-hyynoYLEO1NofvXxPzU1HB5qdz4md1ZlOqk4q3Uzn5EfPV_WSNLqj7ug6mz4RFy4yNjmRNL1jX2he2kb8E5VcLoZW_i8Az-6XjmU
+.tiktok.com	TRUE	/	TRUE	1788942593	sessionid	9180d0b71f81b2f32982bcb3e038035a
+.tiktok.com	TRUE	/	TRUE	1788942593	sessionid_ss	9180d0b71f81b2f32982bcb3e038035a
+.tiktok.com	TRUE	/	TRUE	1804494593	sid_guard	9180d0b71f81b2f32982bcb3e038035a%7C1773390594%7C15552000%7CWed%2C+09-Sep-2026+08%3A29%3A54+GMT
+.tiktok.com	TRUE	/	TRUE	1788942593	sid_tt	9180d0b71f81b2f32982bcb3e038035a
+.tiktok.com	TRUE	/	TRUE	1788942593	sid_ucp_v1	1.0.1-KDQzYjYzMjQ2NzlhNThlYjQ4ZTc3OWM4MTljMmJkOWUyOWI4NTcxYzQKGQiCiNui1Maorl8QgpbPzQYYsws4CEAKSAQQAxoCbXkiIDkxODBkMGI3MWY4MWIyZjMyOTgyYmNiM2UwMzgwMzVhMk4KIMthWA43l_tUvpSVIeSE5YNcIojp9b7OBKqYn-G1BuINEiBMiDNbU-goT1vA-m3onQ05N_7ls8F1zM_KxCHgyzxb8RgEIgZ0aWt0b2s
+.tiktok.com	TRUE	/	TRUE	1788942593	ssid_ucp_v1	1.0.1-KDQzYjYzMjQ2NzlhNThlYjQ4ZTc3OWM4MTljMmJkOWUyOWI4NTcxYzQKGQiCiNui1Maorl8QgpbPzQYYsws4CEAKSAQQAxoCbXkiIDkxODBkMGI3MWY4MWIyZjMyOTgyYmNiM2UwMzgwMzVhMk4KIMthWA43l_tUvpSVIeSE5YNcIojp9b7OBKqYn-G1BuINEiBMiDNbU-goT1vA-m3onQ05N_7ls8F1zM_KxCHgyzxb8RgEIgZ0aWt0b2s
+.tiktok.com	TRUE	/	TRUE	1788942593	tt_session_tlb_tag	sttt%7C4%7CkYDQtx-BsvMpgryz4DgDWv________-zhKBmh0O8RbQp9C1S13uwYqKCzTGhT3aekUJHvz1KlIk%3D
+.tiktok.com	TRUE	/	TRUE	1788942593	uid_tt	a50f748ff6b5a7e56f6f81b0e38749995fe4efa273c398c5a227272c6d07cf8d
+.tiktok.com	TRUE	/	TRUE	1788942593	uid_tt_ss	a50f748ff6b5a7e56f6f81b0e38749995fe4efa273c398c5a227272c6d07cf8d
+.tiktok.com	TRUE	/	FALSE	1788942594	store-country-code	th
+.tiktok.com	TRUE	/	FALSE	1788942594	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1788942594	store-country-sign	MEIEDKtdEEcycL4lSI_FlQQgdWhmbJlBYGiHFVHFnMDZCxQMV2nf_wmU2SKQpwcNEAYEEBviC3_n6eh_OmwvpqdWrfU
+.tiktok.com	TRUE	/	FALSE	1788942594	store-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1788942594	tt-target-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1808881640	odin_tt	d4b6ef3e00f9aca005b6e7788b901930bef047306186209172dcb155a3819f628338157237350efd2e9f28835a0a35be8a300d9d34d949d2f27ebaec02a39149f3f223eee00d37be08f7a3ddec5aefe7
+.tiktok.com	TRUE	/	TRUE	1793704640	tt_chain_token	x6mS7XO/CGQk+bMjhMfWFg==
+.tiktok.com	TRUE	/	TRUE	1809688641	ttwid	1%7CXleRkh6_vlL1KP2rC0vWRP54ckXEoNha3mof87QsVKg%7C1778152642%7Ce0643b0f6b34a52eaab6b347172b3f28e475921cb4ad121bb2b5c6955102b2cf
+.tiktok.com	TRUE	/	TRUE	1812966241	_ttp	31DgNlobRdlnlqDRvGiZqy8fUgr

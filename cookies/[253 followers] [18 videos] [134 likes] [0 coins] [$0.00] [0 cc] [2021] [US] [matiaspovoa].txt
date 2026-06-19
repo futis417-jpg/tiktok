@@ -1,0 +1,37 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: matiaspovoa
+– Email: m***s@gmail.com
+– Mobile: 
+– Followers: 253
+– Videos: 18
+– Likes: 134
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2021
+– Country: US
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4500)\Chrome\Profile 4\Cookies.txt
+
+.tiktok.com	TRUE	/	TRUE	1796916967	cookie-consent	{%22optional%22:true%2C%22ga%22:true%2C%22af%22:true%2C%22fbp%22:true%2C%22lip%22:true%2C%22bing%22:true%2C%22ttads%22:true%2C%22reddit%22:true%2C%22hubspot%22:true%2C%22version%22:%22v10%22}
+.tiktok.com	TRUE	/	FALSE	1795712966	tt-target-idc-sign	BkvQGxdTwtLU6FmsObfkvAVEABA_eA3pYUr47CmYDTbIXsvN4qZ7kyTw0jAiW5igl3kxvGqj5XveouoyJ0_HL4x15-L2AexyZQ3BpCS9zNkorzTHajHLg-0CyWULns6QGnNPmNgG5Vy7uUDKO286tTupjZlOGOMEuIApWf77Bc8rhmgqG0BVN7pGNlLWvXtggetjoJFBLS9IivaGwO3yRcGlEI8baCoZ94uTS4OyN6jVePi1q9E6Zig3Vbsl7V-aKodJ3txQSU1uh7Jpj6C2cfoBjy5x7Y-A9lV3xtVUbPZQs-Esc8ug3QImEgj5Gh0FNpqr0ZbjI8xyb0xdZkIelyYgbFXgVjjw74xUwqnPs3nLFSQEWxFr-ODLUj_JDVQEU-uD7Pr8SBqZpBbGPMr0BDv0lhdbGgeOYzHDjpzvTXILRpGCvU2l-QeW7bYgZ2aSYNUXzLZS4oqlYh8A2no7IaKG6P7TryQTsR7uuQEynW0BehetY19UjmmM4iwNGbN5
+.tiktok.com	TRUE	/	TRUE	1792711051	sessionid	25052f240169c654931664f8c089a849
+.tiktok.com	TRUE	/	TRUE	1792711051	sessionid_ss	25052f240169c654931664f8c089a849
+.tiktok.com	TRUE	/	TRUE	1808263051	sid_guard	25052f240169c654931664f8c089a849%7C1777159052%7C15552000%7CThu%2C+22-Oct-2026+23%3A17%3A32+GMT
+.tiktok.com	TRUE	/	TRUE	1792711051	sid_tt	25052f240169c654931664f8c089a849
+.tiktok.com	TRUE	/	TRUE	1792711051	sid_ucp_v1	1.0.1-KGIxZTQ5YzViMWE3NDE5ZDNlNDVlODA2MTU0NDM2ODY2Y2RkODJlMGEKIQiFiJD22teAn2EQjJe1zwYYswsgDDDLu-LIBjgIQBJIBBAFGgh1c2Vhc3QyYiIgMjUwNTJmMjQwMTY5YzY1NDkzMTY2NGY4YzA4OWE4NDkyTgog5iFNNpuwx9aTa-2uuYscnehJ2cIp28N3gM9gnSmfeRwSIKayhGh2jEGoZG5wP0PMgYa9FnbzpV1fvUTjWLRk2rScGAEiBnRpa3Rvaw
+.tiktok.com	TRUE	/	TRUE	1792711051	ssid_ucp_v1	1.0.1-KGIxZTQ5YzViMWE3NDE5ZDNlNDVlODA2MTU0NDM2ODY2Y2RkODJlMGEKIQiFiJD22teAn2EQjJe1zwYYswsgDDDLu-LIBjgIQBJIBBAFGgh1c2Vhc3QyYiIgMjUwNTJmMjQwMTY5YzY1NDkzMTY2NGY4YzA4OWE4NDkyTgog5iFNNpuwx9aTa-2uuYscnehJ2cIp28N3gM9gnSmfeRwSIKayhGh2jEGoZG5wP0PMgYa9FnbzpV1fvUTjWLRk2rScGAEiBnRpa3Rvaw
+.tiktok.com	TRUE	/	TRUE	1792711051	tt_session_tlb_tag	sttt%7C5%7CJQUvJAFpxlSTFmT4wImoSf________-0qbzq3b635BExfYALSxf_QK69zHteBm-CmX_eNNag_o0%3D
+.tiktok.com	TRUE	/	TRUE	1792711051	uid_tt	7c2fe659c9218864c7d2840bfa07fcb648608fad676707e4514fb69e7828056c
+.tiktok.com	TRUE	/	TRUE	1792711051	uid_tt_ss	7c2fe659c9218864c7d2840bfa07fcb648608fad676707e4514fb69e7828056c
+.tiktok.com	TRUE	/	TRUE	1788283289	_ttp	369NSmKTGKEhX2o5MXPxMQWO7jP
+.tiktok.com	TRUE	/	FALSE	1812131918	odin_tt	1710534c325ca076e2b07bd0f3bb8ca7b1bb96ed85c162e544ce0a9e0690c7e1d3e436f0bd2006c9643f6db78d4b7e37555da86679680d2baf6feec50de7bbc7a4c8ddcfe2fe211289dfd6aaee78201d
+.tiktok.com	TRUE	/	FALSE	1792711066	store-country-code	pt
+.tiktok.com	TRUE	/	FALSE	1792711066	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1792711066	store-country-sign	MEIEDGZ6hFcco_2a-nNoqgQglUYmW3PNqiXmxFauP8ygKMgHN2KdgJLc93yrTjIpErEEEMTSBK5q_HP_y0z57ZZ76Gw
+.tiktok.com	TRUE	/	FALSE	1792711066	store-idc	useast2b
+.tiktok.com	TRUE	/	FALSE	1792711066	tt-target-idc	us-eastred
+.tiktok.com	TRUE	/	TRUE	1796147914	tt_chain_token	BtJRP4/M1eYa1apcwf8drw==
+.tiktok.com	TRUE	/	TRUE	1812131917	ttwid	1%7C2jteVs1XJZ-_Bfzbw_5BHt4j26KKo131zzQ24eWjIaI%7C1780595904%7Cf8528e4a1bb2fc2dc5673d45d8b4a4f85283caf9b4300a00aa3e37c5ee7120d1
+.tiktok.com	TRUE	/	TRUE	1784445036	msToken	b7rXoPrGDenHcUBdWDWBQ4BHyk4q6lNczciTNis-Lfkb87WvBfXzCV4PBnxEly4kbM2vKhqD0YO9DbcMP9eFWd9Gho-21XQpsZBI7S05VOARNXIcWHOEnnXV9pYdq0hBDwkPGCBhFAKgFh0=

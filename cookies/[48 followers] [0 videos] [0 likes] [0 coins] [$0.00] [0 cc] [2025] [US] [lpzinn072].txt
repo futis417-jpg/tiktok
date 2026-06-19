@@ -1,0 +1,41 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: lpzinn072
+– Email: j***4@gmail.com
+– Mobile: +55****6239
+– Followers: 48
+– Videos: 0
+– Likes: 0
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2025
+– Country: US
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (452)\Chrome\Default\Cookies.txt
+
+.tiktok.com	TRUE	/	TRUE	1785859750	cmpl_token	AgQYAPNk_hfkTtK33tNzpCXdPPB-G4QETv-Q72CnQZ0
+.tiktok.com	TRUE	/	TRUE	1785859750	multi_sids	7485050562171831301%3Ac784372209e5999fd47297c103255af4
+.tiktok.com	TRUE	/	FALSE	1783267750	passport_auth_status	d5857f4b43304693affb1bb16ff9ff3a%2Cfffd5193dfc564b08336fdc27f49a56e
+.tiktok.com	TRUE	/	TRUE	1783267750	passport_auth_status_ss	d5857f4b43304693affb1bb16ff9ff3a%2Cfffd5193dfc564b08336fdc27f49a56e
+.tiktok.com	TRUE	/	TRUE	1796227750	sessionid	c784372209e5999fd47297c103255af4
+.tiktok.com	TRUE	/	TRUE	1796227750	sessionid_ss	c784372209e5999fd47297c103255af4
+.tiktok.com	TRUE	/	TRUE	1811779750	sid_guard	c784372209e5999fd47297c103255af4%7C1780675749%7C15552000%7CWed%2C+02-Dec-2026+16%3A09%3A09+GMT
+.tiktok.com	TRUE	/	TRUE	1796227750	sid_tt	c784372209e5999fd47297c103255af4
+.tiktok.com	TRUE	/	TRUE	1796227750	sid_ucp_v1	1.0.1-KGNkOTU5NWQ4MWM1NjBmZTYyMjM1YmI0N2Y0ZDg3YWQ1Y2ViZmQyNzgKIQiFiNzgwrqP8GcQpemL0QYYswsgDDCO_YC_BjgIQBJIBBADGgJteSIgYzc4NDM3MjIwOWU1OTk5ZmQ0NzI5N2MxMDMyNTVhZjQyTgoge7fdvec35lJBzmZ21-jedlX4H7az0Q1cpBrkIMfRMBQSIDOtMKZzy71nwcHNt2_WOM3jMHYXnv-4QSb6nBvK6jwfGAMiBnRpa3Rvaw
+.tiktok.com	TRUE	/	TRUE	1796227750	ssid_ucp_v1	1.0.1-KGNkOTU5NWQ4MWM1NjBmZTYyMjM1YmI0N2Y0ZDg3YWQ1Y2ViZmQyNzgKIQiFiNzgwrqP8GcQpemL0QYYswsgDDCO_YC_BjgIQBJIBBADGgJteSIgYzc4NDM3MjIwOWU1OTk5ZmQ0NzI5N2MxMDMyNTVhZjQyTgoge7fdvec35lJBzmZ21-jedlX4H7az0Q1cpBrkIMfRMBQSIDOtMKZzy71nwcHNt2_WOM3jMHYXnv-4QSb6nBvK6jwfGAMiBnRpa3Rvaw
+.tiktok.com	TRUE	/	TRUE	1796227750	tt_session_tlb_tag	sttt%7C2%7Cx4Q3IgnlmZ_UcpfBAyVa9P________-yKbIeorGJCZ-jML5P6Tw-XnhB-7udGuHFHtb0EzOFAt4%3D
+.tiktok.com	TRUE	/	TRUE	1796227750	uid_tt	0034352c9cbd45b632f5e2bdd92abd2893e07305b9da8c7965ae87486a60c370
+.tiktok.com	TRUE	/	TRUE	1796227750	uid_tt_ss	0034352c9cbd45b632f5e2bdd92abd2893e07305b9da8c7965ae87486a60c370
+.tiktok.com	TRUE	/	TRUE	1784445036	s_v_web_id	verify_mq6vr30r_dCSHGJf4_t90h_4ETu_ALdz_JUzottb1m8rk
+.tiktok.com	TRUE	/	FALSE	1796227749	store-country-code	br
+.tiktok.com	TRUE	/	FALSE	1796227749	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1796227749	store-country-sign	MEIEDOfukFUVd4_nW9bL5AQgT4ptSEbm_KGycOodvVSCVKl-R9Hxbe1oE8-PyZZpkNQEEMV0Knj6xO9h_7RnMSLwUoQ
+.tiktok.com	TRUE	/	FALSE	1796227749	store-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1796227749	tt-target-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1812560080	tt-target-idc-sign	m1QD74ggbAZKLVpfKAogAkB9C9KrNzaRbT1q6EuSf8u7VYR2u_oRWbC4DJCZcnEJcptfiidYst9rweI1j6COvC2xWRx9zFceW4ggWoFSpdYYZIKeI4PJP3n5v24gGMosafStq7xz3eQa75pS617yQaC9l1JJZ6_I4PWB1-ojx--Lo0uQC0utFCJFbDhbgi33IUr-pZVwNRLxEQS0T5JEut9QZ5LvQYafpnieLWuecR489i3EA2A6PMIDMq2fmgI1m3uVTHNneka_CIXipJvRPVWqsPm8J966Q6m9SH-xzQSOADGWKyQmNNxfWvBD8ahQugXSBod448GNDz5X_DurszAUAtQF_u3LihH-fBfqwaeyTkhwUOVMx1H-vE6vReBYqxJ1KOyc9QmXH6JBt2ItRhDO7xX5f6HRCRRpaEAIAA5aKnMb4donP9YempObXDLfEZTZ6K7B8N4uygd51zPwWKD6fGyG3F0jGyW3rEIpw478Mhx7RHzvurvnVDhbUm8P
+.tiktok.com	TRUE	/	TRUE	1796576075	tt_chain_token	vlr/0r2Sl24OdwCDYdGXlQ==
+.tiktok.com	TRUE	/	TRUE	1784445036	tt_csrf_token	QsllKA8G-8PWHpHrZsmfdqQC9YGR_e-uMOpA
+.tiktok.com	TRUE	/	TRUE	1812560080	ttwid	1%7CgWLgSUu7ZzR6jwQq7d6bKf0O3ebpp6GYRJBmqZXHvwI%7C1781024080%7C010688494ceeb6e9d3cca566bc9492b5528e4107a2b9e159750da8684996c96e
+.tiktok.com	TRUE	/	FALSE	1812570388	odin_tt	20db5dc83d49941062550f22f0764b6a9debdb005a57da0976e2e044f1fa2363282ceacc503e1876786b664ec61d72879de88e61e6fb8178979bef05cfd242168866b302168ac2ffd42cfdcf5ecbb33b
+.tiktok.com	TRUE	/	TRUE	1781901080	msToken	uHH-O-IsOTUITt_XEP76_4KLRaiBuLI1IGdGUutI-tCmisgbzdr2MiNAElK8_uz0G86Ql9RchpibP2YOy-4M42kn0k_BuEoCmNkaQjjYydrGc0caL_GZVoblx6G5r9DHUW4z3n7JaiOseKc=

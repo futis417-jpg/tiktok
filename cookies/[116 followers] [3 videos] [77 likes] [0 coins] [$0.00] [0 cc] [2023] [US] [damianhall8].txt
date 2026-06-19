@@ -1,0 +1,36 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: damianhall8
+– Email: n***6@privaterelay.appleid.com
+– Mobile: 
+– Followers: 116
+– Videos: 3
+– Likes: 77
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2023
+– Country: US
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4428)\cookies\Cookies_ (2564).txt
+
+.tiktok.com	TRUE	/	TRUE	1790430177	sessionid	e0edf45f55893b55770ebc2928b689a2
+.tiktok.com	TRUE	/	TRUE	1790430177	sessionid_ss	e0edf45f55893b55770ebc2928b689a2
+.tiktok.com	TRUE	/	TRUE	1805982177	sid_guard	e0edf45f55893b55770ebc2928b689a2%7C1774878177%7C15552000%7CSat%2C+26-Sep-2026+13%3A42%3A57+GMT
+.tiktok.com	TRUE	/	TRUE	1790430177	sid_tt	e0edf45f55893b55770ebc2928b689a2
+.tiktok.com	TRUE	/	TRUE	1790430177	sid_ucp_v1	1.0.1-KGY0NDFhOTJmMjA0ZGM5OTRiM2U0ZWJhMTg2MjM0Yjg5ZWI4ZDRjODYKIgiFiL-irrq2_mQQ4fupzgYYswsgDDD4s_OnBjgHQPQHSAQQAxoCbXkiIGUwZWRmNDVmNTU4OTNiNTU3NzBlYmMyOTI4YjY4OWEyMk4KIEgfbe11ljcMRlYwe28DKAygLNO6ByTIAESnj6EnvenVEiAtwxt4tqdkFZ-x3i6AnHNgRYXAb2I1-IDFsv45a693CBgFIgZ0aWt0b2s
+.tiktok.com	TRUE	/	TRUE	1790430177	ssid_ucp_v1	1.0.1-KGY0NDFhOTJmMjA0ZGM5OTRiM2U0ZWJhMTg2MjM0Yjg5ZWI4ZDRjODYKIgiFiL-irrq2_mQQ4fupzgYYswsgDDD4s_OnBjgHQPQHSAQQAxoCbXkiIGUwZWRmNDVmNTU4OTNiNTU3NzBlYmMyOTI4YjY4OWEyMk4KIEgfbe11ljcMRlYwe28DKAygLNO6ByTIAESnj6EnvenVEiAtwxt4tqdkFZ-x3i6AnHNgRYXAb2I1-IDFsv45a693CBgFIgZ0aWt0b2s
+.tiktok.com	TRUE	/	TRUE	1790430177	tt_session_tlb_tag	sttt%7C3%7C4O30X1WJO1V3DrwpKLaJov_________IabCpLpFM7m6c4QZp_2zzq-TYdvqF1Kcc4SbgMADN17o%3D
+.tiktok.com	TRUE	/	TRUE	1790430177	uid_tt	53ae6e11681d757abedfe06946b5073dfc74f44d099eaeec0373546bf59c5522
+.tiktok.com	TRUE	/	TRUE	1790430177	uid_tt_ss	53ae6e11681d757abedfe06946b5073dfc74f44d099eaeec0373546bf59c5522
+.tiktok.com	TRUE	/	TRUE	1811533908	_ttp	38o3YGq2HrfCmfaIwJXNyVDCXhZ
+.tiktok.com	TRUE	/	FALSE	1812400098	odin_tt	d0f3af048260a2b3fec26ac5fe72e7b314188268a5a657a4de5039edc97fdcb605c91d963901920b5f176edeea9b10aed025145a02c722b86db0a307da11d826349d2050b231c7c50984f55b4e5f81a6
+.tiktok.com	TRUE	/	FALSE	1790430176	store-country-code	ca
+.tiktok.com	TRUE	/	FALSE	1790430176	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1790430176	store-country-sign	MEIEDBFi_3wlfJXjbiD_OQQgdwj6e--bCsw6fiAkTO1IYHAHWi1UmCi7XoWsspYOFHgEEHxDNILX82Q-znQdvk7B58k
+.tiktok.com	TRUE	/	FALSE	1790430176	store-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1790430176	tt-target-idc	alisg
+.tiktok.com	TRUE	/	TRUE	1796416087	tt_chain_token	7IizyaNiQ/Hc6Mb/FURGUQ==
+.tiktok.com	TRUE	/	TRUE	1812400091	ttwid	1%7Coa9rOEaIbyGvii6tVr4Cg9ieYguc0SJCjNyytgHEJCM%7C1780864091%7C27c84a8dd2f4df37eb6b675cfc049e054c10a02d3a07ffaf856f538c007ae23d
+.tiktok.com	TRUE	/	FALSE	1812400091	tt-target-idc-sign	KoUBs6KytxaVISpCvjFSD5f0beD4ELbELWuL93wGDtusoNEkJZMuFIAtcspZ-IKxAimE_mpTZQsub1-IGFjJiFUkAS2SCUntOfnEyb21O1PjI38Xi9ds7q_RzOL0J2n2WgcnFWtRjNERyVHXeyPejIgtl1CTZnA-l5McrkUrBamV5jklAdx7PUurQ9yuxCul62I9pX26MQuk5QfW9eOYotBBaTYc_laAIX1PuY733crt7_ZrBp6UFS1cSPZkxEARxyYU_XaxM9uvf8Dq7t4nM3ZZntqAVT9o0JtMtgpIV-PhmLUMtzBb6E6wOEO2kGMBWhGwu_RdRsl-NQrRRMB7XLaOEmpRD2d68mZfsG2U7G_kFPWhxjPF3I-zrizmTlRX29ldWDgdkVPHxeNw-Zmp2e-WDxbowbHmE1eJmCovPS-JYjS1QdLFrdwpJPOLvu4S81kkP9Uha5c2S3rixqqCYKP5ZE3tevOVSyXJ12ARve1FfPMT7ExoG3LnXe1wQu2B
+.tiktok.com	TRUE	/	TRUE	1784445036	msToken	rro-PDoUpaQXEyZk3USgT64RM_Qc1jpCFQMQtMpYyTPNHWsXhNmOH_IlCNwZOMGFO0V2dPp5sLglfBW1SvYFX4Ut6mtGp-StLwwXZCRoaJ_8ME21mWoUeH9XSU78_YsS7erz3VhLmiPwyKU=

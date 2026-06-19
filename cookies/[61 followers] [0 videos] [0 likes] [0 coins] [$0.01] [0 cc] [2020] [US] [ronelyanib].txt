@@ -1,0 +1,38 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: ronelyanib
+– Email: r***8@gmail.com
+– Mobile: 
+– Followers: 61
+– Videos: 0
+– Likes: 0
+– Coins: 0
+– Balance: $0.01
+– CC: 0
+– Year: 2020
+– Country: US
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4684)\cookies\Cookies_ (3210).txt
+
+.tiktok.com	TRUE	/	TRUE	1783982037	multi_sids	6863254545839195138%3A35569719ef646fd0b267a04ddb3c9d20
+.tiktok.com	TRUE	/	TRUE	1784445036	cmpl_token	AgQYAPO7_hfkTtKO3wIcyPmdO_Oj4ZlFi3-TMGCgIqw
+.tiktok.com	TRUE	/	TRUE	1791818414	sessionid	35569719ef646fd0b267a04ddb3c9d20
+.tiktok.com	TRUE	/	TRUE	1791818414	sessionid_ss	35569719ef646fd0b267a04ddb3c9d20
+.tiktok.com	TRUE	/	TRUE	1807370415	sid_guard	35569719ef646fd0b267a04ddb3c9d20%7C1776266427%7C15551999%7CMon%2C+12-Oct-2026+15%3A20%3A26+GMT
+.tiktok.com	TRUE	/	TRUE	1791818414	sid_tt	35569719ef646fd0b267a04ddb3c9d20
+.tiktok.com	TRUE	/	TRUE	1791818414	sid_ucp_v1	1.0.1-KDI0ZmU5Yjc5ZTJhOTA0MTU3NTI1MTBjOTg1OTlhMDk1Mjc4ODI0MTgKIgiCiK2GtJf78F4Qu9n-zgYYswsgDDCXtd7DBjgGQO8HSAQQAxoDbXkyIiAzNTU2OTcxOWVmNjQ2ZmQwYjI2N2EwNGRkYjNjOWQyMDJOCiAuQkvwrsu12Ogj7uK8bplmbeofOpkpbfCAi4ktMDiaGhIg-TGqcZp8fss9lm8MC2uXHqlLJlak8j8FHXYcuZ1jJwMYAyIGdGlrdG9r
+.tiktok.com	TRUE	/	TRUE	1791818414	ssid_ucp_v1	1.0.1-KDI0ZmU5Yjc5ZTJhOTA0MTU3NTI1MTBjOTg1OTlhMDk1Mjc4ODI0MTgKIgiCiK2GtJf78F4Qu9n-zgYYswsgDDCXtd7DBjgGQO8HSAQQAxoDbXkyIiAzNTU2OTcxOWVmNjQ2ZmQwYjI2N2EwNGRkYjNjOWQyMDJOCiAuQkvwrsu12Ogj7uK8bplmbeofOpkpbfCAi4ktMDiaGhIg-TGqcZp8fss9lm8MC2uXHqlLJlak8j8FHXYcuZ1jJwMYAyIGdGlrdG9r
+.tiktok.com	TRUE	/	TRUE	1791818414	tt_session_tlb_tag	sttt%7C1%7CNVaXGe9kb9CyZ6BN2zydIP_________nY_dZwQhTHRWM19EH6KxDDL9oq9OYxFe9F6hqjfrGRXA%3D
+.tiktok.com	TRUE	/	TRUE	1791818414	uid_tt	a1fdb86e4ad362f63e6adb046fe0f53b8506f80aa48a052f588c10105ee7967a
+.tiktok.com	TRUE	/	TRUE	1791818414	uid_tt_ss	a1fdb86e4ad362f63e6adb046fe0f53b8506f80aa48a052f588c10105ee7967a
+.tiktok.com	TRUE	/	FALSE	1808595643	tt-target-idc-sign	h2HpONwVGmGEcne1SOq2o3MvQsSLsrv7e9jFQIwHK5cQQVeZNvN3JYiub8LqiPIV6EG2KW93m8RrkpcpYU7P1_ji2_oj3x5SCUH2l65KB1ODgV6wqNoXIQmDJ0OUfOBxnuT6cQ0sfJ20OwciI6OZ-kHLxNhM0ki57BShEdbUcgKcmSt7fu3Sd4HD-kzWF3KsrVZs7sGEZvWKq1Ra-C3Iul8eYGlcWYt4_HXnMdC0r3H06_ctrdTarswgxyKFz_mVGkTlywTw8maMxhCF4Wgyt_c6b-mmWJnjTvrg0KbyZ_LA6Pd8supc1jwFYmqadbMi22eAZ_7OJd7aUU4ysIPdUO-s9vcRPg7_B-ygVNlibGzNtsqw6IRQBFsnp7uyTT7Qen98Op6ethDT_TZHn_b3rUkZx3fw5GriqRkK7_GZGQOYBu2Ws6BOOA6wdxkXR_u9H4j4RQzGE47kWm-i8kV6fKnvLckv9aqM81QMZFHxNNGn51HMZvk8Eq2SP9ENivnC
+.tiktok.com	TRUE	/	TRUE	1812001498	_ttp	3DTUMV9utFW4io6bEXEWU2ew6v4
+.tiktok.com	TRUE	/	FALSE	1811541350	odin_tt	f97fcfc5b7c11d04d8107f82137260b830663b363d37548055eac1c31653c4ca4d00ece04e063d4e80e566320ea660124d2441506aa8fbe7cbf1ace4d15cad02
+.tiktok.com	TRUE	/	FALSE	1791818423	store-country-code	ph
+.tiktok.com	TRUE	/	FALSE	1791818423	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1791818423	store-country-sign	MEIEDI7VgPvPt4Tb2YbTkgQgNgvqBW0Yg9nyHnEkMBlqvqXQoBTf-4IgVB_vLfybxUEEELwx7Ep7AVieOdXk28Ai3sU
+.tiktok.com	TRUE	/	FALSE	1791818423	store-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1791818423	tt-target-idc	alisg
+.tiktok.com	TRUE	/	TRUE	1795557340	tt_chain_token	pS8DQONqBqwQrWPMLBBwew==
+.tiktok.com	TRUE	/	TRUE	1783982037	msToken	R3KgE4PUyGXTnD5VYYv9geZW3tztU4ZZX4S3RhaS_Hqnaygq5pn08m2clgy0nMMzppuaJkP_bt4afzK58ztT6zKvC77ynsf-OrlV7afcx2Y3XCzHRG0X5wjE3_ad
+.tiktok.com	TRUE	/	TRUE	1811541348	ttwid	1%7CRY8v4GePajERsmUD1PzmRO7beWy610YeBrCf5JNezw4%7C1780005351%7C2b7fb6ac8137e149fe11eddbdaef994bda7871439671f476f1fabdafbe4a0da1

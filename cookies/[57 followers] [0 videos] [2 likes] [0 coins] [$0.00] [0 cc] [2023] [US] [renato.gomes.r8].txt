@@ -1,0 +1,42 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: renato.gomes.r8
+– Email: e***m@gmail.com
+– Mobile: 
+– Followers: 57
+– Videos: 0
+– Likes: 2
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2023
+– Country: US
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4497)\Browsers\Cookies_Opera_Default.txt
+
+.tiktok.com	TRUE	/	FALSE	1784445036	cmpl_token	AgQQAPPzF-RO0rT_2iqv6t0j88qgesIN_6N4YKFCeg
+.tiktok.com	TRUE	/	FALSE	1784445036	cookie-consent	{%22optional%22:false%2C%22ga%22:false%2C%22af%22:false%2C%22fbp%22:false%2C%22lip%22:false%2C%22bing%22:false%2C%22ttads%22:false%2C%22reddit%22:false%2C%22hubspot%22:false%2C%22version%22:%22v10%22}
+.tiktok.com	TRUE	/	FALSE	1784445036	multi_sids	7260141855161451546%3Ac16a5e614f5a63c2792ce0b4a2450588
+.tiktok.com	TRUE	/	FALSE	1784445036	passport_auth_status	7a685a482b3ae85462b4dfa83f59563f%2C
+.tiktok.com	TRUE	/	FALSE	1784445036	passport_auth_status_ss	7a685a482b3ae85462b4dfa83f59563f%2C
+.tiktok.com	TRUE	/	FALSE	1784445036	sessionid	c16a5e614f5a63c2792ce0b4a2450588
+.tiktok.com	TRUE	/	FALSE	1784445036	sessionid_ss	c16a5e614f5a63c2792ce0b4a2450588
+.tiktok.com	TRUE	/	FALSE	1784445036	sid_guard	c16a5e614f5a63c2792ce0b4a2450588%7C1772829036%7C15551999%7CWed%2C+02-Sep-2026+20%3A30%3A35+GMT
+.tiktok.com	TRUE	/	FALSE	1784445036	sid_tt	c16a5e614f5a63c2792ce0b4a2450588
+.tiktok.com	TRUE	/	FALSE	1784445036	sid_ucp_v1	1.0.1-KGZiZmIxNGE5NjcwZjA2OGI2ZTlmNzk0NzlmY2M0MDE0NGZjOGUzMzIKIQiaiOC-0pHN4GQQ7PKszQYYswsgDDC56YSmBjgIQBJIBBAFGgRubzFhIiBjMTZhNWU2MTRmNWE2M2MyNzkyY2UwYjRhMjQ1MDU4ODJOCiD1dC_Bd6PgqLKGVcUt8fCXECTThMRR1RCBw1F6TbrKIBIgaKEVZdvjMd1wHvt-Wpgf4oCBjq5q2fiuZZzRIESXjUUYAyIGdGlrdG9r
+.tiktok.com	TRUE	/	FALSE	1784445036	ssid_ucp_v1	1.0.1-KGZiZmIxNGE5NjcwZjA2OGI2ZTlmNzk0NzlmY2M0MDE0NGZjOGUzMzIKIQiaiOC-0pHN4GQQ7PKszQYYswsgDDC56YSmBjgIQBJIBBAFGgRubzFhIiBjMTZhNWU2MTRmNWE2M2MyNzkyY2UwYjRhMjQ1MDU4ODJOCiD1dC_Bd6PgqLKGVcUt8fCXECTThMRR1RCBw1F6TbrKIBIgaKEVZdvjMd1wHvt-Wpgf4oCBjq5q2fiuZZzRIESXjUUYAyIGdGlrdG9r
+.tiktok.com	FALSE	/	FALSE	1784445036	tt_csrf_token	PrnKwgFS-uoI8PKh8J2vZ4XaBCc0v0Cj6nV0
+.tiktok.com	TRUE	/	FALSE	1784445036	tt_session_tlb_tag	sttt%7C5%7CwWpeYU9aY8J5LOC0okUFiP_________MXF-LnDXHx_gk5FTRrBwIvxtNtUPFVrhAZ0KjW_XN260%3D
+.tiktok.com	TRUE	/	FALSE	1784445036	uid_tt	6d494dcbcc51b40848b7c2b00f57e4dce4dc09ba7a83c09868c4fde560ec5bbd
+.tiktok.com	TRUE	/	FALSE	1784445036	uid_tt_ss	6d494dcbcc51b40848b7c2b00f57e4dce4dc09ba7a83c09868c4fde560ec5bbd
+.tiktok.com	TRUE	/	FALSE	1784445036	odin_tt	0c7d750b90dc7973b35675ba9742c882aa8888e4a3b3b2e16060a0dafa7ca17fc778e8fabae5a5d47b4311c3eb9cc32d0a92d02eff0e8bec4ef0fb1d258c804ce07c51ddf1edc9d3380e7f7705625daa
+.tiktok.com	FALSE	/	FALSE	1784445036	s_v_web_id	verify_mmfcmuf6_STdV2f3u_p6Td_4dCR_BbmV_02cGH9ipYEqt
+.tiktok.com	TRUE	/	FALSE	1784445036	store-country-code	pt
+.tiktok.com	TRUE	/	FALSE	1784445036	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1784445036	store-country-sign	MEIEDHHPPktzf7fmZO6tzwQggS3ce9SPqoLlGI771Dd3aA6zS9Efa7mewgaHw5Xi7IUEEOssOAdWumz15MO4MP3SsVc
+.tiktok.com	TRUE	/	FALSE	1784445036	store-idc	no1a
+.tiktok.com	TRUE	/	FALSE	1784445036	tt-target-idc	us-eastred
+.tiktok.com	TRUE	/	FALSE	1784445036	tt-target-idc-sign	SJf3ZdSnoYtZ1DKROuaAj1EqjYwBfVVvVp8HFl2ocas8k1WZFHnNZ2N4RGSItxbCyRYN43ynTaSxzO6rFuQFo7mbLSQNti_kHMaqtrBpLaA7MeSrP5la9iNl3dr_fyxrkI4Q7pIC7mNUp-MMCnznVJf8yemCxnAYiMkdWCJtHl_o6rCrcPovjY-vuxLvjg4I5iL7616JUIFryXWfKeA8eoHRLxdAIvrh63PnlCuyzO1ub8HOoBkg68vNFs_fb39wSuLB6dOSAxP1RPHw2p2pWMEanZkYypeFeFUlwqH5GUNSIMeSUfNzfbRTUqSxyjUbU7rIxWchms_SoMWyz-G7xoYCmNOTtOWo0oo4yaoFFCO6lo1F8MmMx_LUb1g9L4WKYaM4yQi7Zsigmx6af9Afo_JfQhAUhC7UrSJIa0cJo8XIk0EAj-RLKobTlfS-bAiXk2ypRdSVKnVxnHoRJ_WtG-9WAi8XNlUVhhRggNpHnheYEGG4Afi3-87EfdwMgKPo
+.tiktok.com	TRUE	/	FALSE	1784445036	tt_chain_token	R4kR1kGW4KqDQag194yJJw==
+.tiktok.com	TRUE	/	FALSE	1784445036	ttwid	1%7CZbzYrDSmn4OPf2alEuXBiTZKbq4B1lvKA_wplaHo8Nk%7C1772829087%7Cb6b479c7567b97af4e800baabcf8b833312d6259dc780b7b064b27166730614a
+.tiktok.com	TRUE	/	FALSE	1784445036	msToken	JYP3z1DTzDUAY6TytHbX-rbQ7bwuR8zXPXL0SjjBO8I68wVVoxf-8ePElDSeviNmY2aV3lnsODdMS7BJH8iZ5WzEtJqk7QYKqG00CszuelevwjKqW6TI8DcmkcT0SnUJyJYns_l58T5Q

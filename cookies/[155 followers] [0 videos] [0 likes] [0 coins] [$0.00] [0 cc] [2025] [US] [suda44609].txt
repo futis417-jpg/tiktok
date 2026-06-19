@@ -1,0 +1,39 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: suda44609
+– Email: l***3@gmail.com
+– Mobile: 
+– Followers: 155
+– Videos: 0
+– Likes: 0
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2025
+– Country: US
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4547)\[Simple Checker] TikTok Cookies.txt
+
+.tiktok.com	TRUE	/	TRUE	1784445036	cmpl_token	AgQYAPPx_hfkTtK4ZR95Qn9dAfMZeZF5DT-SemCgVwE
+.tiktok.com	TRUE	/	TRUE	1784445036	multi_sids	7519869942004286520%12R1NxJEuAXGtsGXR8ci89svf4dkzwQxe3
+.tiktok.com	TRUE	/	FALSE	1783983855	passport_auth_status	7c29464b5ef267428b0c39a6415edeea%2C
+.tiktok.com	TRUE	/	TRUE	1783983855	passport_auth_status_ss	7c29464b5ef267428b0c39a6415edeea%2C
+.tiktok.com	TRUE	/	TRUE	1792150421	sessionid	8f1983a3d04bc8982cf9c3a1d2144e47
+.tiktok.com	TRUE	/	TRUE	1792150421	sessionid_ss	8f1983a3d04bc8982cf9c3a1d2144e47
+.tiktok.com	TRUE	/	TRUE	1807702422	sid_guard	8f1983a3d04bc8982cf9c3a1d2144e47%7C1776598419%7C15551999%7CFri%2C+16-Oct-2026+11%3A33%3A38+GMT
+.tiktok.com	TRUE	/	TRUE	1792150421	sid_tt	8f1983a3d04bc8982cf9c3a1d2144e47
+.tiktok.com	TRUE	/	TRUE	1792150421	sid_ucp_v1	1.0.1-KGM5ZDJkMWM4MmQ0ZmU4ZTgzMDU1N2U0M2U0YTA0OGRkOGYyYTkzOWYKIQi4iLbS7Lv8rWgQk_uSzwYYswsgDDDe5O_CBjgIQBJIBBADGgNzZzEiIDhmMTk4M2EzZDA0YmM4OTgyY2Y5YzNhMWQyMTQ0ZTQ3Mk4KIILx9fRqmlbOnU6-osFsJm3s8nMNRuzc1uY3PlRaonOwEiB0Dn-KdtrJeW0TzHOMmXoTanvzRcxbUw-U2TPMLOX8FRgFIgZ0aWt0b2s
+.tiktok.com	TRUE	/	TRUE	1792150421	ssid_ucp_v1	1.0.1-KGM5ZDJkMWM4MmQ0ZmU4ZTgzMDU1N2U0M2U0YTA0OGRkOGYyYTkzOWYKIQi4iLbS7Lv8rWgQk_uSzwYYswsgDDDe5O_CBjgIQBJIBBADGgNzZzEiIDhmMTk4M2EzZDA0YmM4OTgyY2Y5YzNhMWQyMTQ0ZTQ3Mk4KIILx9fRqmlbOnU6-osFsJm3s8nMNRuzc1uY3PlRaonOwEiB0Dn-KdtrJeW0TzHOMmXoTanvzRcxbUw-U2TPMLOX8FRgFIgZ0aWt0b2s
+.tiktok.com	TRUE	/	FALSE	1808134423	tt-target-idc-sign	VAHSUn1q6WW8ytpWLEBvoHQdsDQx_pFdcRofKBIUuwdwPhIWg7dIwMBVsAwk3Q5VjrWf0X2JnjPArrhraC9fm1cOgy9pVXmhhXiCuC1NkKvp1-t6bvKSOuE5ykdm-On2AZ648wBiLwr4hd_qdOpZn7oCIWaBUdGOYTzuyJLjK0bdFA8rNQ2K2km-hR0zOV4eGaxDm3oCKiNBWwZM3tqYTRA-awqrhShTBoATBMz4CvU_cd4TmH8-F7UTyNGEtoUUZuu1f3g2Cl0JZYJSsT7w0dYjAvnA1rBTM-HMmxGHmu7R4Qtl6ov-__5z7vnnLLrdKGXWpjhqwBiKQjpwprohcW2jf3b-8M31f7lVdWDtoY03WMbi-X1O4i7O_qUd9vcDe1FKUlGva5AWD992UHV8eRh1evM7YzD0dzYqdRliod73U2Vw7K3THiOZ5yMdxuODPQ6rLG97MLLT_444VarkEguGNOHXdyyLd7sW4onurqo5bE28FmZ-1_XVAFlPyqNB
+.tiktok.com	TRUE	/	TRUE	1792150425	tt_chain_token	pMQljijaiuUhCmrlFGTgJQ==
+.tiktok.com	TRUE	/	TRUE	1792150421	tt_session_tlb_tag	sttt%7C2%7CjxmDo9BLyJgs-cOh0hROR__________Lg8Qt2EpHxxdTlGRGB333d5A3LaQP-3lGwGTr7t1jIIE%3D
+.tiktok.com	TRUE	/	TRUE	1808134427	ttwid	1%7CjT_QGzw9RMvkIgWnkOUGtSaZFLXdqeeWjz2Ww6xuWcs%7C1776598423%7C2095035e47a4fe29374f57cbab9ff35877ec789c2d5d345ef945f6636e65e914
+.tiktok.com	TRUE	/	TRUE	1792150421	uid_tt	34d199bb11fc57a53248010ee28fed71acfba7733326ac7ca05c77cc6ea91e1d
+.tiktok.com	TRUE	/	TRUE	1792150421	uid_tt_ss	34d199bb11fc57a53248010ee28fed71acfba7733326ac7ca05c77cc6ea91e1d
+.tiktok.com	TRUE	/	FALSE	1792150422	store-country-code	rs
+.tiktok.com	TRUE	/	FALSE	1792150422	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1792150422	store-country-sign	MEIEDJSxc4IfkJU6FibkSwQguRnEv45V97U4qaULijM1NatzO1DSOyIyleSUkuVnV4AEEJcHxRZw-sTJ2uBZMXIfpNo
+.tiktok.com	TRUE	/	FALSE	1792150422	store-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1792150422	tt-target-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1808135070	odin_tt	ce44ab952d1458e375b7fb80f88b0dbd9246c94a4eb0610523709f8e88aaac02b22c41e23a6e408e4c866c6c7036486d8023bede536e8b68b9f29a584e99a17f2522d1da54997731f2b4c2c68432d93a
+.tiktok.com	TRUE	/	TRUE	1784445036	msToken	0JnvKq9p4Dt4D-dwd9GKcbUtSrf1ZOyDs7jxV4QdIdG0gvACBjEjjnPZ1xVBZGBC18ots47VBNeTx1JXNcBkWRhsaU14AodoIIAbi7vDqqjAV6UWkSEA2ayUQnqdQtVWrETwMoWrrvln

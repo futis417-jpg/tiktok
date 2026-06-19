@@ -1,0 +1,36 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: mioamer2
+– Email: a***9@gmail.com
+– Mobile: +60****0103
+– Followers: 357
+– Videos: 19
+– Likes: 8206
+– Coins: 0
+– Balance: $0.01
+– CC: 0
+– Year: 2020
+– Country: US
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4684)\cookies\Cookies_ (3208).txt
+
+.tiktok.com	TRUE	/	FALSE	1800631586	d_ticket	06a430f7145adfe9b9b02130fad829732e927
+.tiktok.com	TRUE	/	TRUE	1784647588	sessionid_ss	98b6e682927ede17d25f76193994b28d
+.tiktok.com	TRUE	/	TRUE	1784647588	sessionid	98b6e682927ede17d25f76193994b28d
+.tiktok.com	TRUE	/	TRUE	1800199588	sid_guard	98b6e682927ede17d25f76193994b28d%7C1769095544%7C15552000%7CTue%2C+21-Jul-2026+15%3A25%3A44+GMT
+.tiktok.com	TRUE	/	TRUE	1784647588	sid_ucp_v1	1.0.1-KDU4NjQwYWM0MDU1YTlmOWZkZWE2NWY1MDU2NTcxZWJiZWZiOTViNmQKIQiCiJv-3djY_14Q-ILJywYYswsgDDCuu8_CBjgIQBJIBBADGgNteTIiIDk4YjZlNjgyOTI3ZWRlMTdkMjVmNzYxOTM5OTRiMjhkMk4KIDohwhs_UJq3uguRtx3aASuieapgMabE9R1IVReL8iXNEiCm0qKsqUe6JlWDNO4BcivP1D7o3PVCDTn-I_Cazn1gsBgEIgZ0aWt0b2s
+.tiktok.com	TRUE	/	TRUE	1784647588	sid_tt	98b6e682927ede17d25f76193994b28d
+.tiktok.com	TRUE	/	FALSE	1784647588	store-country-code	my
+.tiktok.com	TRUE	/	FALSE	1784647588	store-country-code-src	uid
+.tiktok.com	TRUE	/	TRUE	1784647588	ssid_ucp_v1	1.0.1-KDU4NjQwYWM0MDU1YTlmOWZkZWE2NWY1MDU2NTcxZWJiZWZiOTViNmQKIQiCiJv-3djY_14Q-ILJywYYswsgDDCuu8_CBjgIQBJIBBADGgNteTIiIDk4YjZlNjgyOTI3ZWRlMTdkMjVmNzYxOTM5OTRiMjhkMk4KIDohwhs_UJq3uguRtx3aASuieapgMabE9R1IVReL8iXNEiCm0qKsqUe6JlWDNO4BcivP1D7o3PVCDTn-I_Cazn1gsBgEIgZ0aWt0b2s
+.tiktok.com	TRUE	/	FALSE	1784647588	store-country-sign	MEIEDERXxia70iF_U7xc7wQgrW_c6SYnkuSmBeitp_XihoeGzUAfDYhPlnua79hLURkEEIMEhbv3IDdqf6MaywNC3M0
+.tiktok.com	TRUE	/	FALSE	1784647588	store-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1784647588	tt-target-idc	alisg
+.tiktok.com	TRUE	/	TRUE	1784647591	tt_chain_token	EXhCU95jvDl7VdhX5OC1gg==
+.tiktok.com	TRUE	/	TRUE	1784647588	tt_session_tlb_tag	sttt%7C4%7CmLbmgpJ-3hfSX3YZOZSyjf________-3ZUQP7Y5knM60ZWbC1kZCIF30zIz4DR2WDvTxfNypTQM%3D
+.tiktok.com	TRUE	/	TRUE	1800631593	ttwid	1%7COeZ-IWGhday5tDN0pgFBFcevbnNfbhyf7vQTlFYwaO0%7C1769095548%7C9d0244bb2d556e222d0bee96728c90d6e3d8c4be52fa80e18c54271ef0a6a6ad
+.tiktok.com	TRUE	/	FALSE	1800631589	tt-target-idc-sign	oEz2tyEfb6IKB1Qu3cVNXMWW9KkOV8FI83O1F6UN8F3WoHsHHLrSDVTvMU5ejWFehZJrMk3Z3Hp3tAkeLVZ8mvEiiMaq1Znpf8xWxUmbq24O45bqBK-u5M4bwsAY-AtlrpiIybqxrSd1K7p9taoCzjrflhhpbWxzVi0ZUq_19fnbuBYoFTBN1aE4xwDx2Wob7pGKkvux__h5MaS1b4WsXUXYd1qydnDv_pf_fW35TnvS8V3lr3u_OwFknGZ49SC4XhK8IUaTAScSIm-Yax1J6nI4Wb9YAtUr_WwyrT_xtlNpApOJFehlpWga2ToT7UWtPU-o5hcu7TcdaeIXwBjeXn3AXisbMbk8xIizjsE9-poO1iRd9yJPuODekfsEyeZspbNZ_eRD7Mz-RmeBbYh3l8O2lHho5KHSY7LN9ueC3BWAMC4g5p6CeKLZ8mP3E2OjkN5FOwGqbD9ZmWnWH75DJHj7zncN0pT1aXWpzQBil4YwIw3hJndf3YJhh2-8z_qx
+.tiktok.com	TRUE	/	TRUE	1784647588	uid_tt	de50832b30e82850cfbfae377390c63abcb3a2dfb07ca1b3284ab949b16f988b
+.tiktok.com	TRUE	/	FALSE	1800632792	odin_tt	91e40137a70a7204edd52a24ac01ea7d39d18bc6dceafc15a19882e6396bf39e4395dd2fa9bee937a3c5765437d684f4e39db33e1dc551bf2e13a1a10ff03b8221fc141c80a2b6ebc2cf2460adcc198e
+.tiktok.com	TRUE	/	TRUE	1804601521	_ttp	39ZZOVDNEdeyr52pIcNyxQFyOYh
+.tiktok.com	TRUE	/	TRUE	1784647588	uid_tt_ss	de50832b30e82850cfbfae377390c63abcb3a2dfb07ca1b3284ab949b16f988b

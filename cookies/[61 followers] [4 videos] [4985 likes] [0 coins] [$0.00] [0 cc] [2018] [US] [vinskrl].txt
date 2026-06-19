@@ -1,0 +1,38 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: vinskrl
+– Email: v***8@gmail.com
+– Mobile: +63****5902
+– Followers: 61
+– Videos: 4
+– Likes: 4985
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2018
+– Country: US
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4338)\Cookies\Google Chrome_Default.txt
+
+.tiktok.com	TRUE	/	FALSE	1787319810	_ga_GR6VLNH8D4	GS1.1.1752759773.1.0.1752759810.0.0.1995963370
+.tiktok.com	TRUE	/	FALSE	1787837168	_ga	GA1.1.GA1.1.799967084.1752759774
+.tiktok.com	TRUE	/	FALSE	1787847513	_ga_LWWPCY99PB	GS1.1.1753287513.7.0.1753287513.0.0.264357819
+.tiktok.com	TRUE	/	FALSE	1790195960	tt-target-idc-sign	YYR29KFijxjdWn7LGyhQBcwQLtI2yFb9YN5xyk9_sEd19SDNgS6jOLuUVtsLY6O0RrPFkdmZH4tfrM40gH2UHPUzGCRKMBo14Rrf0QvKMbwcWMxETWTIuvXJ4EzacY7ZQBDb3zVcQMQc2jWG9vN1s8Dy-5BNhMuXqennre7zjL2TJAirFPXD4lUQtrlb8iK3L4UgOgz30nRIDupAPP9a0aH9Dvnxkcs9y5skVdfDkZ8CvDyOi6Fn8ijh-UOXK2V3HMexURQLwMu6myJ3xWj2QCHfSbRVUhhg9AbEyq2wegzf2PWPzaRxphsf5uWCuWooSMCWdVW5s6IIu5HY40hwUpQ1v5l0VbjU1-UxiaNZmQz5KR_3H7WH7c669BOlcVBvFDBXUYHV2qHHPcNvbnZafY7HYTK5vmNfNPXjv-TH0oSxNYD6l7bIbZYlcfiXk0sxe5APPx64GQTZnF4dqMSGyjszGAD1WN9o3wwf-0IWOPKbEHqspDIxc3RxX1VxDopB
+.tiktok.com	TRUE	/	TRUE	1802686917	ttwid	1%7CV7pesV2kX_vQOR9tR-lXmrNh9hfAa0HxThfe6YykEPs%7C1771150917%7C163ddf7094c92157fee136dc02fd8585c7b9fa81e1b9f1adde80496e7625f275
+.tiktok.com	TRUE	/	TRUE	1786702915	tt_chain_token	hOkyWllH4D9ps2R94nWycg==
+.tiktok.com	TRUE	/	TRUE	1786702924	sessionid	f5ccf7cfac41b8dc4c27b0c9135e28f6
+.tiktok.com	TRUE	/	TRUE	1786702924	sessionid_ss	f5ccf7cfac41b8dc4c27b0c9135e28f6
+.tiktok.com	TRUE	/	TRUE	1802254924	sid_guard	f5ccf7cfac41b8dc4c27b0c9135e28f6%7C1771150924%7C15552000%7CFri%2C+14-Aug-2026+10%3A22%3A04+GMT
+.tiktok.com	TRUE	/	FALSE	1802686926	odin_tt	a775fce1ad1660e8c2141b2b0a125cd4f1e3c16beb85aa22cff0d7b3cefbaec3bb25ab86656f4cb381d935c5b35b49a4542829e10def8f42565150fc871b11a5e06665cdc4b797e05cc86f1bcb8d10dc
+.tiktok.com	TRUE	/	TRUE	1786702924	sid_tt	f5ccf7cfac41b8dc4c27b0c9135e28f6
+.tiktok.com	TRUE	/	FALSE	1786702924	store-country-code	ph
+.tiktok.com	TRUE	/	TRUE	1786702924	ssid_ucp_v1	1.0.1-KGNmN2YxM2E1OGM4YTZkMDRkOWFjMmNlZWNiZDVmMjI5YmRiZTgwNzUKGgiBgJL0yYSHm1sQzLzGzAYYsws4BkDvB0gEEAMaAm15IiBmNWNjZjdjZmFjNDFiOGRjNGMyN2IwYzkxMzVlMjhmNjJOCiBVRd83XD4O82C4I3MDkZy_gV03TZDaKQ8mSoch4upizRIgiLKeVMSHFcVns3G8hE_GINeATHvGkm8rFCZkKdLBxI8YAyIGdGlrdG9r
+.tiktok.com	TRUE	/	FALSE	1786702924	store-country-code-src	uid
+.tiktok.com	TRUE	/	TRUE	1786702924	sid_ucp_v1	1.0.1-KGNmN2YxM2E1OGM4YTZkMDRkOWFjMmNlZWNiZDVmMjI5YmRiZTgwNzUKGgiBgJL0yYSHm1sQzLzGzAYYsws4BkDvB0gEEAMaAm15IiBmNWNjZjdjZmFjNDFiOGRjNGMyN2IwYzkxMzVlMjhmNjJOCiBVRd83XD4O82C4I3MDkZy_gV03TZDaKQ8mSoch4upizRIgiLKeVMSHFcVns3G8hE_GINeATHvGkm8rFCZkKdLBxI8YAyIGdGlrdG9r
+.tiktok.com	TRUE	/	FALSE	1786702924	store-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1786702924	store-country-sign	MEIEDAq9zGaEwXDCibz_KAQgwz7amZtuUb7NRta6VNZ8hl7TSYDa4rfLTA6k2_F4r0gEEGHT9CqXGPOhoRsk7y-Bp_s
+.tiktok.com	TRUE	/	FALSE	1786702924	tt-target-idc	alisg
+.tiktok.com	TRUE	/	TRUE	1786702924	tt_session_tlb_tag	sttt%7C3%7C9cz3z6xBuNxMJ7DJE14o9v________-viecCnZbBPSvDhP5HEe0-Sc7iY5dyFRpDOlxAJUCPSMs%3D
+.tiktok.com	TRUE	/	TRUE	1786702924	uid_tt	81983646239d42ccf96deda10cdeef121c397ca33caa0a97a6feb8d9d19d59e2
+.tiktok.com	TRUE	/	TRUE	1786702924	uid_tt_ss	81983646239d42ccf96deda10cdeef121c397ca33caa0a97a6feb8d9d19d59e2
+.tiktok.com	TRUE	/	TRUE	1813411538	_ttp	28Hg5MFK9FzDoR0f2e8byjCm2r5

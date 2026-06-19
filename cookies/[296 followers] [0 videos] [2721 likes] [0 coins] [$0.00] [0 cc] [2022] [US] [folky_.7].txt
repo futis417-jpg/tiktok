@@ -1,0 +1,35 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: folky_.7
+– Email: x***3@gmail.com
+– Mobile: 
+– Followers: 296
+– Videos: 0
+– Likes: 2721
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2022
+– Country: US
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4816)\Cookies\Google Chrome_Default.txt
+
+.tiktok.com	TRUE	/	TRUE	1790173070	sessionid	bdca9b7f29b3a26018ddb46089989986
+.tiktok.com	TRUE	/	TRUE	1790173070	sessionid_ss	bdca9b7f29b3a26018ddb46089989986
+.tiktok.com	TRUE	/	TRUE	1805725071	sid_guard	bdca9b7f29b3a26018ddb46089989986%7C1774621071%7C15551999%7CWed%2C+23-Sep-2026+14%3A17%3A50+GMT
+.tiktok.com	TRUE	/	TRUE	1790173070	sid_tt	bdca9b7f29b3a26018ddb46089989986
+.tiktok.com	TRUE	/	TRUE	1790173070	sid_ucp_v1	1.0.1-KGUwN2UyNzI5Mjg2YTI3ZjY1ZmRmMDEyZGIwMTU3YmY4MjFiNDAwYTIKIQiBiJfKpPiWuWAQj6OazgYYswsgDDC3qd7CBjgIQBJIBBADGgJteSIgYmRjYTliN2YyOWIzYTI2MDE4ZGRiNDYwODk5ODk5ODYyTgogpcHWSJGXdfGr1owpzkZaaF3hCDBM981I0T9YWzBXVH0SIHzcvWP1eH1kvNYVsHWJFH0xEY88R2sG5eBMhF7cg3AUGAIiBnRpa3Rvaw
+.tiktok.com	TRUE	/	TRUE	1790173070	ssid_ucp_v1	1.0.1-KGUwN2UyNzI5Mjg2YTI3ZjY1ZmRmMDEyZGIwMTU3YmY4MjFiNDAwYTIKIQiBiJfKpPiWuWAQj6OazgYYswsgDDC3qd7CBjgIQBJIBBADGgJteSIgYmRjYTliN2YyOWIzYTI2MDE4ZGRiNDYwODk5ODk5ODYyTgogpcHWSJGXdfGr1owpzkZaaF3hCDBM981I0T9YWzBXVH0SIHzcvWP1eH1kvNYVsHWJFH0xEY88R2sG5eBMhF7cg3AUGAIiBnRpa3Rvaw
+.tiktok.com	TRUE	/	TRUE	1790173070	tt_session_tlb_tag	sttt%7C2%7CvcqbfymzomAY3bRgiZiZhv_________l9v3V28BSphzJhFj0loNMx8gjk9zEzvn49QA7EqrE1DA%3D
+.tiktok.com	TRUE	/	TRUE	1790173070	uid_tt_ss	afae184ee82c6371d418a08b4b5771e4cb1b01ada7e3b5405123f271cab2034d
+.tiktok.com	TRUE	/	TRUE	1790173070	uid_tt	afae184ee82c6371d418a08b4b5771e4cb1b01ada7e3b5405123f271cab2034d
+.tiktok.com	TRUE	/	FALSE	1807028700	tt-target-idc-sign	qfBe2VWx7mlkSOYZBXORndvesDJQnKKc0N2r_p9fOJKjjPOdexShHc_oXt9tF4lVvvAHmx-ECqSfw1b8aWWzGx1Wnneb32of0ckqXuORd7fCzmYQ-b-zqfhDwyMtBHyVy5QjR_TFeSHYRxFbCS6XX2nACYvSaWFsnfkBwzaXdqPK9DKhrNtDomm5t8ozB_I_majGX36-4tjOG73ubswyoL7eVF2nsldLVzE2IbZ3-o3MbU7lGUXHtdaqr504ebR-UUKt8RmPzuiTLOPvabxNYtIfWpFqOeB_W0na5CEwEBA1kVql2BdUxKOeySW8dL2KOkPkHyN33--Si_RZoybXTLG7OU6hbpX71LFUsQ3nGRPh5QMtNsM3rfnXRnw8nLcBch2U7bLvnnOre9i6GY3tlfFjKtEb7Uf8udq1oRL4EQ25XZ51saHbMwX2TWc4naNHmbWObeN47wBC_R7UFWJ5SNtVP0t179o6QBGqGHh9UdBneUA75Q3WG0P7cpDJlrFr
+.tiktok.com	TRUE	/	FALSE	1790173070	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1790173070	store-country-code	th
+.tiktok.com	TRUE	/	FALSE	1790173070	store-country-sign	MEIEDK9MNSvZp_YhRSJj-AQg6BSYixkTK7iL9taEZbxcWec_c0AbSAmlOdxtPtfhVBAEEF2Mgub22R5O6_u3lEluPXs
+.tiktok.com	TRUE	/	FALSE	1790173070	store-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1790173070	tt-target-idc	alisg
+.tiktok.com	TRUE	/	TRUE	1810998176	ttwid	1%7C__hvHezmrkb1_shrSTn9EJBRhDJeSrXtOR5Bc_Hnmc4%7C1779462176%7C72388517aee362c603fa04e04473622c9d1695d72b5a7ce8485d7774fe29c282
+.tiktok.com	TRUE	/	TRUE	1795014166	tt_chain_token	4Jx/tu4uZeYJEPneP9Ah/g==
+.tiktok.com	TRUE	/	FALSE	1811000855	odin_tt	93a23558f1eafe73ea897963253c6651a6b4251419985396571a3bc6048f4f306cdb65f28432710cd856a83999ab2c70a86da91aae6bcfe4b8a022238cd7e788bbcc4c2c94d4703929ce554acbd1d71e
+.tiktok.com	TRUE	/	TRUE	1814537669	_ttp	3B7mBqLoFZPjuMiiwZ67WgFxKv6

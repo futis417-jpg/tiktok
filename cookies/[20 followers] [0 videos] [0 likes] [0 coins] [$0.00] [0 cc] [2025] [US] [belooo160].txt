@@ -1,0 +1,38 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: belooo160
+– Email: 
+– Mobile: 
+– Followers: 20
+– Videos: 0
+– Likes: 0
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2025
+– Country: US
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4246)\Cookies\Google Chrome_Default.txt
+
+.tiktok.com	TRUE	/	TRUE	1784445036	cmpl_token	AgQYAPO7_hfkTtK2JIBX37ZdP_O18hzHFv-XMGCgTMc
+.tiktok.com	TRUE	/	TRUE	1784445036	multi_sids	7357314919802635270%3A28c9d813fb84438a1950f69249ad3c4c
+.tiktok.com	TRUE	/	TRUE	1792215591	sessionid	28c9d813fb84438a1950f69249ad3c4c
+.tiktok.com	TRUE	/	TRUE	1792215591	sessionid_ss	28c9d813fb84438a1950f69249ad3c4c
+.tiktok.com	TRUE	/	TRUE	1807767591	sid_guard	28c9d813fb84438a1950f69249ad3c4c%7C1776663594%7C15552000%7CSat%2C+17-Oct-2026+05%3A39%3A54+GMT
+.tiktok.com	TRUE	/	TRUE	1792215591	sid_tt	28c9d813fb84438a1950f69249ad3c4c
+.tiktok.com	TRUE	/	TRUE	1792215591	sid_ucp_v1	1.0.1-KGQwZTY4MmMxMzhmZjMyYjA2ZGE5OTdlOTViNzk1ZDgyZmNmMGQwODMKIQiGiJK8hd6bjWYQqviWzwYYswsgDDCT3umwBjgIQApIBBADGgJteSIgMjhjOWQ4MTNmYjg0NDM4YTE5NTBmNjkyNDlhZDNjNGMyTgoguFJZUbwByOKtr5EYmRnaRJ-9it6Kn4dk-TDM-n7A7A0SIC1MKKLyY9OmY8V8UcBBUSbXwEWwwGKNoR-LITYa_6pdGAMiBnRpa3Rvaw
+.tiktok.com	TRUE	/	TRUE	1792215591	ssid_ucp_v1	1.0.1-KGQwZTY4MmMxMzhmZjMyYjA2ZGE5OTdlOTViNzk1ZDgyZmNmMGQwODMKIQiGiJK8hd6bjWYQqviWzwYYswsgDDCT3umwBjgIQApIBBADGgJteSIgMjhjOWQ4MTNmYjg0NDM4YTE5NTBmNjkyNDlhZDNjNGMyTgoguFJZUbwByOKtr5EYmRnaRJ-9it6Kn4dk-TDM-n7A7A0SIC1MKKLyY9OmY8V8UcBBUSbXwEWwwGKNoR-LITYa_6pdGAMiBnRpa3Rvaw
+.tiktok.com	TRUE	/	TRUE	1792215591	tt_session_tlb_tag	sttt%7C1%7CKMnYE_uEQ4oZUPaSSa08TP_________C6fCvdhs9ZuZNXT8WoIBYrSKnzsfzEMARSxyMA2h0CRo%3D
+.tiktok.com	TRUE	/	TRUE	1792215591	uid_tt	abc11dc83dbc7fcbeb043c8eb74cd413b397838b143b5b1210527ad1e18ba912
+.tiktok.com	TRUE	/	TRUE	1792215591	uid_tt_ss	abc11dc83dbc7fcbeb043c8eb74cd413b397838b143b5b1210527ad1e18ba912
+.tiktok.com	TRUE	/	FALSE	1809243178	tt-target-idc-sign	kXTeQvJEdmTVQNMPb-CvtJFoeZm2yVhNSEyljsGVr-kJEGNt-APTBLcG5yk8QPoSB1KKhyItYCWgFm-0MZofo_WjGLsj5kTbGoGTlsn45yCyyw4-8vXXE1H4bgqejR25XElILTZy-NkKUYSmK8OrQIdF6d10fhBngM263-d44y0PMMcxt2OJchyGWnG_W1aX7ubW4_1tUqUsJcszOA8CP_guXdwYAD4Qelet8yoOXCfwSRoJq2kJ1Y1KjOF8UbFahmDnAWXfxQHkhOCUSGID1w0nTrb9kMQIt2ZP7sqoW2K8xGh00Np0-40Xez_xI3kpEW0WHRzxLMx7Ck-xWDWrFQIY0c4q4JBvLfj58GhhlBxpaNPRy46Urd8-62ui4BgNEfBHqf0_oxFkveABMb91CGPJWdst0JGn8gcpPkrZljnqjedt6hoWZcAOPMjpXydagxzXZLQ3-77x0tvZlWQZUP79LjwBBEVGRSL-4YzPqy3qHwlPEmu-xW6BmoHY30IG
+.tiktok.com	TRUE	/	TRUE	1795603454	tt_chain_token	eVhcbU6+xZ7tGwY60CYjYQ==
+.tiktok.com	TRUE	/	FALSE	1811587469	odin_tt	71cb569ddeb978546930f5b5f6918d2bb431bc517e7b230c0439d50aa57d99fa39da7d8c694931f56e257a55a90517db0c31f92468f50164f9779735688cc42e
+.tiktok.com	TRUE	/	FALSE	1792215585	store-country-code	ph
+.tiktok.com	TRUE	/	FALSE	1792215585	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1792215585	store-country-sign	MEIEDNCRyEYGm3DQbwgdogQgK0qsvxYWIwcmmvfxW8g1gprK2RZFKG6NqnkMrm5K5y8EEGfUMSzAgf5R6grFSUNjgzg
+.tiktok.com	TRUE	/	FALSE	1792215585	store-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1792215585	tt-target-idc	alisg
+.tiktok.com	TRUE	/	TRUE	1811587473	ttwid	1%7CHnK2OFKflzX8wrKb5yoniR3aLZYRHcOmZEvwHRh488E%7C1780051483%7Cf1743fdad576b41e22b0cad6db7f742d1ec9cc95f83f406a06d7599d5d339596
+.tiktok.com	TRUE	/	TRUE	1784445036	msToken	ZDjGJewnq_nrBRjuJuWFIiP9eMjy0TqSODCZfQwY4Y7tQghAp665Uca_TqgK_AmAZ9t6LOgEzKaw1ceznsjvKSf9MQaFALkp0X_MeZqPekeMXJryBpG76KYv_NtP5pxuo1uZuWUGPU9KaUhjx4BYQRun
+.tiktok.com	TRUE	/	TRUE	1814152988	_ttp	3Bq4JaEWyqbcR40rC9fJ7iQphLo

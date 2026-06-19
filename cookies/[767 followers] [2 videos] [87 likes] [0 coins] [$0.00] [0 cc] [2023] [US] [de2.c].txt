@@ -1,0 +1,44 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: de2.c
+– Email: a***1@gmail.com
+– Mobile: 
+– Followers: 767
+– Videos: 2
+– Likes: 87
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2023
+– Country: US
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4664)\Cookies\Google Chrome_Default.txt
+
+.tiktok.com	TRUE	/	FALSE	1804718191	d_ticket	191d7667ee98755b80fb999843f789bee1b35
+.tiktok.com	TRUE	/	TRUE	1784445036	cmpl_token	AgQYAPO__hfkTtK1Z5rCLHXdMfPRAt_NGH-SNGCg9B0
+.tiktok.com	TRUE	/	TRUE	1784445036	multi_sids	7302996250654606344%3Affce73c18b5998813684cbe968d3deb8
+.tiktok.com	TRUE	/	TRUE	1790629068	sessionid	ffce73c18b5998813684cbe968d3deb8
+.tiktok.com	TRUE	/	TRUE	1806181068	sid_guard	ffce73c18b5998813684cbe968d3deb8%7C1775077066%7C15552000%7CMon%2C+28-Sep-2026+20%3A57%3A46+GMT
+.tiktok.com	TRUE	/	TRUE	1790629068	sessionid_ss	ffce73c18b5998813684cbe968d3deb8
+.tiktok.com	TRUE	/	TRUE	1790629068	sid_tt	ffce73c18b5998813684cbe968d3deb8
+.tiktok.com	TRUE	/	TRUE	1790629068	sid_ucp_v1	1.0.1-KDNmZWRmMDU3MDYyODE1OGU3MjU4OTg4ZTNjYWI3ZTMzZjk1ZTJmMzQKIgiIiJyi2ozdrGUQyo22zgYYswsgDDD06eWqBjgHQPQHSAQQAxoDc2cxIiBmZmNlNzNjMThiNTk5ODgxMzY4NGNiZTk2OGQzZGViODJOCiAsJOS2FwZ4Oi-cG4HYFjkpGeFS1Z-Dz_pe9f-4B3sYzhIgkPxnPQLDmRycFkE9RFMqxwRwHRVOUdeutQyIVf5C_XgYAiIGdGlrdG9r
+.tiktok.com	TRUE	/	TRUE	1790629068	ssid_ucp_v1	1.0.1-KDNmZWRmMDU3MDYyODE1OGU3MjU4OTg4ZTNjYWI3ZTMzZjk1ZTJmMzQKIgiIiJyi2ozdrGUQyo22zgYYswsgDDD06eWqBjgHQPQHSAQQAxoDc2cxIiBmZmNlNzNjMThiNTk5ODgxMzY4NGNiZTk2OGQzZGViODJOCiAsJOS2FwZ4Oi-cG4HYFjkpGeFS1Z-Dz_pe9f-4B3sYzhIgkPxnPQLDmRycFkE9RFMqxwRwHRVOUdeutQyIVf5C_XgYAiIGdGlrdG9r
+.tiktok.com	TRUE	/	TRUE	1790629068	tt_session_tlb_tag	sttt%7C5%7C_85zwYtZmIE2hMvpaNPeuP_________e44PxJWbY7eke8dgmnW6-8O5eZs5BwDjHMOYj8YGPET0%3D
+.tiktok.com	TRUE	/	TRUE	1790629068	uid_tt	1f41426e9bb93632a2520e1ac86f097457adf1fabb7d0afc82a13dd105148f97
+.tiktok.com	TRUE	/	TRUE	1790629068	uid_tt_ss	1f41426e9bb93632a2520e1ac86f097457adf1fabb7d0afc82a13dd105148f97
+.tiktok.com	TRUE	/	TRUE	1782287249	FPAU	1.2.1248106259.1774511243
+.tiktok.com	TRUE	/	FALSE	1810281157	_ga	GA1.1.14919911.1774511253
+.tiktok.com	TRUE	/	TRUE	1783497162	_fbp	fb.1.1774511243308.1971255883
+.tiktok.com	TRUE	/	FALSE	1810281183	_ga_GR6VLNH8D4	GS1.1.1775720978.2.1.1775721183.0.0.229523049
+.tiktok.com	TRUE	/	TRUE	1810258090	_ttp	30yV7NpIBIrvPd4CYDAt5n2wJES
+.tiktok.com	TRUE	/	FALSE	1811695900	odin_tt	54fbe7c0d09bfbdcccfbd2f0b41a59643759ba270956244d32b9ec996cb3644e46d0d871bf7f20f25606a09d2dff277cc0a82bfa66800ccc4cfd4abd3590251ef4362649f3a679248fc2d119fe0230d3
+.tiktok.com	TRUE	/	FALSE	1811695899	store-country-code	sa
+.tiktok.com	TRUE	/	FALSE	1811695899	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1811695899	store-country-sign	MEIEDOeVD8meW4m4S6_lBgQgS8c-0HxHYsZlKfW4OBccF-7fZZsOQffDy4_c0qHE-LIEEGz--q3SOx-EkgKGIcIlX7I
+.tiktok.com	TRUE	/	FALSE	1811695899	store-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1811695899	tt-target-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1811695899	tt-target-idc-sign	Ti-bkGaR8b0r_aBI5CbsMQFF67r51PK6MCFkjCA1AIq4r1imlA9TPtj_B9Xg7KlSyBH0YKxuwBJHcYE3AnkXgqPUGuxnwv8WBpN2A9WU8cJfTglPSPpu2aZgUD9aFyexTlRene8fmyA-9vbGSLWtUQRweebomk5eUnXVsUu2_hMj4O17EhPQhmELgeLQfGPb9QMzKP8kbLa3kboYZGOJBPC2mvN1cXYz19AJ5A1vRwbfcv50mzzCxnG4-mynuyeHLDZ3XVNXVGvRTi_DHDEFRIcpfBNWDjI0p7vuXaZXZBtbarb9yhpo4J1Asq7I_hnaLvxptpIamNS4-u6-MYZyD2rUg_VD4Rv4JCp8xjKoUw1x_n4-0qRryt_UZjLmNeMbKL9ywFiOJ0XOtcjeN5L8nYODw_MqEwLdUJSse8yjmTOSVT5-NuOGe4XsGv3FyxECsO7fkJIPabzSsIhdtIdGitQZz8yifKE0PHTZ6BZGVwUpSe4dAqPY2s-Sv8Yk02WU
+.tiktok.com	TRUE	/	TRUE	1795711884	tt_chain_token	9cZGGAv5eRDvv2zDDqeM2g==
+.tiktok.com	TRUE	/	TRUE	1813855919	cookie-consent	{%22optional%22:false%2C%22ga%22:false%2C%22af%22:false%2C%22fbp%22:false%2C%22lip%22:false%2C%22bing%22:false%2C%22ttads%22:false%2C%22reddit%22:false%2C%22hubspot%22:false%2C%22version%22:%22v10%22}
+.tiktok.com	TRUE	/	TRUE	1811695894	ttwid	1%7CuRifv_Cemc8d_XuCEp_ku9nLFO-VW-iG-khoUpkUO4M%7C1780159893%7C7bb6d1190a308e0a5935ce40634a3a7aff60a86ebb7e543953c70fa9b129325e
+.tiktok.com	TRUE	/	TRUE	1784445036	msToken	cYki90mj88GQGEbh0WVglTzpwLK8FdAr5g3EHUbaEG_Ay83P7CE8J2aQOkAgABS0cbKQkwdJXkwQYD-psbtCnP_Zl__R5u_Nn8GbmuOvykfAl2gXfMTsrZm8WQ6dJtAN4X2c-06A7xUoVgc=

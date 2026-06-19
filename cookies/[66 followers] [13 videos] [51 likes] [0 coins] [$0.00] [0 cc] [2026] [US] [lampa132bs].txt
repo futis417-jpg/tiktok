@@ -1,0 +1,33 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: lampa132bs
+– Email: k***4@gmail.com
+– Mobile: 
+– Followers: 66
+– Videos: 13
+– Likes: 51
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2026
+– Country: US
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4464)\Browser\Cookies\TikTok_LIVE_Studio_-_Network_Network_[C4D3].txt
+
+.tiktok.com	TRUE	/	TRUE	1786027898	multi_sids	7633871276205425686%3A2999f412a39bdd0ae26cf65398bdd215
+.tiktok.com	TRUE	/	TRUE	1786027897	sessionid	2999f412a39bdd0ae26cf65398bdd215
+.tiktok.com	TRUE	/	TRUE	1786027897	sessionid_ss	2999f412a39bdd0ae26cf65398bdd215
+.tiktok.com	TRUE	/	TRUE	1811947898	sid_guard	2999f412a39bdd0ae26cf65398bdd215%7C1780843913%7C5183999%7CThu%2C+06-Aug-2026+14%3A51%3A52+GMT
+.tiktok.com	TRUE	/	TRUE	1786027897	sid_tt	2999f412a39bdd0ae26cf65398bdd215
+.tiktok.com	TRUE	/	TRUE	1786027897	sid_ucp_v1	1.0.1-KGJkZGU0YWJiMGRmNzNjNjRmYzdjNTJmMGNiMDQ2ZTYyMTkxYmI0ZTIKGAiWiKH6rK-9-GkQiYuW0QYY90A4B0D0BxAFGgRubzFhIiAyOTk5ZjQxMmEzOWJkZDBhZTI2Y2Y2NTM5OGJkZDIxNTJOCiC8Z3hYIdLt5dhWUHvI1gs04LwK3gLftLBcP2NCBBdg_hIgziDbeqpEi0z2LWSoPuVUcWUW8pUm-eRae3307ycre6oYAiIGdGlrdG9r
+.tiktok.com	TRUE	/	TRUE	1786027897	ssid_ucp_v1	1.0.1-KGJkZGU0YWJiMGRmNzNjNjRmYzdjNTJmMGNiMDQ2ZTYyMTkxYmI0ZTIKGAiWiKH6rK-9-GkQiYuW0QYY90A4B0D0BxAFGgRubzFhIiAyOTk5ZjQxMmEzOWJkZDBhZTI2Y2Y2NTM5OGJkZDIxNTJOCiC8Z3hYIdLt5dhWUHvI1gs04LwK3gLftLBcP2NCBBdg_hIgziDbeqpEi0z2LWSoPuVUcWUW8pUm-eRae3307ycre6oYAiIGdGlrdG9r
+.tiktok.com	TRUE	/	TRUE	1786027897	tt_session_tlb_tag	sttt%7C5%7CKZn0EqOb3QribPZTmL3SFf_________zPNRI1S6tEtEd2Mnk-a6w2WlJEn-W9Sxyr71ENu8iBxk%3D
+.tiktok.com	TRUE	/	TRUE	1786027897	uid_tt	1ea18ce59445df27a9fbe3b807179ca2c97af304722ab74ac7c0179c87a22cda
+.tiktok.com	TRUE	/	TRUE	1786027897	uid_tt_ss	1ea18ce59445df27a9fbe3b807179ca2c97af304722ab74ac7c0179c87a22cda
+.tiktok.com	TRUE	/	TRUE	1784445036	msToken	2S15_-O_5Bq0hcgMZk00nFFgdXTolOsUaPcrhB6xu4i_0P0L3yB3OXUxBIQRFJY-ESal-d1QieDQmq2Oz9ugLQMGIi8AeKPwpS3Onkgz3_Wb
+.tiktok.com	TRUE	/	TRUE	1812379898	tt-target-idc	eu-ttp2
+.tiktok.com	TRUE	/	TRUE	1812379898	tt-target-idc-sign	NwVDQRWfXsQynBq4Wmjv4GSGDqJ3YtAH5PxH7auBQCUk-XUpDKgC7BVcdf5jxypUFdo24EjQ6G5PbqLd2fjG-5mdy_d4baOf29Ui7aYmWE_Xo501g7rn_d15lSim2C4PoG5gu_-_e-UVmahBq-wRMGFU7Efp4ePO_v6rPOC6u2j6B6LZKB7IqYo5TvI0ALaa5_3IGvPfYO5dEey3qX6PMTMFegswStvZ1KLu9XgxECfUzh92w-GDRyX8diF7Im77xKYynGXK3-LDh6hT6q7nl0sp_ImGuDJNiiaSEvFVPgyN8T-i5wDmip7_R8RaqtFcUWKcvQi1qqFc1p0D2_p5NArjrl7WVSuHb1t4E90ciEJTV59iaRbsjtHUxCnFuDQhEowwNssd4ilTSPOQjD2_5SJ8VyN_3DDP7BoSf54EtW_G1TnHsOMCDpKtfBIT1AfZXy2MHi6zS5nuExOgJQ0iVqFPLfKNVwtSBZqH9HZQDAdXMWRD1mIvAJkE4QCQObR8
+.tiktok.com	TRUE	/	FALSE	1812379913	store-country-code	pl
+.tiktok.com	TRUE	/	FALSE	1812379913	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1812379913	store-country-sign	MEIEDIta-ny3gavKD2VfogQgRm9hH4YG_z-JX5Idw44MR-wdYh880NVIxh9sblUxoTEEEHzFnfQNDAk8sojB74v-2uE
+.tiktok.com	TRUE	/	FALSE	1812379913	store-idc	no1a

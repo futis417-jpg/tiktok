@@ -1,0 +1,38 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: raihanif2810
+– Email: r***f@gmail.com
+– Mobile: 
+– Followers: 79
+– Videos: 17
+– Likes: 187
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2024
+– Country: US
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4721)\Cookies\Google Chrome_Default.txt
+
+.tiktok.com	TRUE	/	FALSE	1789125768	_ga	GA1.1.1852622501.1732539849
+.tiktok.com	TRUE	/	FALSE	1789125770	_ga_LWWPCY99PB	GS1.1.1754565768.9.0.1754565770.0.0.470604389
+.tiktok.com	TRUE	/	TRUE	1814360882	_ttp	2lW1LsBUFt2pUDbQg2gxEY1h8uU
+.tiktok.com	TRUE	/	TRUE	1796289713	sessionid	20b08f470d63b98551303baba8f6b03b
+.tiktok.com	TRUE	/	TRUE	1796289713	sessionid_ss	20b08f470d63b98551303baba8f6b03b
+.tiktok.com	TRUE	/	TRUE	1811841713	sid_guard	20b08f470d63b98551303baba8f6b03b%7C1780737713%7C15552000%7CThu%2C+03-Dec-2026+09%3A21%3A53+GMT
+.tiktok.com	TRUE	/	TRUE	1796289713	sid_tt	20b08f470d63b98551303baba8f6b03b
+.tiktok.com	TRUE	/	TRUE	1796289713	sid_ucp_v1	1.0.1-KDVlNjY2ZmQxMzBiOGQ2NzBmZmFjYWIzOTg3YTZiMDhmMDYyMmE3YjkKIQiQiIqwr-XfpGYQsc2P0QYYswsgDDDL_qWyBjgIQBJIBBADGgJteSIgMjBiMDhmNDcwZDYzYjk4NTUxMzAzYmFiYThmNmIwM2IyTgog2s8VFsE_lRZ42Gy7xyNmCyIXEpVOmn7x2LKhQbLnHh8SIH32xjIuLf9aeynDZqM2BpmKRMEqEKAcAbpsqdZgAQ5nGAQiBnRpa3Rvaw
+.tiktok.com	TRUE	/	TRUE	1796289713	ssid_ucp_v1	1.0.1-KDVlNjY2ZmQxMzBiOGQ2NzBmZmFjYWIzOTg3YTZiMDhmMDYyMmE3YjkKIQiQiIqwr-XfpGYQsc2P0QYYswsgDDDL_qWyBjgIQBJIBBADGgJteSIgMjBiMDhmNDcwZDYzYjk4NTUxMzAzYmFiYThmNmIwM2IyTgog2s8VFsE_lRZ42Gy7xyNmCyIXEpVOmn7x2LKhQbLnHh8SIH32xjIuLf9aeynDZqM2BpmKRMEqEKAcAbpsqdZgAQ5nGAQiBnRpa3Rvaw
+.tiktok.com	TRUE	/	TRUE	1796289713	tt_session_tlb_tag	sttt%7C3%7CILCPRw1juYVRMDurqPawO__________I38amaABtHZXilz5Gf_YPH2VXEfTiq-cIuSohTBQXzdY%3D
+.tiktok.com	TRUE	/	TRUE	1796289713	uid_tt	8c660b3aaea086770a042b277bf130a303900ab75a9ee374cf4ae1ffa86e5315
+.tiktok.com	TRUE	/	TRUE	1796289713	uid_tt_ss	8c660b3aaea086770a042b277bf130a303900ab75a9ee374cf4ae1ffa86e5315
+.tiktok.com	TRUE	/	FALSE	1796289713	store-country-code	id
+.tiktok.com	TRUE	/	FALSE	1796289713	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1796289713	store-country-sign	MEIEDOk8Sc_opqvE8_82jgQgGKhedwF0xexGHrILyHbZ5Eio1uaDvHyLoHza06d2CVkEEKZ6pglktNXv2qgQUfkx2AM
+.tiktok.com	TRUE	/	FALSE	1796289713	store-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1796289713	tt-target-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1812273744	tt-target-idc-sign	szxicaZtXUxogEFkPULR3bsGeJW-C3h1xQx5Yk7o93h9MPZOhddN6IsYIo-ajsSu4Ngzmf23BnPvt5zBELYUST1f3h3qgOC1nOFgpm6YFMx3z010dyV0Vkx5lAtsoJ_pZ1Ku4iRUHKEhkSgMnvsUwGtVQFwNU_JJXNDWTrdO3-_zsAYV39U4jB7fWD1XBRXkuDKn0xORuLPpa2dpcbGKm1zmniL8iQ-lNb3FsQOVCXp7yz3d4LPe6IvzVlySlbjb63YMBsLQMx_x5ach8YVRBdXvfbJgd46sSBHbgsDiTigfh-_5ihFJPJL7Xj360HcW-jf1nguMvkiD5xbJAdwfrPv2m_S5-d5GAoZFKDIducmUDc2a7MOaX6TrD1RputyH_PfxwhUr0aBLx-HlbPWeisPxMHMVvZGfi46PzR_InDLrxsieqf1_5O1oOj1xTtg-1ya7scGSWJSGBM0i3Ie4yIV2q3q75FY9G-jFh_CXHj3H6wYPkDLp4Q-LvcJPrI1W
+.tiktok.com	TRUE	/	TRUE	1796289740	tt_chain_token	LBGsThKk+Zf/JoSs4kVCWQ==
+.tiktok.com	TRUE	/	TRUE	1812273745	ttwid	1%7CXfx-FxPR9cqmjSdzqRxyqgfJC9gyBZ1Ip2F7oNaNNUs%7C1780737745%7C05e20d5d5b4d28fba3ef5db8022e69e270d1027d2c3a92e1f3755a7ef3b0213a
+.tiktok.com	TRUE	/	FALSE	1812285072	odin_tt	953b1ecc2d27de84a33df39017317590fc7315554e2a47a183c1e0fbf48aac1eae1dcc4f4a2421a5b8ba9eb6758454f7bc1a9117ff336fdda1cc48df11b0bd010667cd637ff71c7069d95ae397df0012
+.tiktok.com	TRUE	/	TRUE	1784445036	msToken	efn91jWw-TPG-L6J8C9EbrYvk9-a8mkKBXQSsy2NVADDGxaLr4E1SrN_aSAVmpoEAct8d0C96NFNMB2WRbfpLEZcjxVRhCM01PF6WRJqYgpKleckWSpSOHPQ-Mmaqo2hMLVCbmIUIOyzgtmCTzaTKDsboNWM6Q==

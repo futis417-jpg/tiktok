@@ -1,0 +1,37 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: mtech.chonburi
+– Email: m***i@gmail.com
+– Mobile: 
+– Followers: 331
+– Videos: 189
+– Likes: 2861
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2025
+– Country: US
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4820)\Cookies\Firefox_0.txt
+
+.tiktok.com	TRUE	/	TRUE	1784445036	multi_sids	7502325391597929480%3Ae2d7de9f605e8ffae08e401d429b73c6
+.tiktok.com	TRUE	/	TRUE	1784445036	cmpl_token	AgQYAPOC_hfkTtK4I3OWW6RdMfPO9iz72b-SCWChdHE
+.tiktok.com	TRUE	/	TRUE	1804208978	sid_guard	e2d7de9f605e8ffae08e401d429b73c6%7C1773104977%7C15552000%7CSun%2C+06-Sep-2026+01%3A09%3A37+GMT
+.tiktok.com	TRUE	/	TRUE	1788656978	uid_tt	ed87308a2d95e7aba6f0ca3de195c04383ff32a54c8dc2a609b7cf318967439f
+.tiktok.com	TRUE	/	TRUE	1788656978	uid_tt_ss	ed87308a2d95e7aba6f0ca3de195c04383ff32a54c8dc2a609b7cf318967439f
+.tiktok.com	TRUE	/	TRUE	1788656978	sid_tt	e2d7de9f605e8ffae08e401d429b73c6
+.tiktok.com	TRUE	/	TRUE	1788656978	sessionid	e2d7de9f605e8ffae08e401d429b73c6
+.tiktok.com	TRUE	/	TRUE	1788656978	sessionid_ss	e2d7de9f605e8ffae08e401d429b73c6
+.tiktok.com	TRUE	/	TRUE	1788656978	tt_session_tlb_tag	sttt%7C4%7C4tfen2Bej_rgjkAdQptzxv_________wswAf8GgZnty3cc-6ODtA6xAD9i-HHj6I7pbmbtL6s_M%3D
+.tiktok.com	TRUE	/	TRUE	1788656978	sid_ucp_v1	1.0.1-KDQ2NzBlMmRhMTJlZmMyNDk0Njc3MDUxNWM4OGZkN2ZjZGNkZDFmNWEKIgiIiNqcnabnjmgQ0d69zQYYswsgDDC-u_bABjgHQPQHSAQQAxoDc2cxIiBlMmQ3ZGU5ZjYwNWU4ZmZhZTA4ZTQwMWQ0MjliNzNjNjJOCiAQKyEVe3FF6lvZ4Kh_YdORvl-GYCRYCa1fDTjVo940QRIgOwOGROT2eLXbUCDjOwJSvdSLhnBwdzw0yb2AQ02LjvcYASIGdGlrdG9r
+.tiktok.com	TRUE	/	TRUE	1788656978	ssid_ucp_v1	1.0.1-KDQ2NzBlMmRhMTJlZmMyNDk0Njc3MDUxNWM4OGZkN2ZjZGNkZDFmNWEKIgiIiNqcnabnjmgQ0d69zQYYswsgDDC-u_bABjgHQPQHSAQQAxoDc2cxIiBlMmQ3ZGU5ZjYwNWU4ZmZhZTA4ZTQwMWQ0MjliNzNjNjJOCiAQKyEVe3FF6lvZ4Kh_YdORvl-GYCRYCa1fDTjVo940QRIgOwOGROT2eLXbUCDjOwJSvdSLhnBwdzw0yb2AQ02LjvcYASIGdGlrdG9r
+.tiktok.com	TRUE	/	FALSE	1804640978	tt-target-idc-sign	S6iEmJGJ3MO1qgFdCOuJ8RSElIjSZseEB_cPmnBAk2HEEuFTWCanLG8p5sTo2vTaecJAS9YRAd3ei0z4XR3IobhrgAqqwonjenTJVfwKj1OE4vRW4q06lig1DFM9eLS40xjoiXPuaDgkoSouaIy-1m3KHXzw7XQe3jBtfarsyHmpgqtXoHO6sxGBb2jcdrVyo8RG_VuXgXzj9y_JE9ptfuIGbQzFr_eGMyu2ZBtXqf-elnOAuHywgM5xRngYfo9YQ0mFcbDHIBDbbwXwKs2Fm0rmvMVKFWFBqA52zMF3fkGG68kmjU3FvW8hsk9_XGzHQhBujsXwMoaNy5e09NUaXuOwATo3lRzMOhbVmDodLVJPFYOxZ-X56_od3xyzg_xlISCCvHMupX7r1r3lq1Hd2_CVJ8nPG1QDbDbGBwmkxxfXOwOoBcFXB2YT4XgdEAh4Wzc-JaFySG_LoTW6wOlgRmlfLh_ehP06TL1_ch-FWlejDy-esWN_FtmdcldARLKp
+.tiktok.com	TRUE	/	TRUE	1804640981	ttwid	1%7CDzWe7QNGAOAzhc3QgILHLfqX4LD2XFZIkphzcrno3Po%7C1773104981%7C8b309bc741827e4ebcbc12969d57989603153031e20ed133e657b36b214136ea
+.tiktok.com	TRUE	/	FALSE	1788656978	store-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1788656978	store-country-sign	MEIEDN86uPZZG4bN-ySwJgQgKZr662eU-lPexDJ6RBpqwcs40XZst66mkDRLyV0NNp8EEDNZ9W6MEwgcek3CXZLvDOo
+.tiktok.com	TRUE	/	FALSE	1788656978	store-country-code	th
+.tiktok.com	TRUE	/	FALSE	1788656978	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1788656978	tt-target-idc	alisg
+.tiktok.com	TRUE	/	TRUE	1790165954	tt_chain_token	cSYpH4AKFGciP5EEXq66oA==
+.tiktok.com	TRUE	/	FALSE	1806195759	odin_tt	f5ac9f6a82ea4ef03ac43edd5ce4ab3604eaefe7adef484dd9469ba86176c8129fb121cf0b8d1b19e12d0601b8ddb99e2344e5d04563782aa95b2212e2ea0cfb565acca82db2b6cc2b9e7b5007456513
+.tiktok.com	TRUE	/	TRUE	1784445036	msToken	VowZtl8Noew4AOhwUDG60exshkzrCLbVaiNmciBHL16cTPy-5kK-kY08HImHRBXMAugUD3TQvwLFdeKltG4yXrCoI-0Ob-APHFsyztZYIjbEF7_rK8Dhg-EteJ2aZhqpGxdN5jnidkw=

@@ -1,0 +1,44 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: glibcio_87
+– Email: g***2@gmail.com
+– Mobile: 
+– Followers: 174
+– Videos: 35
+– Likes: 373
+– Coins: 0
+– Balance: $0.19
+– CC: 0
+– Year: 2023
+– Country: US
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4457)\Cookies\Microsoft Edge_Default.txt
+
+.tiktok.com	TRUE	/	FALSE	1790524445	_ga_LWWPCY99PB	GS1.1.1755964418.52.1.1755964445.0.0.2011428411
+.tiktok.com	TRUE	/	TRUE	1800640681	cookie-consent	{%22optional%22:true%2C%22ga%22:true%2C%22af%22:true%2C%22fbp%22:true%2C%22lip%22:true%2C%22bing%22:true%2C%22ttads%22:true%2C%22reddit%22:true%2C%22hubspot%22:true%2C%22version%22:%22v10%22}
+.tiktok.com	TRUE	/	FALSE	1801424821	d_ticket	c3f6efdb8001d24b7704c5751d0065c7e12a1
+.tiktok.com	TRUE	/	TRUE	1783621616	cmpl_token	AgQQAPPyF-RO0rS4B-25Y10j-PP4j4XUv4d5YKffRg
+.tiktok.com	TRUE	/	TRUE	1783621616	multi_sids	7243733555536299034%3A6e63a8024c5e6a7c5efe2469254a1727
+.tiktok.com	TRUE	/	TRUE	1793989616	sessionid_ss	6e63a8024c5e6a7c5efe2469254a1727
+.tiktok.com	TRUE	/	TRUE	1793989616	sessionid	6e63a8024c5e6a7c5efe2469254a1727
+.tiktok.com	TRUE	/	TRUE	1793989616	sid_tt	6e63a8024c5e6a7c5efe2469254a1727
+.tiktok.com	TRUE	/	TRUE	1809541616	sid_guard	6e63a8024c5e6a7c5efe2469254a1727%7C1778437616%7C15552000%7CFri%2C+06-Nov-2026+18%3A26%3A56+GMT
+.tiktok.com	TRUE	/	TRUE	1793989616	sid_ucp_v1	1.0.1-KGY0MzZlOTliMGI3NjI2MThmYzI0OTZjNzVmZmQ2YWYxMzQwNjYzYWMKIQiaiMaKo6m6w2QQ8JuD0AYYswsgDDCe05ukBjgIQBJIBBAFGgRubzFhIiA2ZTYzYTgwMjRjNWU2YTdjNWVmZTI0NjkyNTRhMTcyNzJOCiCef37Hz8NNGuNEyOgERqeyT-j3M8HF1UeAvSXCPQsuqhIg9ncyIQBW2IgoypQLkGlxdPRzEB2KmXeZgCiZaFrPvaMYBCIGdGlrdG9r
+.tiktok.com	TRUE	/	TRUE	1793989616	tt_session_tlb_tag	sttt%7C4%7CbmOoAkxeanxe_iRpJUoXJ_________-yVbxAdV6QMVU79OM0PEVllNpd1tl7rnMidmFXuMhhAQ0%3D
+.tiktok.com	TRUE	/	TRUE	1793989616	uid_tt	74015ff0baba7e9269dd2f0874cf772a603a7bfa63e6ccb4bdc6021d52b4b8db
+.tiktok.com	TRUE	/	TRUE	1793989616	uid_tt_ss	74015ff0baba7e9269dd2f0874cf772a603a7bfa63e6ccb4bdc6021d52b4b8db
+.tiktok.com	TRUE	/	TRUE	1793989616	ssid_ucp_v1	1.0.1-KGY0MzZlOTliMGI3NjI2MThmYzI0OTZjNzVmZmQ2YWYxMzQwNjYzYWMKIQiaiMaKo6m6w2QQ8JuD0AYYswsgDDCe05ukBjgIQBJIBBAFGgRubzFhIiA2ZTYzYTgwMjRjNWU2YTdjNWVmZTI0NjkyNTRhMTcyNzJOCiCef37Hz8NNGuNEyOgERqeyT-j3M8HF1UeAvSXCPQsuqhIg9ncyIQBW2IgoypQLkGlxdPRzEB2KmXeZgCiZaFrPvaMYBCIGdGlrdG9r
+.tiktok.com	TRUE	/	TRUE	1786213656	_fbp	fb.1.1778437651467.1365120472
+.tiktok.com	TRUE	/	FALSE	1812997650	_ga	GA1.1.98782199.1736697720
+.tiktok.com	TRUE	/	FALSE	1812997779	_ga_GR6VLNH8D4	GS1.1.1778437650.1.1.1778437779.0.0.20213905
+.tiktok.com	TRUE	/	FALSE	1810040424	tt-target-idc-sign	B1lGdiJnA3TvgjtAi75_wTPhJRf15TNFjYaMvfzDQyTkrTbfEN7ro4bL7p-PnVWp_NMkPF_CCyGqeh3vjo-47nBMsPCZ_QExk-2bUXe5lP5RLfky_GyZZEYAyI3LcwU2ut_oLT8YPyMk97Ao5Z_0FXSlJ0uOL9xsgVaWU9ESbBUAQV4pfvk-B6cGe0ODOJqOMTpz1KX884yHzkwW2wzfWpMQXwFBB5MsYlvYHZ0j_b7SprqWX-X1QvvWTDNYZkHQMZAqCrOoAFurnDmb8_8YJ6r4gbfOVQpXhWniWzTneoanzdKRytLo7_LK0GESLu1C5wpVQL2UHCGDIipz9scwVqfri-6E0KZCNsY2lnKI1JYVPNtdA_2hpHv_t8wbaF_KCg6vyoLx7zrBoQL0OnLKph17mP6va72--N8lR4hQ-ZuaQ41kbqMs442KFG50F2W0K0eyUTovWFl06wEBREM5KSLPo_LVtR8Lu5e91or2PHBpv5KJCXWeU8XQIyHfqezK
+.tiktok.com	TRUE	/	TRUE	1789127923	_ttp	308jTK5n26l5a01OM1zMPB0PeJM
+.tiktok.com	TRUE	/	FALSE	1793989614	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1793989614	store-country-code	pl
+.tiktok.com	TRUE	/	FALSE	1793989614	store-country-sign	MEIEDG0imX98VreixGD7bgQgI3Gew5L9Qrt2F87zijVAF_WKrWyeW3dagzjXnmrl8wgEENsAMGQLpkFchdix1GeI4Js
+.tiktok.com	TRUE	/	FALSE	1793989614	store-idc	no1a
+.tiktok.com	TRUE	/	FALSE	1793989614	tt-target-idc	eu-ttp2
+.tiktok.com	TRUE	/	TRUE	1796913987	tt_chain_token	ADWuAE1eak8yzGvfxmGjTw==
+.tiktok.com	TRUE	/	TRUE	1812897991	ttwid	1%7C8qNe-7g-aG56tQhzfJIvH-ySOB3Nr6crE5Kd2Ef-kVc%7C1781361992%7Cccbe37746f42c9160228c7f8508823a2344f2d6cd5e39be4bb1f89274a5d867b
+.tiktok.com	TRUE	/	FALSE	1812902494	odin_tt	f68d35a1ec953936b2869d7f9a31e5ad040299a235acf8eaa3ac0c40f438c01686f4d66709416de078e78f95f6cff711840c202540ecb2cfaeb0be64eb87abc3e8c0d8c357a873ea466b0056a4768f77
+.tiktok.com	TRUE	/	TRUE	1782230540	msToken	FuxpF2mxOKHDJMAFfafZa7qhVvU2JoAhQAvsMiID7yViL8AQlKpNJ5vbZX6_8F_r3l2W1ygZgv5YftDfV8UCScavaUsbcnolIsE9OZR2UQPtJl56FT2k-b9TkqPSyj3TcUmbyJlWgIOYiznOpNVj8siGnw==

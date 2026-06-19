@@ -1,0 +1,35 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: ds_dreamsan
+– Email: t***q@gmail.com
+– Mobile: +66****5351
+– Followers: 19
+– Videos: 0
+– Likes: 0
+– Coins: 1
+– Balance: $0.00
+– CC: 0
+– Year: 2020
+– Country: TH
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4774)\Chrome\Profile 2\Cookies.txt
+
+.tiktok.com	TRUE	/	TRUE	1787012503	sessionid	742e80c8781dd6d705a8f37ebbc7a828
+.tiktok.com	TRUE	/	TRUE	1787012503	sessionid_ss	742e80c8781dd6d705a8f37ebbc7a828
+.tiktok.com	TRUE	/	TRUE	1802564503	sid_guard	742e80c8781dd6d705a8f37ebbc7a828%7C1771460505%7C15552000%7CTue%2C+18-Aug-2026+00%3A21%3A45+GMT
+.tiktok.com	TRUE	/	TRUE	1787012503	sid_tt	742e80c8781dd6d705a8f37ebbc7a828
+.tiktok.com	TRUE	/	TRUE	1787012503	sid_ucp_v1	1.0.1-KDlkOTJkZTI5ODg2NjA1MjNmM2MwM2RhYzAzYzNkZTUyNzBjZWNiZWEKIgiCiNCQs4TPil4Qma_ZzAYYswsgDDC29ZLEBjgHQPQHSAQQAxoDbXkyIiA3NDJlODBjODc4MWRkNmQ3MDVhOGYzN2ViYmM3YTgyODJOCiBvoVEdTWa8TUr_rb21eP_LR5qKGih-qGelT0ixVV_q_RIgCjOTR_34dBegIo-YdGx9L1stoB2XaxosASKN1Yu-2MQYAyIGdGlrdG9r
+.tiktok.com	TRUE	/	TRUE	1787012503	ssid_ucp_v1	1.0.1-KDlkOTJkZTI5ODg2NjA1MjNmM2MwM2RhYzAzYzNkZTUyNzBjZWNiZWEKIgiCiNCQs4TPil4Qma_ZzAYYswsgDDC29ZLEBjgHQPQHSAQQAxoDbXkyIiA3NDJlODBjODc4MWRkNmQ3MDVhOGYzN2ViYmM3YTgyODJOCiBvoVEdTWa8TUr_rb21eP_LR5qKGih-qGelT0ixVV_q_RIgCjOTR_34dBegIo-YdGx9L1stoB2XaxosASKN1Yu-2MQYAyIGdGlrdG9r
+.tiktok.com	TRUE	/	TRUE	1787012503	tt_session_tlb_tag	sttt%7C5%7CdC6AyHgd1tcFqPN-u8eoKP_________Rj0GdDlIHwbib2RV904Zi5vRy-QwmjfDO0Yp6RLjHWV4%3D
+.tiktok.com	TRUE	/	TRUE	1787012503	uid_tt	5c1958c74a73f8a8cf37fb2f4865453f4700470bf1d95d8fdb34a88e05a8e35d
+.tiktok.com	TRUE	/	TRUE	1787012503	uid_tt_ss	5c1958c74a73f8a8cf37fb2f4865453f4700470bf1d95d8fdb34a88e05a8e35d
+.tiktok.com	TRUE	/	FALSE	1787012504	store-country-code	th
+.tiktok.com	TRUE	/	FALSE	1787012504	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1787012504	store-country-sign	MEIEDOfoyF25YhqCksXkQwQgiSf7Qh_AYT18wNfeiOtpdP-6Kttvu7BAxQ8hYYD27t0EEPhlK_TopoHeMYL1Jy_9Tes
+.tiktok.com	TRUE	/	FALSE	1787012504	store-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1787012504	tt-target-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1802999526	tt-target-idc-sign	jGMgzzZcZICIui0q2M3B2e7NZ9-p0b75OpJX2PSSoUsVJyxQGUzHn9XJP_eT_650rB6VkvQs_POU84AjdH4n4rMUMQp2JHsIYw5ukvtTtVjpAgb-Sk_zL9FUFNq30mdfyCrKW0VJsLSMvmZ5fRRq5DfycDvVF78ieaV0O9WuXLKqzeYPv-E1rcIjzxCEpYiKZk4U2nrSJO-LHouDps4Fite1hBjShX_enOr2Bymjd5m9U3QUyROvsIFposoUk15mefT-cGsWd5PxTeXIOUNjJvdmnYBnvYXhWwtfMmjqbgFRYHeKJqQtRDJkFAsevgzv1sTc08iXS6ksEP7uI9mPj5xFIDsxKarZ7gvKYky7zSPNpRLGuH3PD3aTC-0p1Vu6CPAK2qsPAEKF62AZ7i6npSHX0R43OP9Vzr5MafH5GMczexuAZx7CxIVjau18iFnEyMn7zhcI2nPGTiEMf9Durl6hYHuAymRTOUiBybnupJvt1YbWRjHJEcWw-eNSluq9
+.tiktok.com	TRUE	/	FALSE	1806666086	odin_tt	f1b599f5ff391589c16d2dcbd4d310a737bbbd480f1e1edf5d08365e2c1ef7c7d2c24d5edfe1caa03b04dd341661a770605c2888bf7abb222891f10f7381f0df33c2797cea541c616fc9a1eb6e188688
+.tiktok.com	TRUE	/	TRUE	1790682081	tt_chain_token	NxgYI99oDJ22GxWRIhVKkQ==
+.tiktok.com	TRUE	/	TRUE	1806666082	ttwid	1%7Cbco49v4_MqFewqG9MMKg405gyXysbvGPiPkQQC0Rr_U%7C1775130102%7C21e3f3eee10c7d5a6c40d0119b2eec2337dd876aac5cba0c75b650ad63c2b500
+.tiktok.com	TRUE	/	TRUE	1811552048	_ttp	34EIpGb2n8xwEJ2wlWYo2wfMIn3

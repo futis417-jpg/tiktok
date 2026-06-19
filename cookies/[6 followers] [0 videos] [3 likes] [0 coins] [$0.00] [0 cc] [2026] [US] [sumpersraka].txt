@@ -1,0 +1,42 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: sumpersraka
+– Email: s***r@proton.me
+– Mobile: 
+– Followers: 6
+– Videos: 0
+– Likes: 3
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2026
+– Country: US
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4441)\Cookies\Opera GX_Default.txt
+
+.tiktok.com	TRUE	/	TRUE	1810646482	cookie-consent	{%22optional%22:true%2C%22ga%22:true%2C%22af%22:true%2C%22fbp%22:true%2C%22lip%22:true%2C%22bing%22:true%2C%22ttads%22:true%2C%22reddit%22:true%2C%22hubspot%22:true%2C%22version%22:%22v10%22}
+.tiktok.com	TRUE	/	TRUE	1782654045	cmpl_token	AgQQAPPyF-RO0rmeXBnXuJ0v84VoJ6auP4B5YKeQQA
+.tiktok.com	TRUE	/	FALSE	1809006045	d_ticket	7e5ae61a05dcfa97b4d407e62ee8b8deaa11a
+.tiktok.com	TRUE	/	TRUE	1782654045	multi_sids	7611279900972565526%3Aa99823a5de34ab5c5205a33540b9151b
+.tiktok.com	TRUE	/	TRUE	1793022045	sessionid_ss	a99823a5de34ab5c5205a33540b9151b
+.tiktok.com	TRUE	/	TRUE	1793022045	sessionid	a99823a5de34ab5c5205a33540b9151b
+.tiktok.com	TRUE	/	TRUE	1808574045	sid_guard	a99823a5de34ab5c5205a33540b9151b%7C1777470048%7C15552000%7CMon%2C+26-Oct-2026+13%3A40%3A48+GMT
+.tiktok.com	TRUE	/	TRUE	1793022045	sid_tt	a99823a5de34ab5c5205a33540b9151b
+.tiktok.com	TRUE	/	TRUE	1793022045	sid_ucp_v1	1.0.1-KDAxYTYzMDg4MTIwYThjMzMwZjRhNDRhN2E0M2I5NTZhNGEzYzk3MTEKIgiWiKn85des0GkQ4JTIzwYYswsgDDDa5YLNBjgBQOoHSAQQBRoEbm8xYSIgYTk5ODIzYTVkZTM0YWI1YzUyMDVhMzM1NDBiOTE1MWIyTgogH40aeude5b4Jtssn6QwPkbdH8YWb2ZIWSlE6GdW6FcESIFQKkb5Ta_Np26BWGkyTsx3guVFwtRPXsesRvlAjA1oRGAMiBnRpa3Rvaw
+.tiktok.com	TRUE	/	TRUE	1793022045	ssid_ucp_v1	1.0.1-KDAxYTYzMDg4MTIwYThjMzMwZjRhNDRhN2E0M2I5NTZhNGEzYzk3MTEKIgiWiKn85des0GkQ4JTIzwYYswsgDDDa5YLNBjgBQOoHSAQQBRoEbm8xYSIgYTk5ODIzYTVkZTM0YWI1YzUyMDVhMzM1NDBiOTE1MWIyTgogH40aeude5b4Jtssn6QwPkbdH8YWb2ZIWSlE6GdW6FcESIFQKkb5Ta_Np26BWGkyTsx3guVFwtRPXsesRvlAjA1oRGAMiBnRpa3Rvaw
+.tiktok.com	TRUE	/	TRUE	1793022045	tt_session_tlb_tag	sttt%7C4%7CqZgjpd40q1xSBaM1QLkVG_________-nipTuBpnHsxneXj-SjAtzeo-dtYo8yz2KbCraezEEMuc%3D
+.tiktok.com	TRUE	/	TRUE	1793022045	uid_tt	ab3d055d085286ef964873861a3172841b8ad77f29e0932eeb850810d6423243
+.tiktok.com	TRUE	/	TRUE	1793022045	uid_tt_ss	ab3d055d085286ef964873861a3172841b8ad77f29e0932eeb850810d6423243
+.tiktok.com	TRUE	/	TRUE	1786893983	_ttp	3Ctb4E9LaUI05I7cCsnlHkFiEqW
+.tiktok.com	TRUE	/	TRUE	1784445036	tt_csrf_token	YQFvBraY-rGVpV0VN7ClXrY9cdQgXyOuxlMI
+.tiktok.com	TRUE	/	TRUE	1784445036	msToken	YiMY7moJ5JwIHSmVpjI8p3myjdE_EJmmbGupCREXt07aa9X2Z6s6OfP-ancS0qea8jr0vNbBbQ-VyJDw5LA-EJKD3n4arlZEIJGkM2Icx5YW--jid2pB_pxh6mWhTPycg3N2BF7NPf81aHoxyU9hnedxAgI=
+.tiktok.com	TRUE	/	TRUE	1784445036	s_v_web_id	verify_mok3r6ee_T3AzJQC5_2SBB_43kY_9SGv_i1SaHdV49E1t
+.tiktok.com	TRUE	/	FALSE	1810753825	store-country-code	pl
+.tiktok.com	TRUE	/	FALSE	1810753825	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1810753825	store-country-sign	MEIEDDkyoaUIEBY4KsvdHwQgye4RcnPu9ZxP_HetEGBcVF9eI8V9Hrvncob0mYCL8GIEEOPUH-GDvSZsHNUq9djmp5A
+.tiktok.com	TRUE	/	FALSE	1810753825	store-idc	no1a
+.tiktok.com	TRUE	/	FALSE	1810753825	tt-target-idc	eu-ttp2
+.tiktok.com	TRUE	/	FALSE	1810753825	tt-target-idc-sign	MssLiIgWj4utqJ0ioulNHI54HO6WYQImDJcHnIgx5KSF2YjEbrhJYph4lk_lo2za998nJ3hspt6KUQBM1HYPJUCAQ3-FUtD5Uk9iLbfs5Ijm-AxU7_JRC6PY2DKmwYgxaw9A_lQt5IZLHsqGZq8JKMnoksUsiX6XiLrjBBxdKd3D8W1R4njY2JeXZPPjL_bcWu3mMyY3G3vWlNNQNeNmQn0-03gE3NjXPAZj3Tl6x3dILzLKyVob8rZjD6ACRjzDluXNksrBk_uVtzDMUuCnpi2dlGAP8LmWDj_4Gk-Wy3kV1_o0rq4PG7KJLC2RSPml8Z96WRLv0qNwQD14L7-gPYWh2JHuFXYcc2fL7FSZSiGqRqEhVlGOyOUhivC9Bpvs7z9BMqeo9MCkSFmbpieo-mytZIc5GLdSmHxI5Hj7MpOqnKVKjOc1vOEKHlfHkWKNLpGdPJKWT9DW4S5oNQnoiZF-7ZQxof40hRDOtroRzsi-w6r163gLAfAAPa3Fatae
+.tiktok.com	TRUE	/	TRUE	1794769809	tt_chain_token	mgX59plOsQHSJ1pCbg+H7A==
+.tiktok.com	TRUE	/	TRUE	1810753819	ttwid	1%7CgZ41ypzpfjDUu1_ir3eBX7lPoOZWJtm_e12a5dMCwpw%7C1779217825%7C1cf9adbe80a11c9360b44776f4151551a49cdd9c23f90e72494244be7df7fbcc
+.tiktok.com	TRUE	/	FALSE	1810753848	odin_tt	4374354601035c726a1f523fb6007462f9429f7cea2c4af65b0fb76eb32e948c1e6191af1f59509e23ea01008b5232fda5aa1cc6a8cd8ef8a4cb083115b4c765cc21612884c2f1b84468fbde228d555b

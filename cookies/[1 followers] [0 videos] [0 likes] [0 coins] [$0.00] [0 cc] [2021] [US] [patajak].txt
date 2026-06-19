@@ -1,0 +1,36 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Username: patajak
+– Email: 
+– Mobile: 
+– Followers: 1
+– Videos: 0
+– Likes: 0
+– Coins: 0
+– Balance: $0.00
+– CC: 0
+– Year: 2021
+– Country: US
+– Cookies: C:\Users\propietari\Desktop\85785\0212 (4433)\Browser\Cookies\Chrome_Default_[AB1B].txt
+
+.tiktok.com	TRUE	/	TRUE	1793268276	cookie-consent	{%22optional%22:false%2C%22ga%22:false%2C%22af%22:false%2C%22fbp%22:false%2C%22lip%22:false%2C%22bing%22:false%2C%22ttads%22:false%2C%22reddit%22:false%2C%22hubspot%22:false%2C%22version%22:%22v10%22}
+.tiktok.com	TRUE	/	TRUE	1785764118	sessionid	430d0401135a406623a76e74fb06d12d
+.tiktok.com	TRUE	/	TRUE	1785764118	sessionid_ss	430d0401135a406623a76e74fb06d12d
+.tiktok.com	TRUE	/	TRUE	1801316118	sid_guard	430d0401135a406623a76e74fb06d12d%7C1770212117%7C15552000%7CMon%2C+03-Aug-2026+13%3A35%3A17+GMT
+.tiktok.com	TRUE	/	TRUE	1785764118	sid_tt	430d0401135a406623a76e74fb06d12d
+.tiktok.com	TRUE	/	TRUE	1785764118	sid_ucp_v1	1.0.1-KDAyN2ZhZDYxNDEyNzkwMDc3Yjg5OTUxZDE1M2FjMjkzNDRhMWJlNzYKIQiGiMDlwtyBxGEQlZaNzAYYswsgDDCVlo3MBjgIQBJIBBAFGgRubzFhIiA0MzBkMDQwMTEzNWE0MDY2MjNhNzZlNzRmYjA2ZDEyZDJOCiBU3es6JDV-D8BPrB7ua8AUNBWaGVHvVNpUylXXrdl01hIg_Fj0alT1F_fnhaQv5QTW8TzJZ2GSWsshivQKDEkLV4AYAiIGdGlrdG9r
+.tiktok.com	TRUE	/	TRUE	1785764118	ssid_ucp_v1	1.0.1-KDAyN2ZhZDYxNDEyNzkwMDc3Yjg5OTUxZDE1M2FjMjkzNDRhMWJlNzYKIQiGiMDlwtyBxGEQlZaNzAYYswsgDDCVlo3MBjgIQBJIBBAFGgRubzFhIiA0MzBkMDQwMTEzNWE0MDY2MjNhNzZlNzRmYjA2ZDEyZDJOCiBU3es6JDV-D8BPrB7ua8AUNBWaGVHvVNpUylXXrdl01hIg_Fj0alT1F_fnhaQv5QTW8TzJZ2GSWsshivQKDEkLV4AYAiIGdGlrdG9r
+.tiktok.com	TRUE	/	TRUE	1785764118	tt_session_tlb_tag	sttt%7C1%7CQw0EARNaQGYjp250-wbRLf________-fLQ83JOwOaIEiFMx09mZyrqMpsMUFvfmu-dNSZOiA1oU%3D
+.tiktok.com	TRUE	/	TRUE	1785764118	uid_tt	56cfbaffdad8aa37ebd0285c93b35102a6fdae800dafb1aa7f9ace6c61e7d7c1
+.tiktok.com	TRUE	/	TRUE	1785764118	uid_tt_ss	56cfbaffdad8aa37ebd0285c93b35102a6fdae800dafb1aa7f9ace6c61e7d7c1
+.tiktok.com	TRUE	/	FALSE	1803568148	tt-target-idc-sign	GoSuwl_PC6qSTyGyFGB-R_ifUNgVERI6Myw6WYlUCkd1f8eCCack6oXIy7PvF0GHFVcjoHiUosa0vRQ8X5LkNvDki2_uKG2TR3jQaySymhMTA9IiywFVQV5fBsU-UaolcS0gN6whZNtuJlE6jBucsFOnaulhhcQXZ2EjT9e0rrbGLl23CDWI5VvhLwm9mtWqHc0KWUYCs4sbP2iCb9cvEzuivz7bDmy2tKyCaAi6Zu6kfSNg5te55ryK6zuotoLDzXjulPH4nAGXored-l-BidGk-SmikbMEZnrlmzKyWENAJITFJPYMuRRE8f_S3fnWyWrIciQvwOsKcB-D7Yqtp3SIMv0QIZ1-k3KqRnbA_1gxcktJf3d79GrAo61Yv7SQdplnJlNxPOzX5h9bYG0SNvijPYJ_dMMffMbyGbqr0mHTfJrDvvrxKDkg6_SdhgJHKbSl_81nPNWEwVhjjSInJnKAIQit7VWlK1bBsL6DOyRYSulwkmZWX-tgmktqKOhb
+.tiktok.com	TRUE	/	FALSE	1807611589	odin_tt	b7be685fc1388e9dd5109c9d3f6dc7327ec052009ba391201e1833d6e15fb77dc585d7e8c1d475acd036631530d9e20fdee80e52e8bec446bec152120ebba472f6fa7ea50334d0b54a616fcdd13ed45d
+.tiktok.com	TRUE	/	FALSE	1785764117	store-country-code	pl
+.tiktok.com	TRUE	/	FALSE	1785764117	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1785764117	store-country-sign	MEIEDLiFIGL47EaKxzYvBwQgF0Xk0q3_3NQwvaWHhco_C_wonA5nhD2kMqdX_fIF8FcEEOH7hK5zedNsQxoliSNQDJA
+.tiktok.com	TRUE	/	FALSE	1785764117	store-idc	no1a
+.tiktok.com	TRUE	/	FALSE	1785764117	tt-target-idc	eu-ttp2
+.tiktok.com	TRUE	/	TRUE	1791627587	tt_chain_token	Wke6uEAfag0vRcczHAD7Nw==
+.tiktok.com	TRUE	/	TRUE	1807611589	ttwid	1%7CXC_dNFLybktkMjuz9pqN4k3yclNHr_QXaLMsp5vMAxc%7C1776075589%7C5ec271f5369df3747dd66939dbe52a65c8f955690bbaf860d37a5183707c9b0f
+.tiktok.com	TRUE	/	TRUE	1785530814	_ttp	2ziraAAC4nRpJIsltP062BNYmYM
