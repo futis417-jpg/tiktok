@@ -1,0 +1,4 @@
+python-telegram-bot20.8
+httpx0.27.0
+playwright1.42.0
+playwright-stealth1.0.6
